@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "ESNext",
+        "strict": true,
+        "downlevelIteration": true
+    },
+    "files": [
+        "build.ts"
+    ]
+}

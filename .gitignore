@@ -1,0 +1,5 @@
+.vscode/
+node_modules/
+common.j.d.ts
+common.ai.d.ts
+blizzard.j.d.ts

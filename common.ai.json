@@ -1,0 +1,5257 @@
+{
+  "types": [],
+  "globals": {
+    "ARCHMAGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hamg)"
+    },
+    "PALADIN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hpal)"
+    },
+    "MTN_KING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hmkg)"
+    },
+    "BLOOD_MAGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hblm)"
+    },
+    "AVATAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHav)"
+    },
+    "BASH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHbh)"
+    },
+    "THUNDER_BOLT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHtb)"
+    },
+    "THUNDER_CLAP": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHtc)"
+    },
+    "DEVOTION_AURA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHad)"
+    },
+    "DIVINE_SHIELD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHds)"
+    },
+    "HOLY_BOLT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHhb)"
+    },
+    "RESURRECTION": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHre)"
+    },
+    "BLIZZARD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHbz)"
+    },
+    "BRILLIANCE_AURA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHab)"
+    },
+    "MASS_TELEPORT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHmt)"
+    },
+    "WATER_ELEMENTAL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHwe)"
+    },
+    "BANISH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHbn)"
+    },
+    "FLAME_STRIKE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHfs)"
+    },
+    "SUMMON_PHOENIX": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHpx)"
+    },
+    "SIPHON_MANA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHdr)"
+    },
+    "JAINA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hjai)"
+    },
+    "MURADIN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hmbr)"
+    },
+    "GARITHOS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hlgr)"
+    },
+    "KAEL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hkal)"
+    },
+    "COPTER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hgyr)"
+    },
+    "GYRO": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "COPTER"
+    },
+    "ELEMENTAL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hwat)"
+    },
+    "FOOTMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hfoo)"
+    },
+    "FOOTMEN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FOOTMAN"
+    },
+    "GRYPHON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hgry)"
+    },
+    "KNIGHT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hkni)"
+    },
+    "MORTAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hmtm)"
+    },
+    "PEASANT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hpea)"
+    },
+    "PRIEST": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hmpr)"
+    },
+    "RIFLEMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hrif)"
+    },
+    "RIFLEMEN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "RIFLEMAN"
+    },
+    "SORCERESS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hsor)"
+    },
+    "TANK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hmtt)"
+    },
+    "STEAM_TANK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "TANK"
+    },
+    "ROCKET_TANK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hrtt)"
+    },
+    "MILITIA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hmil)"
+    },
+    "SPELL_BREAKER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hspt)"
+    },
+    "HUMAN_DRAGON_HAWK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hdhw)"
+    },
+    "BLOOD_PRIEST": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hbep)"
+    },
+    "BLOOD_SORCERESS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hbes)"
+    },
+    "BLOOD_PEASANT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nhew)"
+    },
+    "AVIARY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hgra)"
+    },
+    "BARRACKS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hbar)"
+    },
+    "BLACKSMITH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hbla)"
+    },
+    "CANNON_TOWER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hctw)"
+    },
+    "CASTLE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hcas)"
+    },
+    "CHURCH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(htws)"
+    },
+    "MAGE_TOWER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "CHURCH"
+    },
+    "GUARD_TOWER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hgtw)"
+    },
+    "HOUSE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hhou)"
+    },
+    "HUMAN_ALTAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(halt)"
+    },
+    "KEEP": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hkee)"
+    },
+    "LUMBER_MILL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hlum)"
+    },
+    "SANCTUM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hars)"
+    },
+    "ARCANE_SANCTUM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "SANCTUM"
+    },
+    "TOWN_HALL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(htow)"
+    },
+    "WATCH_TOWER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hwtw)"
+    },
+    "WORKSHOP": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(harm)"
+    },
+    "ARCANE_VAULT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hvlt)"
+    },
+    "ARCANE_TOWER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hatw)"
+    },
+    "UPG_MELEE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhme)"
+    },
+    "UPG_RANGED": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhra)"
+    },
+    "UPG_ARTILLERY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhaa)"
+    },
+    "UPG_ARMOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhar)"
+    },
+    "UPG_GOLD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhmi)"
+    },
+    "UPG_MASONRY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhac)"
+    },
+    "UPG_SIGHT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhss)"
+    },
+    "UPG_DEFEND": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhde)"
+    },
+    "UPG_BREEDING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhan)"
+    },
+    "UPG_PRAYING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhpt)"
+    },
+    "UPG_SORCERY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhst)"
+    },
+    "UPG_LEATHER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhla)"
+    },
+    "UPG_GUN_RANGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhri)"
+    },
+    "UPG_WOOD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhlh)"
+    },
+    "UPG_SENTINEL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhse)"
+    },
+    "UPG_SCATTER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhsr)"
+    },
+    "UPG_BOMBS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhgb)"
+    },
+    "UPG_HAMMERS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhhb)"
+    },
+    "UPG_CONT_MAGIC": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhss)"
+    },
+    "UPG_FRAGS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhfs)"
+    },
+    "UPG_TANK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhrt)"
+    },
+    "UPG_FLAK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhfc)"
+    },
+    "UPG_CLOUD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rhcd)"
+    },
+    "BLADE_MASTER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Obla)"
+    },
+    "FAR_SEER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ofar)"
+    },
+    "TAUREN_CHIEF": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Otch)"
+    },
+    "SHADOW_HUNTER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Oshd)"
+    },
+    "GROM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ogrh)"
+    },
+    "THRALL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Othr)"
+    },
+    "CRITICAL_STRIKE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOcr)"
+    },
+    "MIRROR_IMAGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOmi)"
+    },
+    "BLADE_STORM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOww)"
+    },
+    "WIND_WALK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOwk)"
+    },
+    "CHAIN_LIGHTNING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOcl)"
+    },
+    "EARTHQUAKE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOeq)"
+    },
+    "FAR_SIGHT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOfs)"
+    },
+    "SPIRIT_WOLF": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOsf)"
+    },
+    "ENDURANE_AURA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOae)"
+    },
+    "REINCARNATION": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOre)"
+    },
+    "SHOCKWAVE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOsh)"
+    },
+    "WAR_STOMP": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOws)"
+    },
+    "HEALING_WAVE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOhw)"
+    },
+    "HEX": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOhx)"
+    },
+    "SERPENT_WARD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOsw)"
+    },
+    "VOODOO": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AOvd)"
+    },
+    "GUARDIAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(oang)"
+    },
+    "CATAPULT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ocat)"
+    },
+    "WITCH_DOCTOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(odoc)"
+    },
+    "GRUNT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ogru)"
+    },
+    "HEAD_HUNTER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ohun)"
+    },
+    "BERSERKER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(otbk)"
+    },
+    "KODO_BEAST": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(okod)"
+    },
+    "PEON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(opeo)"
+    },
+    "RAIDER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(orai)"
+    },
+    "SHAMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(oshm)"
+    },
+    "TAUREN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(otau)"
+    },
+    "WYVERN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(owyv)"
+    },
+    "BATRIDER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(otbr)"
+    },
+    "SPIRIT_WALKER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ospw)"
+    },
+    "SPIRIT_WALKER_M": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ospm)"
+    },
+    "ORC_ALTAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(oalt)"
+    },
+    "ORC_BARRACKS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(obar)"
+    },
+    "BESTIARY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(obea)"
+    },
+    "FORGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ofor)"
+    },
+    "FORTRESS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ofrt)"
+    },
+    "GREAT_HALL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ogre)"
+    },
+    "LODGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(osld)"
+    },
+    "STRONGHOLD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ostr)"
+    },
+    "BURROW": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(otrb)"
+    },
+    "TOTEM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(otto)"
+    },
+    "ORC_WATCH_TOWER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(owtw)"
+    },
+    "VOODOO_LOUNGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ovln)"
+    },
+    "UPG_ORC_MELEE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rome)"
+    },
+    "UPG_ORC_RANGED": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rora)"
+    },
+    "UPG_ORC_ARTILLERY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Roaa)"
+    },
+    "UPG_ORC_ARMOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Roar)"
+    },
+    "UPG_ORC_WAR_DRUMS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rwdm)"
+    },
+    "UPG_ORC_PILLAGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ropg)"
+    },
+    "UPG_ORC_BERSERK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Robs)"
+    },
+    "UPG_ORC_PULVERIZE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rows)"
+    },
+    "UPG_ORC_ENSNARE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Roen)"
+    },
+    "UPG_ORC_VENOM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rovs)"
+    },
+    "UPG_ORC_DOCS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rowd)"
+    },
+    "UPG_ORC_SHAMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rost)"
+    },
+    "UPG_ORC_SPIKES": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rosp)"
+    },
+    "UPG_ORC_BURROWS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rorb)"
+    },
+    "UPG_ORC_REGEN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rotr)"
+    },
+    "UPG_ORC_FIRE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rolf)"
+    },
+    "UPG_ORC_SWALKER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rowt)"
+    },
+    "UPG_ORC_BERSERKER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Robk)"
+    },
+    "UPG_ORC_NAPTHA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Robf)"
+    },
+    "UPG_ORC_CHAOS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Roch)"
+    },
+    "OGRE_MAGI": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nomg)"
+    },
+    "ORC_DRAGON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nrwm)"
+    },
+    "SAPPER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ngsp)"
+    },
+    "ZEPPLIN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nzep)"
+    },
+    "ZEPPELIN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "ZEPPLIN"
+    },
+    "W2_WARLOCK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nw2w)"
+    },
+    "PIG_FARM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(npgf)"
+    },
+    "FOREST_TROLL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nftr)"
+    },
+    "CHAOS_GRUNT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nchg)"
+    },
+    "CHAOS_WARLOCK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nchw)"
+    },
+    "CHAOS_RAIDER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nchr)"
+    },
+    "CHAOS_PEON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ncpn)"
+    },
+    "CHAOS_KODO": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nckb)"
+    },
+    "CHAOS_GROM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Opgh)"
+    },
+    "CHAOS_BLADEMASTER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Nbbc)"
+    },
+    "CHAOS_BURROW": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ocbw)"
+    },
+    "DEATH_KNIGHT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Udea)"
+    },
+    "DREAD_LORD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Udre)"
+    },
+    "LICH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ulic)"
+    },
+    "CRYPT_LORD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ucrl)"
+    },
+    "MALGANIS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Umal)"
+    },
+    "TICHONDRIUS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Utic)"
+    },
+    "PIT_LORD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Npld)"
+    },
+    "DETHEROC": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Udth)"
+    },
+    "SLEEP": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUsl)"
+    },
+    "VAMP_AURA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUav)"
+    },
+    "CARRION_SWARM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUcs)"
+    },
+    "INFERNO": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUin)"
+    },
+    "DARK_RITUAL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUdr)"
+    },
+    "DEATH_DECAY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUdd)"
+    },
+    "FROST_ARMOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUfu)"
+    },
+    "FROST_NOVA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUfn)"
+    },
+    "ANIM_DEAD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUan)"
+    },
+    "DEATH_COIL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUdc)"
+    },
+    "DEATH_PACT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUdp)"
+    },
+    "UNHOLY_AURA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUau)"
+    },
+    "CARRION_SCARAB": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUcb)"
+    },
+    "IMPALE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUim)"
+    },
+    "LOCUST_SWARM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUls)"
+    },
+    "THORNY_SHIELD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AUts)"
+    },
+    "ABOMINATION": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(uabo)"
+    },
+    "ACOLYTE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(uaco)"
+    },
+    "BANSHEE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(uban)"
+    },
+    "PIT_FIEND": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ucry)"
+    },
+    "CRYPT_FIEND": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "PIT_FIEND"
+    },
+    "FROST_WYRM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ufro)"
+    },
+    "GARGOYLE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ugar)"
+    },
+    "GARGOYLE_MORPH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ugrm)"
+    },
+    "GHOUL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ugho)"
+    },
+    "MEAT_WAGON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(umtw)"
+    },
+    "NECRO": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(unec)"
+    },
+    "SKEL_WARRIOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(uske)"
+    },
+    "SHADE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ushd)"
+    },
+    "UNDEAD_BARGE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(uarb)"
+    },
+    "OBSIDIAN_STATUE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(uobs)"
+    },
+    "OBS_STATUE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "OBSIDIAN_STATUE"
+    },
+    "BLK_SPHINX": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ubsp)"
+    },
+    "UNDEAD_MINE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ugol)"
+    },
+    "UNDEAD_ALTAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(uaod)"
+    },
+    "BONEYARD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ubon)"
+    },
+    "GARG_SPIRE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ugsp)"
+    },
+    "NECROPOLIS_1": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027unpl\u0027 "
+    },
+    "NECROPOLIS_2": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027unp1\u0027 "
+    },
+    "NECROPOLIS_3": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027unp2\u0027 "
+    },
+    "SAC_PIT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(usap)"
+    },
+    "CRYPT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(usep)"
+    },
+    "SLAUGHTERHOUSE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(uslh)"
+    },
+    "DAMNED_TEMPLE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(utod)"
+    },
+    "ZIGGURAT_1": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027uzig\u0027 "
+    },
+    "ZIGGURAT_2": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027uzg1\u0027 "
+    },
+    "ZIGGURAT_FROST": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027uzg2\u0027 "
+    },
+    "GRAVEYARD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ugrv)"
+    },
+    "TOMB_OF_RELICS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(utom)"
+    },
+    "UPG_UNHOLY_STR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rume)"
+    },
+    "UPG_CR_ATTACK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rura)"
+    },
+    "UPG_UNHOLY_ARMOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ruar)"
+    },
+    "UPG_CANNIBALIZE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ruac)"
+    },
+    "UPG_GHOUL_FRENZY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rugf)"
+    },
+    "UPG_FIEND_WEB": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ruwb)"
+    },
+    "UPG_ABOM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ruab)"
+    },
+    "UPG_STONE_FORM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rusf)"
+    },
+    "UPG_NECROS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rune)"
+    },
+    "UPG_BANSHEE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ruba)"
+    },
+    "UPG_MEAT_WAGON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rump)"
+    },
+    "UPG_WYRM_BREATH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rufb)"
+    },
+    "UPG_SKEL_LIFE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rusl)"
+    },
+    "UPG_SKEL_MASTERY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rusm)"
+    },
+    "UPG_EXHUME": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ruex)"
+    },
+    "UPG_SACRIFICE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rurs)"
+    },
+    "UPG_ABOM_EXPL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ruax)"
+    },
+    "UPG_CR_ARMOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rucr)"
+    },
+    "UPG_PLAGUE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rupc)"
+    },
+    "UPG_BLK_SPHINX": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rusp)"
+    },
+    "UPG_BURROWING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rubu)"
+    },
+    "DEMON_HUNTER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Edem)"
+    },
+    "DEMON_HUNTER_M": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Edmm)"
+    },
+    "KEEPER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ekee)"
+    },
+    "MOON_CHICK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Emoo)"
+    },
+    "MOON_BABE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "MOON_CHICK"
+    },
+    "MOON_HONEY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "MOON_CHICK"
+    },
+    "WARDEN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ewar)"
+    },
+    "SYLVANUS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hvwd)"
+    },
+    "CENARIUS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ecen)"
+    },
+    "ILLIDAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Eevi)"
+    },
+    "ILLIDAN_DEMON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Eevm)"
+    },
+    "MAIEV": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Ewrd)"
+    },
+    "FORCE_NATURE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEfn)"
+    },
+    "ENT_ROOTS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEer)"
+    },
+    "THORNS_AURA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEah)"
+    },
+    "TRANQUILITY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEtq)"
+    },
+    "EVASION": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEev)"
+    },
+    "IMMOLATION": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEim)"
+    },
+    "MANA_BURN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEmb)"
+    },
+    "METAMORPHOSIS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEme)"
+    },
+    "SEARING_ARROWS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AHfa)"
+    },
+    "SCOUT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEst)"
+    },
+    "STARFALL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEsf)"
+    },
+    "TRUESHOT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEar)"
+    },
+    "BLINK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEbl)"
+    },
+    "FAN_KNIVES": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEfk)"
+    },
+    "SHADOW_TOUCH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEsh)"
+    },
+    "VENGEANCE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(AEsv)"
+    },
+    "WISP": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ewsp)"
+    },
+    "ARCHER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(earc)"
+    },
+    "DRUID_TALON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(edot)"
+    },
+    "DRUID_TALON_M": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(edtm)"
+    },
+    "BALLISTA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ebal)"
+    },
+    "DRUID_CLAW": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(edoc)"
+    },
+    "DRUID_CLAW_M": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(edcm)"
+    },
+    "DRYAD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(edry)"
+    },
+    "HIPPO": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ehip)"
+    },
+    "HIPPO_RIDER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ehpr)"
+    },
+    "HUNTRESS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(esen)"
+    },
+    "CHIMAERA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(echm)"
+    },
+    "ENT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(efon)"
+    },
+    "MOUNTAIN_GIANT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(emtg)"
+    },
+    "FAERIE_DRAGON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(efdr)"
+    },
+    "HIGH_ARCHER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nhea)"
+    },
+    "HIGH_FOOTMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hcth)"
+    },
+    "HIGH_FOOTMEN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "HIGH_FOOTMAN"
+    },
+    "HIGH_SWORDMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hhes)"
+    },
+    "DRAGON_HAWK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nws1)"
+    },
+    "CORRUPT_TREANT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nenc)"
+    },
+    "POISON_TREANT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nenp)"
+    },
+    "PLAGUE_TREANT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nepl)"
+    },
+    "SHANDRIS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(eshd)"
+    },
+    "ANCIENT_LORE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(eaoe)"
+    },
+    "ANCIENT_WAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(eaom)"
+    },
+    "ANCIENT_WIND": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(eaow)"
+    },
+    "TREE_AGES": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(etoa)"
+    },
+    "TREE_ETERNITY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(etoe)"
+    },
+    "TREE_LIFE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(etol)"
+    },
+    "ANCIENT_PROTECT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(etrp)"
+    },
+    "ELF_ALTAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(eate)"
+    },
+    "BEAR_DEN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(edol)"
+    },
+    "CHIMAERA_ROOST": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(edos)"
+    },
+    "HUNTERS_HALL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(edob)"
+    },
+    "MOON_WELL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(emow)"
+    },
+    "ELF_MINE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(egol)"
+    },
+    "DEN_OF_WONDERS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(eden)"
+    },
+    "ELF_FARM": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nefm)"
+    },
+    "ELF_GUARD_TOWER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(negt)"
+    },
+    "HIGH_SKY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(negm)"
+    },
+    "HIGH_EARTH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(negf)"
+    },
+    "HIGH_TOWER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(negt)"
+    },
+    "ELF_HIGH_BARRACKS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nheb)"
+    },
+    "CORRUPT_LIFE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nctl)"
+    },
+    "CORRUPT_WELL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ncmw)"
+    },
+    "CORRUPT_PROTECTOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ncap)"
+    },
+    "CORRUPT_WAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ncaw)"
+    },
+    "UPG_STR_MOON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Resm)"
+    },
+    "UPG_STR_WILD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Resw)"
+    },
+    "UPG_MOON_ARMOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rema)"
+    },
+    "UPG_HIDES": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rerh)"
+    },
+    "UPG_ULTRAVISION": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Reuv)"
+    },
+    "UPG_BLESSING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Renb)"
+    },
+    "UPG_SCOUT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Resc)"
+    },
+    "UPG_GLAIVE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Remg)"
+    },
+    "UPG_BOWS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Reib)"
+    },
+    "UPG_MARKSMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Remk)"
+    },
+    "UPG_DRUID_TALON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Redt)"
+    },
+    "UPG_DRUID_CLAW": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Redc)"
+    },
+    "UPG_ABOLISH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Resi)"
+    },
+    "UPG_CHIM_ACID": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Recb)"
+    },
+    "UPG_HIPPO_TAME": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Reht)"
+    },
+    "UPG_BOLT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Repd)"
+    },
+    "UPG_MARK_CLAW": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Reeb)"
+    },
+    "UPG_MARK_TALON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Reec)"
+    },
+    "UPG_HARD_SKIN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rehs)"
+    },
+    "UPG_RESIST_SKIN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rers)"
+    },
+    "UPG_WELL_SPRING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rews)"
+    },
+    "DEMON_GATE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ndmg)"
+    },
+    "FELLHOUND": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nfel)"
+    },
+    "INFERNAL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(ninf)"
+    },
+    "DOOMGUARD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nbal)"
+    },
+    "SATYR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nsty)"
+    },
+    "TRICKSTER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nsat)"
+    },
+    "SHADOWDANCER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nsts)"
+    },
+    "SOULSTEALER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nstl)"
+    },
+    "HELLCALLER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nsth)"
+    },
+    "SKEL_ARCHER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nska)"
+    },
+    "SKEL_MARKSMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nskm)"
+    },
+    "SKEL_BURNING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nskf)"
+    },
+    "SKEL_GIANT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nskg)"
+    },
+    "FURBOLG": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nfrl)"
+    },
+    "FURBOLG_TRACKER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nfrb)"
+    },
+    "FURBOLG_SHAMAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nfrs)"
+    },
+    "FURBOLG_CHAMP": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nfrg)"
+    },
+    "FURBOLG_ELDER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nfre)"
+    },
+    "NAGA_SORCERESS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Nngs)"
+    },
+    "NAGA_VASHJ": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hvsh)"
+    },
+    "NAGA_DRAGON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nsnp\u0027 "
+    },
+    "NAGA_WITCH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nnsw)"
+    },
+    "NAGA_SERPENT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nwgs)"
+    },
+    "NAGA_HYDRA": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(nhyc)"
+    },
+    "NAGA_SLAVE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nmpe\u0027 "
+    },
+    "NAGA_SNAP_DRAGON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "NAGA_DRAGON "
+    },
+    "NAGA_COUATL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "NAGA_SERPENT "
+    },
+    "NAGA_SIREN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "NAGA_WITCH "
+    },
+    "NAGA_MYRMIDON": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nmyr\u0027 "
+    },
+    "NAGA_REAVER": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nnmg\u0027 "
+    },
+    "NAGA_TURTLE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "NAGA_HYDRA "
+    },
+    "NAGA_ROYAL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nnrg\u0027 "
+    },
+    "NAGA_TEMPLE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nntt\u0027 "
+    },
+    "NAGA_CORAL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nnfm\u0027 "
+    },
+    "NAGA_SHRINE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nnsa\u0027 "
+    },
+    "NAGA_SPAWNING": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nnsg\u0027 "
+    },
+    "NAGA_GUARDIAN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nntg\u0027 "
+    },
+    "NAGA_ALTAR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "\u0027nnad\u0027 "
+    },
+    "UPG_NAGA_ARMOR": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rnam)"
+    },
+    "UPG_NAGA_ATTACK": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rnat)"
+    },
+    "UPG_NAGA_ABOLISH": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rnsi)"
+    },
+    "UPG_SIREN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rnsw)"
+    },
+    "UPG_NAGA_ENSNARE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Rnen)"
+    },
+    "M1": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "60"
+    },
+    "M2": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "2*60"
+    },
+    "M3": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "3*60"
+    },
+    "M4": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "4*60"
+    },
+    "M5": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "5*60"
+    },
+    "M6": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "6*60"
+    },
+    "M7": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "7*60"
+    },
+    "M8": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "8*60"
+    },
+    "M9": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "9*60"
+    },
+    "M10": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "10*60"
+    },
+    "M11": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "11*60"
+    },
+    "M12": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "12*60"
+    },
+    "M13": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "13*60"
+    },
+    "M14": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "14*60"
+    },
+    "M15": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "15*60"
+    },
+    "EASY": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "1"
+    },
+    "NORMAL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "2"
+    },
+    "HARD": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "3"
+    },
+    "INSANE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "4 "
+    },
+    "MELEE_NEWBIE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "1"
+    },
+    "MELEE_NORMAL": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "2"
+    },
+    "MELEE_INSANE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "3"
+    },
+    "ATTACK_CAPTAIN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "1"
+    },
+    "DEFENSE_CAPTAIN": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "2"
+    },
+    "BOTH_CAPTAINS": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "3"
+    },
+    "BUILD_UNIT": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "1"
+    },
+    "BUILD_UPGRADE": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "2"
+    },
+    "BUILD_EXPAND": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "3"
+    },
+    "UPKEEP_TIER1": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "50"
+    },
+    "UPKEEP_TIER2": {
+      "isConstant": true,
+      "type": "integer",
+      "isArray": false,
+      "value": "80"
+    },
+    "ai_player": {
+      "isConstant": false,
+      "type": "player",
+      "isArray": false,
+      "value": ""
+    },
+    "sleep_seconds": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": ""
+    },
+    "total_gold": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "0"
+    },
+    "total_wood": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "0"
+    },
+    "gold_buffer": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "0 "
+    },
+    "difficulty": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "NORMAL"
+    },
+    "exp_seen": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "0"
+    },
+    "racial_farm": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(hhou)"
+    },
+    "hero_id": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hamg)"
+    },
+    "hero_id2": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hmkg)"
+    },
+    "hero_id3": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "FourCC(Hpal)"
+    },
+    "skill": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "skills1": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "skills2": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "skills3": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "max_hero_level": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "0"
+    },
+    "harass_qty": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "harass_max": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "harass_units": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "harass_length": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "0"
+    },
+    "defense_qty": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "defense_units": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "defense_length": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "0"
+    },
+    "build_qty": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "build_type": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "build_item": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "build_town": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": true,
+      "value": ""
+    },
+    "build_length": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "0"
+    },
+    "campaign_gold_peons": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "5"
+    },
+    "campaign_wood_peons": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "3"
+    },
+    "campaign_basics_speed": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "5"
+    },
+    "min_creeps": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "-1"
+    },
+    "max_creeps": {
+      "isConstant": false,
+      "type": "integer",
+      "isArray": false,
+      "value": "-1"
+    },
+    "harvest_town1": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "true"
+    },
+    "harvest_town2": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "true"
+    },
+    "harvest_town3": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "true"
+    },
+    "do_campaign_farms": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "true"
+    },
+    "two_heroes": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "false"
+    },
+    "allow_air_creeps": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "false"
+    },
+    "take_exp": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "false"
+    },
+    "allow_signal_abort": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "false"
+    },
+    "ready_for_zeppelin": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "true"
+    },
+    "get_zeppelin": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "false"
+    },
+    "build_campaign_attackers": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "true"
+    },
+    "do_debug_cheats": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "false"
+    },
+    "trace_on": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "true"
+    },
+    "zep_next_wave": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "false"
+    },
+    "form_group_timeouts": {
+      "isConstant": false,
+      "type": "boolean",
+      "isArray": false,
+      "value": "true"
+    }
+  },
+  "natives": {
+    "DebugS": {
+      "takes": [
+        {
+          "name": "str",
+          "type": "string"
+        }
+      ],
+      "returns": "void"
+    },
+    "DebugFI": {
+      "takes": [
+        {
+          "name": "str",
+          "type": "string"
+        },
+        {
+          "name": "val",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "DebugUnitID": {
+      "takes": [
+        {
+          "name": "str",
+          "type": "string"
+        },
+        {
+          "name": "val",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "DisplayText": {
+      "takes": [
+        {
+          "name": "p",
+          "type": "number"
+        },
+        {
+          "name": "str",
+          "type": "string"
+        }
+      ],
+      "returns": "void"
+    },
+    "DisplayTextI": {
+      "takes": [
+        {
+          "name": "p",
+          "type": "number"
+        },
+        {
+          "name": "str",
+          "type": "string"
+        },
+        {
+          "name": "val",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "DisplayTextII": {
+      "takes": [
+        {
+          "name": "p",
+          "type": "number"
+        },
+        {
+          "name": "str",
+          "type": "string"
+        },
+        {
+          "name": "v1",
+          "type": "number"
+        },
+        {
+          "name": "v2",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "DisplayTextIII": {
+      "takes": [
+        {
+          "name": "p",
+          "type": "number"
+        },
+        {
+          "name": "str",
+          "type": "string"
+        },
+        {
+          "name": "v1",
+          "type": "number"
+        },
+        {
+          "name": "v2",
+          "type": "number"
+        },
+        {
+          "name": "v3",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "DoAiScriptDebug": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "GetAiPlayer": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetHeroId": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetHeroLevelAI": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetUnitCount": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetPlayerUnitTypeCount": {
+      "takes": [
+        {
+          "name": "p",
+          "type": "player"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetUnitCountDone": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetTownUnitCount": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "number"
+        },
+        {
+          "name": "tn",
+          "type": "number"
+        },
+        {
+          "name": "dn",
+          "type": "boolean"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetUnitGoldCost": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetUnitWoodCost": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetUnitBuildTime": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetMinesOwned": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetGoldOwned": {
+      "takes": [],
+      "returns": "number"
+    },
+    "TownWithMine": {
+      "takes": [],
+      "returns": "number"
+    },
+    "TownHasMine": {
+      "takes": [
+        {
+          "name": "townid",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "TownHasHall": {
+      "takes": [
+        {
+          "name": "townid",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "GetUpgradeLevel": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetUpgradeGoldCost": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetUpgradeWoodCost": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "GetNextExpansion": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetMegaTarget": {
+      "takes": [],
+      "returns": "unit | null"
+    },
+    "GetBuilding": {
+      "takes": [
+        {
+          "name": "p",
+          "type": "player"
+        }
+      ],
+      "returns": "unit | null"
+    },
+    "GetEnemyPower": {
+      "takes": [],
+      "returns": "number"
+    },
+    "SetAllianceTarget": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "unit"
+        }
+      ],
+      "returns": "void"
+    },
+    "GetAllianceTarget": {
+      "takes": [],
+      "returns": "unit | null"
+    },
+    "SetProduce": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "id",
+          "type": "number"
+        },
+        {
+          "name": "town",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "Unsummon": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "unit"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetExpansion": {
+      "takes": [
+        {
+          "name": "peon",
+          "type": "unit"
+        },
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "SetUpgrade": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "SetHeroLevels": {
+      "takes": [
+        {
+          "name": "func",
+          "type": "() =\u003E void"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetNewHeroes": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "PurchaseZeppelin": {
+      "takes": [],
+      "returns": "void"
+    },
+    "MergeUnits": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "a",
+          "type": "number"
+        },
+        {
+          "name": "b",
+          "type": "number"
+        },
+        {
+          "name": "make",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "ConvertUnits": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "SetCampaignAI": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SetMeleeAI": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SetTargetHeroes": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetPeonsRepair": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetRandomPaths": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetDefendPlayer": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetHeroesFlee": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetHeroesBuyItems": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetWatchMegaTargets": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetIgnoreInjured": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetHeroesTakeItems": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetUnitsFlee": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetGroupsFlee": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetSlowChopping": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetCaptainChanges": {
+      "takes": [
+        {
+          "name": "allow",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetSmartArtillery": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetReplacementCount": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "GroupTimedLife": {
+      "takes": [
+        {
+          "name": "allow",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "RemoveInjuries": {
+      "takes": [],
+      "returns": "void"
+    },
+    "RemoveSiege": {
+      "takes": [],
+      "returns": "void"
+    },
+    "InitAssault": {
+      "takes": [],
+      "returns": "void"
+    },
+    "AddAssault": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "AddDefenders": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "GetCreepCamp": {
+      "takes": [
+        {
+          "name": "min",
+          "type": "number"
+        },
+        {
+          "name": "max",
+          "type": "number"
+        },
+        {
+          "name": "flyers_ok",
+          "type": "boolean"
+        }
+      ],
+      "returns": "unit | null"
+    },
+    "StartGetEnemyBase": {
+      "takes": [],
+      "returns": "void"
+    },
+    "WaitGetEnemyBase": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "GetEnemyBase": {
+      "takes": [],
+      "returns": "unit | null"
+    },
+    "GetExpansionFoe": {
+      "takes": [],
+      "returns": "unit | null"
+    },
+    "GetEnemyExpansion": {
+      "takes": [],
+      "returns": "unit | null"
+    },
+    "GetExpansionX": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetExpansionY": {
+      "takes": [],
+      "returns": "number"
+    },
+    "SetStagePoint": {
+      "takes": [
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "AttackMoveKill": {
+      "takes": [
+        {
+          "name": "target",
+          "type": "unit"
+        }
+      ],
+      "returns": "void"
+    },
+    "AttackMoveXY": {
+      "takes": [
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "LoadZepWave": {
+      "takes": [
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicidePlayer": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "player"
+        },
+        {
+          "name": "check_full",
+          "type": "boolean"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "SuicidePlayerUnits": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "player"
+        },
+        {
+          "name": "check_full",
+          "type": "boolean"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "CaptainInCombat": {
+      "takes": [
+        {
+          "name": "attack_captain",
+          "type": "boolean"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "IsTowered": {
+      "takes": [
+        {
+          "name": "target",
+          "type": "unit"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "ClearHarvestAI": {
+      "takes": [],
+      "returns": "void"
+    },
+    "HarvestGold": {
+      "takes": [
+        {
+          "name": "town",
+          "type": "number"
+        },
+        {
+          "name": "peons",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "HarvestWood": {
+      "takes": [
+        {
+          "name": "town",
+          "type": "number"
+        },
+        {
+          "name": "peons",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "GetExpansionPeon": {
+      "takes": [],
+      "returns": "unit | null"
+    },
+    "StopGathering": {
+      "takes": [],
+      "returns": "void"
+    },
+    "AddGuardPost": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "number"
+        },
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "FillGuardPosts": {
+      "takes": [],
+      "returns": "void"
+    },
+    "ReturnGuardPosts": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CreateCaptains": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SetCaptainHome": {
+      "takes": [
+        {
+          "name": "which",
+          "type": "number"
+        },
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "ResetCaptainLocs": {
+      "takes": [],
+      "returns": "void"
+    },
+    "ShiftTownSpot": {
+      "takes": [
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "TeleportCaptain": {
+      "takes": [
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "ClearCaptainTargets": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CaptainAttack": {
+      "takes": [
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "CaptainVsUnits": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "player"
+        }
+      ],
+      "returns": "void"
+    },
+    "CaptainVsPlayer": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "player"
+        }
+      ],
+      "returns": "void"
+    },
+    "CaptainGoHome": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CaptainIsHome": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "CaptainIsFull": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "CaptainIsEmpty": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "CaptainGroupSize": {
+      "takes": [],
+      "returns": "number"
+    },
+    "CaptainReadiness": {
+      "takes": [],
+      "returns": "number"
+    },
+    "CaptainRetreating": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "CaptainReadinessHP": {
+      "takes": [],
+      "returns": "number"
+    },
+    "CaptainReadinessMa": {
+      "takes": [],
+      "returns": "number"
+    },
+    "CaptainAtGoal": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "CreepsOnMap": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "SuicideUnit": {
+      "takes": [
+        {
+          "name": "count",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideUnitEx": {
+      "takes": [
+        {
+          "name": "ct",
+          "type": "number"
+        },
+        {
+          "name": "uid",
+          "type": "number"
+        },
+        {
+          "name": "pid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "StartThread": {
+      "takes": [
+        {
+          "name": "func",
+          "type": "() =\u003E void"
+        }
+      ],
+      "returns": "void"
+    },
+    "Sleep": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "UnitAlive": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "unit"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "UnitInvis": {
+      "takes": [
+        {
+          "name": "id",
+          "type": "unit"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "IgnoredUnits": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "TownThreatened": {
+      "takes": [],
+      "returns": "boolean"
+    },
+    "DisablePathing": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SetAmphibious": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CommandsWaiting": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetLastCommand": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetLastData": {
+      "takes": [],
+      "returns": "number"
+    },
+    "PopLastCommand": {
+      "takes": [],
+      "returns": "void"
+    },
+    "MeleeDifficulty": {
+      "takes": [],
+      "returns": "number"
+    }
+  },
+  "functions": {
+    "PlayerEx": {
+      "takes": [
+        {
+          "name": "slot",
+          "type": "number"
+        }
+      ],
+      "returns": "player | null"
+    },
+    "Trace": {
+      "takes": [
+        {
+          "name": "message",
+          "type": "string"
+        }
+      ],
+      "returns": "void"
+    },
+    "TraceI": {
+      "takes": [
+        {
+          "name": "message",
+          "type": "string"
+        },
+        {
+          "name": "val",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "TraceII": {
+      "takes": [
+        {
+          "name": "message",
+          "type": "string"
+        },
+        {
+          "name": "v1",
+          "type": "number"
+        },
+        {
+          "name": "v2",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "TraceIII": {
+      "takes": [
+        {
+          "name": "message",
+          "type": "string"
+        },
+        {
+          "name": "v1",
+          "type": "number"
+        },
+        {
+          "name": "v2",
+          "type": "number"
+        },
+        {
+          "name": "v3",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "InitAI": {
+      "takes": [],
+      "returns": "void"
+    },
+    "StandardAI": {
+      "takes": [
+        {
+          "name": "heroes",
+          "type": "() =\u003E void"
+        },
+        {
+          "name": "peons",
+          "type": "() =\u003E void"
+        },
+        {
+          "name": "attacks",
+          "type": "() =\u003E void"
+        }
+      ],
+      "returns": "void"
+    },
+    "Min": {
+      "takes": [
+        {
+          "name": "A",
+          "type": "number"
+        },
+        {
+          "name": "B",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "Max": {
+      "takes": [
+        {
+          "name": "A",
+          "type": "number"
+        },
+        {
+          "name": "B",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "SetZepNextWave": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SuicideSleep": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "WaitForSignal": {
+      "takes": [],
+      "returns": "number"
+    },
+    "SetWoodPeons": {
+      "takes": [
+        {
+          "name": "count",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetGoldPeons": {
+      "takes": [
+        {
+          "name": "count",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetHarvestLumber": {
+      "takes": [
+        {
+          "name": "harvest",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetFormGroupTimeouts": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "DoCampaignFarms": {
+      "takes": [
+        {
+          "name": "state",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "GetMinorCreep": {
+      "takes": [],
+      "returns": "unit | null"
+    },
+    "GetMajorCreep": {
+      "takes": [],
+      "returns": "unit | null"
+    },
+    "GetGold": {
+      "takes": [],
+      "returns": "number"
+    },
+    "GetWood": {
+      "takes": [],
+      "returns": "number"
+    },
+    "InitBuildArray": {
+      "takes": [],
+      "returns": "void"
+    },
+    "InitAssaultGroup": {
+      "takes": [],
+      "returns": "void"
+    },
+    "InitDefenseGroup": {
+      "takes": [],
+      "returns": "void"
+    },
+    "InitMeleeGroup": {
+      "takes": [],
+      "returns": "void"
+    },
+    "PrepFullSuicide": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SetReplacements": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "StartTownBuilder": {
+      "takes": [
+        {
+          "name": "func",
+          "type": "() =\u003E void"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetBuildAll": {
+      "takes": [
+        {
+          "name": "t",
+          "type": "number"
+        },
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        },
+        {
+          "name": "town",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetBuildUnit": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetBuildNext": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetBuildUnitEx": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SecondaryTown": {
+      "takes": [
+        {
+          "name": "town",
+          "type": "number"
+        },
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SecTown": {
+      "takes": [
+        {
+          "name": "town",
+          "type": "number"
+        },
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetBuildUpgr": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetBuildUpgrEx": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetBuildExpa": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "StartUpgrade": {
+      "takes": [
+        {
+          "name": "level",
+          "type": "number"
+        },
+        {
+          "name": "upgid",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "BuildFactory": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "HallsCompleted": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "GuardSecondary": {
+      "takes": [
+        {
+          "name": "townid",
+          "type": "number"
+        },
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "GetUnitCountEx": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        },
+        {
+          "name": "only_done",
+          "type": "boolean"
+        },
+        {
+          "name": "townid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "TownCountEx": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        },
+        {
+          "name": "only_done",
+          "type": "boolean"
+        },
+        {
+          "name": "townid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "TownCountDone": {
+      "takes": [
+        {
+          "name": "base",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "TownCount": {
+      "takes": [
+        {
+          "name": "base",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "BasicExpansion": {
+      "takes": [
+        {
+          "name": "build_it",
+          "type": "boolean"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "UpgradeAll": {
+      "takes": [
+        {
+          "name": "baseid",
+          "type": "number"
+        },
+        {
+          "name": "newid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "TownCountTown": {
+      "takes": [
+        {
+          "name": "base",
+          "type": "number"
+        },
+        {
+          "name": "townid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "FoodPool": {
+      "takes": [
+        {
+          "name": "food",
+          "type": "number"
+        },
+        {
+          "name": "weak",
+          "type": "boolean"
+        },
+        {
+          "name": "id1",
+          "type": "number"
+        },
+        {
+          "name": "use1",
+          "type": "number"
+        },
+        {
+          "name": "strong",
+          "type": "boolean"
+        },
+        {
+          "name": "id2",
+          "type": "number"
+        },
+        {
+          "name": "use2",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "MeleeTownHall": {
+      "takes": [
+        {
+          "name": "townid",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "WaitForUnits": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        },
+        {
+          "name": "qty",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "StartUnit": {
+      "takes": [
+        {
+          "name": "ask_qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        },
+        {
+          "name": "town",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "WaitForTown": {
+      "takes": [
+        {
+          "name": "towns",
+          "type": "number"
+        },
+        {
+          "name": "townid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "StartExpansion": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "hall",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "OneBuildLoop": {
+      "takes": [],
+      "returns": "void"
+    },
+    "StaggerSleep": {
+      "takes": [
+        {
+          "name": "base",
+          "type": "number"
+        },
+        {
+          "name": "spread",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "BuildLoop": {
+      "takes": [],
+      "returns": "void"
+    },
+    "StartBuildLoop": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SetInitialWave": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "AddSleepSeconds": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SleepForever": {
+      "takes": [],
+      "returns": "void"
+    },
+    "PlayGame": {
+      "takes": [],
+      "returns": "void"
+    },
+    "ConvertNeeds": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "Conversions": {
+      "takes": [
+        {
+          "name": "desire",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetAssaultGroup": {
+      "takes": [
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "max",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "Interleave3": {
+      "takes": [
+        {
+          "name": "e1",
+          "type": "number"
+        },
+        {
+          "name": "m1",
+          "type": "number"
+        },
+        {
+          "name": "h1",
+          "type": "number"
+        },
+        {
+          "name": "u1",
+          "type": "number"
+        },
+        {
+          "name": "e2",
+          "type": "number"
+        },
+        {
+          "name": "m2",
+          "type": "number"
+        },
+        {
+          "name": "h2",
+          "type": "number"
+        },
+        {
+          "name": "u2",
+          "type": "number"
+        },
+        {
+          "name": "e3",
+          "type": "number"
+        },
+        {
+          "name": "m3",
+          "type": "number"
+        },
+        {
+          "name": "h3",
+          "type": "number"
+        },
+        {
+          "name": "u3",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SetMeleeGroup": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "CampaignDefender": {
+      "takes": [
+        {
+          "name": "level",
+          "type": "number"
+        },
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "CampaignDefenderEx": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "CampaignAttacker": {
+      "takes": [
+        {
+          "name": "level",
+          "type": "number"
+        },
+        {
+          "name": "qty",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "CampaignAttackerEx": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "FormGroup": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        },
+        {
+          "name": "testReady",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "WavePrepare": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "PrepTime": {
+      "takes": [],
+      "returns": "number"
+    },
+    "PrepSuicideOnPlayer": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        }
+      ],
+      "returns": "boolean"
+    },
+    "SleepUntilAtGoal": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SleepInCombat": {
+      "takes": [],
+      "returns": "void"
+    },
+    "AttackMoveXYA": {
+      "takes": [
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideOnPlayerWave": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CommonSuicideOnPlayer": {
+      "takes": [
+        {
+          "name": "standard",
+          "type": "boolean"
+        },
+        {
+          "name": "bldgs",
+          "type": "boolean"
+        },
+        {
+          "name": "seconds",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        },
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideOnPlayer": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideOnUnits": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideOnPoint": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        },
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideUntilSignal": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideOnce": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        },
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideUnitA": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideUnitB": {
+      "takes": [
+        {
+          "name": "unitid",
+          "type": "number"
+        },
+        {
+          "name": "playerid",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideUnits": {
+      "takes": [
+        {
+          "name": "u1",
+          "type": "number"
+        },
+        {
+          "name": "u2",
+          "type": "number"
+        },
+        {
+          "name": "u3",
+          "type": "number"
+        },
+        {
+          "name": "u4",
+          "type": "number"
+        },
+        {
+          "name": "u5",
+          "type": "number"
+        },
+        {
+          "name": "u6",
+          "type": "number"
+        },
+        {
+          "name": "u7",
+          "type": "number"
+        },
+        {
+          "name": "u8",
+          "type": "number"
+        },
+        {
+          "name": "u9",
+          "type": "number"
+        },
+        {
+          "name": "uA",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideUnitsEx": {
+      "takes": [
+        {
+          "name": "playerid",
+          "type": "number"
+        },
+        {
+          "name": "u1",
+          "type": "number"
+        },
+        {
+          "name": "u2",
+          "type": "number"
+        },
+        {
+          "name": "u3",
+          "type": "number"
+        },
+        {
+          "name": "u4",
+          "type": "number"
+        },
+        {
+          "name": "u5",
+          "type": "number"
+        },
+        {
+          "name": "u6",
+          "type": "number"
+        },
+        {
+          "name": "u7",
+          "type": "number"
+        },
+        {
+          "name": "u8",
+          "type": "number"
+        },
+        {
+          "name": "u9",
+          "type": "number"
+        },
+        {
+          "name": "uA",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideOnPlayerEx": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideOnUnitsEx": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        }
+      ],
+      "returns": "void"
+    },
+    "SuicideOnPointEx": {
+      "takes": [
+        {
+          "name": "easy",
+          "type": "number"
+        },
+        {
+          "name": "med",
+          "type": "number"
+        },
+        {
+          "name": "hard",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        },
+        {
+          "name": "x",
+          "type": "number"
+        },
+        {
+          "name": "y",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "ForeverSuicideOnPlayer": {
+      "takes": [
+        {
+          "name": "seconds",
+          "type": "number"
+        },
+        {
+          "name": "p",
+          "type": "player"
+        }
+      ],
+      "returns": "void"
+    },
+    "CommonSleepUntilTargetDead": {
+      "takes": [
+        {
+          "name": "target",
+          "type": "unit"
+        },
+        {
+          "name": "reform",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "SleepUntilTargetDead": {
+      "takes": [
+        {
+          "name": "target",
+          "type": "unit"
+        }
+      ],
+      "returns": "void"
+    },
+    "ReformUntilTargetDead": {
+      "takes": [
+        {
+          "name": "target",
+          "type": "unit"
+        }
+      ],
+      "returns": "void"
+    },
+    "AttackMoveKillA": {
+      "takes": [
+        {
+          "name": "target",
+          "type": "unit"
+        }
+      ],
+      "returns": "void"
+    },
+    "MinorCreepAttack": {
+      "takes": [],
+      "returns": "void"
+    },
+    "MajorCreepAttack": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CreepAttackEx": {
+      "takes": [],
+      "returns": "void"
+    },
+    "AnyPlayerAttack": {
+      "takes": [],
+      "returns": "void"
+    },
+    "ExpansionAttack": {
+      "takes": [],
+      "returns": "void"
+    },
+    "AddSiege": {
+      "takes": [],
+      "returns": "void"
+    },
+    "GetAllyCount": {
+      "takes": [
+        {
+          "name": "whichPlayer",
+          "type": "player"
+        }
+      ],
+      "returns": "number"
+    },
+    "SingleMeleeAttack": {
+      "takes": [
+        {
+          "name": "needs_exp",
+          "type": "boolean"
+        },
+        {
+          "name": "has_siege",
+          "type": "boolean"
+        },
+        {
+          "name": "major_ok",
+          "type": "boolean"
+        },
+        {
+          "name": "air_units",
+          "type": "boolean"
+        }
+      ],
+      "returns": "void"
+    },
+    "GetZeppelin": {
+      "takes": [],
+      "returns": "void"
+    },
+    "FoodUsed": {
+      "takes": [],
+      "returns": "number"
+    },
+    "FoodCap": {
+      "takes": [],
+      "returns": "number"
+    },
+    "FoodSpace": {
+      "takes": [],
+      "returns": "number"
+    },
+    "FoodAvail": {
+      "takes": [
+        {
+          "name": "base",
+          "type": "number"
+        }
+      ],
+      "returns": "number"
+    },
+    "BuildAttackers": {
+      "takes": [],
+      "returns": "void"
+    },
+    "BuildDefenders": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CampaignBasicsA": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CampaignBasics": {
+      "takes": [],
+      "returns": "void"
+    },
+    "CampaignAI": {
+      "takes": [
+        {
+          "name": "farms",
+          "type": "number"
+        },
+        {
+          "name": "heroes",
+          "type": "() =\u003E void"
+        }
+      ],
+      "returns": "void"
+    },
+    "UnsummonAll": {
+      "takes": [],
+      "returns": "void"
+    },
+    "SkillArrays": {
+      "takes": [],
+      "returns": "number"
+    },
+    "SetSkillArray": {
+      "takes": [
+        {
+          "name": "index",
+          "type": "number"
+        },
+        {
+          "name": "id",
+          "type": "number"
+        }
+      ],
+      "returns": "void"
+    },
+    "AwaitMeleeHeroes": {
+      "takes": [],
+      "returns": "void"
+    },
+    "PickMeleeHero": {
+      "takes": [
+        {
+          "name": "raceid",
+          "type": "race"
+        }
+      ],
+      "returns": "number"
+    }
+  }
+}
