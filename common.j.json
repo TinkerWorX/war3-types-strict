@@ -552,19 +552,19 @@
     },
     "JASS_MAX_ARRAY_SIZE": {
       "isConstant": true,
-      "type": "integer",
+      "type": "number",
       "isArray": false,
       "value": "32768"
     },
     "PLAYER_NEUTRAL_PASSIVE": {
       "isConstant": true,
-      "type": "integer",
+      "type": "number",
       "isArray": false,
       "value": "GetPlayerNeutralPassive()"
     },
     "PLAYER_NEUTRAL_AGGRESSIVE": {
       "isConstant": true,
-      "type": "integer",
+      "type": "number",
       "isArray": false,
       "value": "GetPlayerNeutralAggressive()"
     },
@@ -3588,25 +3588,25 @@
     },
     "CAMERA_MARGIN_LEFT": {
       "isConstant": true,
-      "type": "integer",
+      "type": "number",
       "isArray": false,
       "value": "0"
     },
     "CAMERA_MARGIN_RIGHT": {
       "isConstant": true,
-      "type": "integer",
+      "type": "number",
       "isArray": false,
       "value": "1"
     },
     "CAMERA_MARGIN_TOP": {
       "isConstant": true,
-      "type": "integer",
+      "type": "number",
       "isArray": false,
       "value": "2"
     },
     "CAMERA_MARGIN_BOTTOM": {
       "isConstant": true,
-      "type": "integer",
+      "type": "number",
       "isArray": false,
       "value": "3"
     },
