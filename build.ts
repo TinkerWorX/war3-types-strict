@@ -56,6 +56,7 @@ for (const inPath of filePaths) {
             }
             fs.appendFileSync(outPath, `): ${nativeDeclaration.returns};\n`);
         }
+        fs.appendFileSync(outPath, "\n");
     }
 
     if (Object.keys(data.functions).length > 0) {
