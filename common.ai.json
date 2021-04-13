@@ -2,5256 +2,7334 @@
   "types": [],
   "globals": {
     "ARCHMAGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hamg)"
+      "value": "FourCC(Hamg)",
+      "isNullable": false
     },
     "PALADIN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hpal)"
+      "value": "FourCC(Hpal)",
+      "isNullable": false
     },
     "MTN_KING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hmkg)"
+      "value": "FourCC(Hmkg)",
+      "isNullable": false
     },
     "BLOOD_MAGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hblm)"
+      "value": "FourCC(Hblm)",
+      "isNullable": false
     },
     "AVATAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHav)"
+      "value": "FourCC(AHav)",
+      "isNullable": false
     },
     "BASH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHbh)"
+      "value": "FourCC(AHbh)",
+      "isNullable": false
     },
     "THUNDER_BOLT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHtb)"
+      "value": "FourCC(AHtb)",
+      "isNullable": false
     },
     "THUNDER_CLAP": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHtc)"
+      "value": "FourCC(AHtc)",
+      "isNullable": false
     },
     "DEVOTION_AURA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHad)"
+      "value": "FourCC(AHad)",
+      "isNullable": false
     },
     "DIVINE_SHIELD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHds)"
+      "value": "FourCC(AHds)",
+      "isNullable": false
     },
     "HOLY_BOLT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHhb)"
+      "value": "FourCC(AHhb)",
+      "isNullable": false
     },
     "RESURRECTION": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHre)"
+      "value": "FourCC(AHre)",
+      "isNullable": false
     },
     "BLIZZARD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHbz)"
+      "value": "FourCC(AHbz)",
+      "isNullable": false
     },
     "BRILLIANCE_AURA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHab)"
+      "value": "FourCC(AHab)",
+      "isNullable": false
     },
     "MASS_TELEPORT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHmt)"
+      "value": "FourCC(AHmt)",
+      "isNullable": false
     },
     "WATER_ELEMENTAL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHwe)"
+      "value": "FourCC(AHwe)",
+      "isNullable": false
     },
     "BANISH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHbn)"
+      "value": "FourCC(AHbn)",
+      "isNullable": false
     },
     "FLAME_STRIKE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHfs)"
+      "value": "FourCC(AHfs)",
+      "isNullable": false
     },
     "SUMMON_PHOENIX": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHpx)"
+      "value": "FourCC(AHpx)",
+      "isNullable": false
     },
     "SIPHON_MANA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHdr)"
+      "value": "FourCC(AHdr)",
+      "isNullable": false
     },
     "JAINA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hjai)"
+      "value": "FourCC(Hjai)",
+      "isNullable": false
     },
     "MURADIN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hmbr)"
+      "value": "FourCC(Hmbr)",
+      "isNullable": false
     },
     "GARITHOS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hlgr)"
+      "value": "FourCC(Hlgr)",
+      "isNullable": false
     },
     "KAEL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hkal)"
+      "value": "FourCC(Hkal)",
+      "isNullable": false
     },
     "COPTER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hgyr)"
+      "value": "FourCC(hgyr)",
+      "isNullable": false
     },
     "GYRO": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "COPTER"
+      "value": "COPTER",
+      "isNullable": false
     },
     "ELEMENTAL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hwat)"
+      "value": "FourCC(hwat)",
+      "isNullable": false
     },
     "FOOTMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hfoo)"
+      "value": "FourCC(hfoo)",
+      "isNullable": false
     },
     "FOOTMEN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FOOTMAN"
+      "value": "FOOTMAN",
+      "isNullable": false
     },
     "GRYPHON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hgry)"
+      "value": "FourCC(hgry)",
+      "isNullable": false
     },
     "KNIGHT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hkni)"
+      "value": "FourCC(hkni)",
+      "isNullable": false
     },
     "MORTAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hmtm)"
+      "value": "FourCC(hmtm)",
+      "isNullable": false
     },
     "PEASANT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hpea)"
+      "value": "FourCC(hpea)",
+      "isNullable": false
     },
     "PRIEST": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hmpr)"
+      "value": "FourCC(hmpr)",
+      "isNullable": false
     },
     "RIFLEMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hrif)"
+      "value": "FourCC(hrif)",
+      "isNullable": false
     },
     "RIFLEMEN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "RIFLEMAN"
+      "value": "RIFLEMAN",
+      "isNullable": false
     },
     "SORCERESS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hsor)"
+      "value": "FourCC(hsor)",
+      "isNullable": false
     },
     "TANK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hmtt)"
+      "value": "FourCC(hmtt)",
+      "isNullable": false
     },
     "STEAM_TANK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "TANK"
+      "value": "TANK",
+      "isNullable": false
     },
     "ROCKET_TANK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hrtt)"
+      "value": "FourCC(hrtt)",
+      "isNullable": false
     },
     "MILITIA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hmil)"
+      "value": "FourCC(hmil)",
+      "isNullable": false
     },
     "SPELL_BREAKER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hspt)"
+      "value": "FourCC(hspt)",
+      "isNullable": false
     },
     "HUMAN_DRAGON_HAWK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hdhw)"
+      "value": "FourCC(hdhw)",
+      "isNullable": false
     },
     "BLOOD_PRIEST": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hbep)"
+      "value": "FourCC(hbep)",
+      "isNullable": false
     },
     "BLOOD_SORCERESS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hbes)"
+      "value": "FourCC(hbes)",
+      "isNullable": false
     },
     "BLOOD_PEASANT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nhew)"
+      "value": "FourCC(nhew)",
+      "isNullable": false
     },
     "AVIARY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hgra)"
+      "value": "FourCC(hgra)",
+      "isNullable": false
     },
     "BARRACKS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hbar)"
+      "value": "FourCC(hbar)",
+      "isNullable": false
     },
     "BLACKSMITH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hbla)"
+      "value": "FourCC(hbla)",
+      "isNullable": false
     },
     "CANNON_TOWER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hctw)"
+      "value": "FourCC(hctw)",
+      "isNullable": false
     },
     "CASTLE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hcas)"
+      "value": "FourCC(hcas)",
+      "isNullable": false
     },
     "CHURCH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(htws)"
+      "value": "FourCC(htws)",
+      "isNullable": false
     },
     "MAGE_TOWER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "CHURCH"
+      "value": "CHURCH",
+      "isNullable": false
     },
     "GUARD_TOWER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hgtw)"
+      "value": "FourCC(hgtw)",
+      "isNullable": false
     },
     "HOUSE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hhou)"
+      "value": "FourCC(hhou)",
+      "isNullable": false
     },
     "HUMAN_ALTAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(halt)"
+      "value": "FourCC(halt)",
+      "isNullable": false
     },
     "KEEP": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hkee)"
+      "value": "FourCC(hkee)",
+      "isNullable": false
     },
     "LUMBER_MILL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hlum)"
+      "value": "FourCC(hlum)",
+      "isNullable": false
     },
     "SANCTUM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hars)"
+      "value": "FourCC(hars)",
+      "isNullable": false
     },
     "ARCANE_SANCTUM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "SANCTUM"
+      "value": "SANCTUM",
+      "isNullable": false
     },
     "TOWN_HALL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(htow)"
+      "value": "FourCC(htow)",
+      "isNullable": false
     },
     "WATCH_TOWER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hwtw)"
+      "value": "FourCC(hwtw)",
+      "isNullable": false
     },
     "WORKSHOP": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(harm)"
+      "value": "FourCC(harm)",
+      "isNullable": false
     },
     "ARCANE_VAULT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hvlt)"
+      "value": "FourCC(hvlt)",
+      "isNullable": false
     },
     "ARCANE_TOWER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hatw)"
+      "value": "FourCC(hatw)",
+      "isNullable": false
     },
     "UPG_MELEE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhme)"
+      "value": "FourCC(Rhme)",
+      "isNullable": false
     },
     "UPG_RANGED": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhra)"
+      "value": "FourCC(Rhra)",
+      "isNullable": false
     },
     "UPG_ARTILLERY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhaa)"
+      "value": "FourCC(Rhaa)",
+      "isNullable": false
     },
     "UPG_ARMOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhar)"
+      "value": "FourCC(Rhar)",
+      "isNullable": false
     },
     "UPG_GOLD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhmi)"
+      "value": "FourCC(Rhmi)",
+      "isNullable": false
     },
     "UPG_MASONRY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhac)"
+      "value": "FourCC(Rhac)",
+      "isNullable": false
     },
     "UPG_SIGHT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhss)"
+      "value": "FourCC(Rhss)",
+      "isNullable": false
     },
     "UPG_DEFEND": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhde)"
+      "value": "FourCC(Rhde)",
+      "isNullable": false
     },
     "UPG_BREEDING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhan)"
+      "value": "FourCC(Rhan)",
+      "isNullable": false
     },
     "UPG_PRAYING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhpt)"
+      "value": "FourCC(Rhpt)",
+      "isNullable": false
     },
     "UPG_SORCERY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhst)"
+      "value": "FourCC(Rhst)",
+      "isNullable": false
     },
     "UPG_LEATHER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhla)"
+      "value": "FourCC(Rhla)",
+      "isNullable": false
     },
     "UPG_GUN_RANGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhri)"
+      "value": "FourCC(Rhri)",
+      "isNullable": false
     },
     "UPG_WOOD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhlh)"
+      "value": "FourCC(Rhlh)",
+      "isNullable": false
     },
     "UPG_SENTINEL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhse)"
+      "value": "FourCC(Rhse)",
+      "isNullable": false
     },
     "UPG_SCATTER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhsr)"
+      "value": "FourCC(Rhsr)",
+      "isNullable": false
     },
     "UPG_BOMBS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhgb)"
+      "value": "FourCC(Rhgb)",
+      "isNullable": false
     },
     "UPG_HAMMERS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhhb)"
+      "value": "FourCC(Rhhb)",
+      "isNullable": false
     },
     "UPG_CONT_MAGIC": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhss)"
+      "value": "FourCC(Rhss)",
+      "isNullable": false
     },
     "UPG_FRAGS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhfs)"
+      "value": "FourCC(Rhfs)",
+      "isNullable": false
     },
     "UPG_TANK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhrt)"
+      "value": "FourCC(Rhrt)",
+      "isNullable": false
     },
     "UPG_FLAK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhfc)"
+      "value": "FourCC(Rhfc)",
+      "isNullable": false
     },
     "UPG_CLOUD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rhcd)"
+      "value": "FourCC(Rhcd)",
+      "isNullable": false
     },
     "BLADE_MASTER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Obla)"
+      "value": "FourCC(Obla)",
+      "isNullable": false
     },
     "FAR_SEER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ofar)"
+      "value": "FourCC(Ofar)",
+      "isNullable": false
     },
     "TAUREN_CHIEF": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Otch)"
+      "value": "FourCC(Otch)",
+      "isNullable": false
     },
     "SHADOW_HUNTER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Oshd)"
+      "value": "FourCC(Oshd)",
+      "isNullable": false
     },
     "GROM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ogrh)"
+      "value": "FourCC(Ogrh)",
+      "isNullable": false
     },
     "THRALL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Othr)"
+      "value": "FourCC(Othr)",
+      "isNullable": false
     },
     "CRITICAL_STRIKE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOcr)"
+      "value": "FourCC(AOcr)",
+      "isNullable": false
     },
     "MIRROR_IMAGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOmi)"
+      "value": "FourCC(AOmi)",
+      "isNullable": false
     },
     "BLADE_STORM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOww)"
+      "value": "FourCC(AOww)",
+      "isNullable": false
     },
     "WIND_WALK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOwk)"
+      "value": "FourCC(AOwk)",
+      "isNullable": false
     },
     "CHAIN_LIGHTNING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOcl)"
+      "value": "FourCC(AOcl)",
+      "isNullable": false
     },
     "EARTHQUAKE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOeq)"
+      "value": "FourCC(AOeq)",
+      "isNullable": false
     },
     "FAR_SIGHT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOfs)"
+      "value": "FourCC(AOfs)",
+      "isNullable": false
     },
     "SPIRIT_WOLF": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOsf)"
+      "value": "FourCC(AOsf)",
+      "isNullable": false
     },
     "ENDURANE_AURA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOae)"
+      "value": "FourCC(AOae)",
+      "isNullable": false
     },
     "REINCARNATION": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOre)"
+      "value": "FourCC(AOre)",
+      "isNullable": false
     },
     "SHOCKWAVE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOsh)"
+      "value": "FourCC(AOsh)",
+      "isNullable": false
     },
     "WAR_STOMP": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOws)"
+      "value": "FourCC(AOws)",
+      "isNullable": false
     },
     "HEALING_WAVE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOhw)"
+      "value": "FourCC(AOhw)",
+      "isNullable": false
     },
     "HEX": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOhx)"
+      "value": "FourCC(AOhx)",
+      "isNullable": false
     },
     "SERPENT_WARD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOsw)"
+      "value": "FourCC(AOsw)",
+      "isNullable": false
     },
     "VOODOO": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AOvd)"
+      "value": "FourCC(AOvd)",
+      "isNullable": false
     },
     "GUARDIAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(oang)"
+      "value": "FourCC(oang)",
+      "isNullable": false
     },
     "CATAPULT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ocat)"
+      "value": "FourCC(ocat)",
+      "isNullable": false
     },
     "WITCH_DOCTOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(odoc)"
+      "value": "FourCC(odoc)",
+      "isNullable": false
     },
     "GRUNT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ogru)"
+      "value": "FourCC(ogru)",
+      "isNullable": false
     },
     "HEAD_HUNTER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ohun)"
+      "value": "FourCC(ohun)",
+      "isNullable": false
     },
     "BERSERKER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(otbk)"
+      "value": "FourCC(otbk)",
+      "isNullable": false
     },
     "KODO_BEAST": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(okod)"
+      "value": "FourCC(okod)",
+      "isNullable": false
     },
     "PEON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(opeo)"
+      "value": "FourCC(opeo)",
+      "isNullable": false
     },
     "RAIDER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(orai)"
+      "value": "FourCC(orai)",
+      "isNullable": false
     },
     "SHAMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(oshm)"
+      "value": "FourCC(oshm)",
+      "isNullable": false
     },
     "TAUREN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(otau)"
+      "value": "FourCC(otau)",
+      "isNullable": false
     },
     "WYVERN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(owyv)"
+      "value": "FourCC(owyv)",
+      "isNullable": false
     },
     "BATRIDER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(otbr)"
+      "value": "FourCC(otbr)",
+      "isNullable": false
     },
     "SPIRIT_WALKER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ospw)"
+      "value": "FourCC(ospw)",
+      "isNullable": false
     },
     "SPIRIT_WALKER_M": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ospm)"
+      "value": "FourCC(ospm)",
+      "isNullable": false
     },
     "ORC_ALTAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(oalt)"
+      "value": "FourCC(oalt)",
+      "isNullable": false
     },
     "ORC_BARRACKS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(obar)"
+      "value": "FourCC(obar)",
+      "isNullable": false
     },
     "BESTIARY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(obea)"
+      "value": "FourCC(obea)",
+      "isNullable": false
     },
     "FORGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ofor)"
+      "value": "FourCC(ofor)",
+      "isNullable": false
     },
     "FORTRESS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ofrt)"
+      "value": "FourCC(ofrt)",
+      "isNullable": false
     },
     "GREAT_HALL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ogre)"
+      "value": "FourCC(ogre)",
+      "isNullable": false
     },
     "LODGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(osld)"
+      "value": "FourCC(osld)",
+      "isNullable": false
     },
     "STRONGHOLD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ostr)"
+      "value": "FourCC(ostr)",
+      "isNullable": false
     },
     "BURROW": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(otrb)"
+      "value": "FourCC(otrb)",
+      "isNullable": false
     },
     "TOTEM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(otto)"
+      "value": "FourCC(otto)",
+      "isNullable": false
     },
     "ORC_WATCH_TOWER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(owtw)"
+      "value": "FourCC(owtw)",
+      "isNullable": false
     },
     "VOODOO_LOUNGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ovln)"
+      "value": "FourCC(ovln)",
+      "isNullable": false
     },
     "UPG_ORC_MELEE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rome)"
+      "value": "FourCC(Rome)",
+      "isNullable": false
     },
     "UPG_ORC_RANGED": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rora)"
+      "value": "FourCC(Rora)",
+      "isNullable": false
     },
     "UPG_ORC_ARTILLERY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Roaa)"
+      "value": "FourCC(Roaa)",
+      "isNullable": false
     },
     "UPG_ORC_ARMOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Roar)"
+      "value": "FourCC(Roar)",
+      "isNullable": false
     },
     "UPG_ORC_WAR_DRUMS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rwdm)"
+      "value": "FourCC(Rwdm)",
+      "isNullable": false
     },
     "UPG_ORC_PILLAGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ropg)"
+      "value": "FourCC(Ropg)",
+      "isNullable": false
     },
     "UPG_ORC_BERSERK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Robs)"
+      "value": "FourCC(Robs)",
+      "isNullable": false
     },
     "UPG_ORC_PULVERIZE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rows)"
+      "value": "FourCC(Rows)",
+      "isNullable": false
     },
     "UPG_ORC_ENSNARE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Roen)"
+      "value": "FourCC(Roen)",
+      "isNullable": false
     },
     "UPG_ORC_VENOM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rovs)"
+      "value": "FourCC(Rovs)",
+      "isNullable": false
     },
     "UPG_ORC_DOCS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rowd)"
+      "value": "FourCC(Rowd)",
+      "isNullable": false
     },
     "UPG_ORC_SHAMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rost)"
+      "value": "FourCC(Rost)",
+      "isNullable": false
     },
     "UPG_ORC_SPIKES": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rosp)"
+      "value": "FourCC(Rosp)",
+      "isNullable": false
     },
     "UPG_ORC_BURROWS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rorb)"
+      "value": "FourCC(Rorb)",
+      "isNullable": false
     },
     "UPG_ORC_REGEN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rotr)"
+      "value": "FourCC(Rotr)",
+      "isNullable": false
     },
     "UPG_ORC_FIRE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rolf)"
+      "value": "FourCC(Rolf)",
+      "isNullable": false
     },
     "UPG_ORC_SWALKER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rowt)"
+      "value": "FourCC(Rowt)",
+      "isNullable": false
     },
     "UPG_ORC_BERSERKER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Robk)"
+      "value": "FourCC(Robk)",
+      "isNullable": false
     },
     "UPG_ORC_NAPTHA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Robf)"
+      "value": "FourCC(Robf)",
+      "isNullable": false
     },
     "UPG_ORC_CHAOS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Roch)"
+      "value": "FourCC(Roch)",
+      "isNullable": false
     },
     "OGRE_MAGI": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nomg)"
+      "value": "FourCC(nomg)",
+      "isNullable": false
     },
     "ORC_DRAGON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nrwm)"
+      "value": "FourCC(nrwm)",
+      "isNullable": false
     },
     "SAPPER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ngsp)"
+      "value": "FourCC(ngsp)",
+      "isNullable": false
     },
     "ZEPPLIN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nzep)"
+      "value": "FourCC(nzep)",
+      "isNullable": false
     },
     "ZEPPELIN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "ZEPPLIN"
+      "value": "ZEPPLIN",
+      "isNullable": false
     },
     "W2_WARLOCK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nw2w)"
+      "value": "FourCC(nw2w)",
+      "isNullable": false
     },
     "PIG_FARM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(npgf)"
+      "value": "FourCC(npgf)",
+      "isNullable": false
     },
     "FOREST_TROLL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nftr)"
+      "value": "FourCC(nftr)",
+      "isNullable": false
     },
     "CHAOS_GRUNT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nchg)"
+      "value": "FourCC(nchg)",
+      "isNullable": false
     },
     "CHAOS_WARLOCK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nchw)"
+      "value": "FourCC(nchw)",
+      "isNullable": false
     },
     "CHAOS_RAIDER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nchr)"
+      "value": "FourCC(nchr)",
+      "isNullable": false
     },
     "CHAOS_PEON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ncpn)"
+      "value": "FourCC(ncpn)",
+      "isNullable": false
     },
     "CHAOS_KODO": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nckb)"
+      "value": "FourCC(nckb)",
+      "isNullable": false
     },
     "CHAOS_GROM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Opgh)"
+      "value": "FourCC(Opgh)",
+      "isNullable": false
     },
     "CHAOS_BLADEMASTER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Nbbc)"
+      "value": "FourCC(Nbbc)",
+      "isNullable": false
     },
     "CHAOS_BURROW": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ocbw)"
+      "value": "FourCC(ocbw)",
+      "isNullable": false
     },
     "DEATH_KNIGHT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Udea)"
+      "value": "FourCC(Udea)",
+      "isNullable": false
     },
     "DREAD_LORD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Udre)"
+      "value": "FourCC(Udre)",
+      "isNullable": false
     },
     "LICH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ulic)"
+      "value": "FourCC(Ulic)",
+      "isNullable": false
     },
     "CRYPT_LORD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ucrl)"
+      "value": "FourCC(Ucrl)",
+      "isNullable": false
     },
     "MALGANIS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Umal)"
+      "value": "FourCC(Umal)",
+      "isNullable": false
     },
     "TICHONDRIUS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Utic)"
+      "value": "FourCC(Utic)",
+      "isNullable": false
     },
     "PIT_LORD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Npld)"
+      "value": "FourCC(Npld)",
+      "isNullable": false
     },
     "DETHEROC": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Udth)"
+      "value": "FourCC(Udth)",
+      "isNullable": false
     },
     "SLEEP": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUsl)"
+      "value": "FourCC(AUsl)",
+      "isNullable": false
     },
     "VAMP_AURA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUav)"
+      "value": "FourCC(AUav)",
+      "isNullable": false
     },
     "CARRION_SWARM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUcs)"
+      "value": "FourCC(AUcs)",
+      "isNullable": false
     },
     "INFERNO": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUin)"
+      "value": "FourCC(AUin)",
+      "isNullable": false
     },
     "DARK_RITUAL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUdr)"
+      "value": "FourCC(AUdr)",
+      "isNullable": false
     },
     "DEATH_DECAY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUdd)"
+      "value": "FourCC(AUdd)",
+      "isNullable": false
     },
     "FROST_ARMOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUfu)"
+      "value": "FourCC(AUfu)",
+      "isNullable": false
     },
     "FROST_NOVA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUfn)"
+      "value": "FourCC(AUfn)",
+      "isNullable": false
     },
     "ANIM_DEAD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUan)"
+      "value": "FourCC(AUan)",
+      "isNullable": false
     },
     "DEATH_COIL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUdc)"
+      "value": "FourCC(AUdc)",
+      "isNullable": false
     },
     "DEATH_PACT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUdp)"
+      "value": "FourCC(AUdp)",
+      "isNullable": false
     },
     "UNHOLY_AURA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUau)"
+      "value": "FourCC(AUau)",
+      "isNullable": false
     },
     "CARRION_SCARAB": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUcb)"
+      "value": "FourCC(AUcb)",
+      "isNullable": false
     },
     "IMPALE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUim)"
+      "value": "FourCC(AUim)",
+      "isNullable": false
     },
     "LOCUST_SWARM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUls)"
+      "value": "FourCC(AUls)",
+      "isNullable": false
     },
     "THORNY_SHIELD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AUts)"
+      "value": "FourCC(AUts)",
+      "isNullable": false
     },
     "ABOMINATION": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(uabo)"
+      "value": "FourCC(uabo)",
+      "isNullable": false
     },
     "ACOLYTE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(uaco)"
+      "value": "FourCC(uaco)",
+      "isNullable": false
     },
     "BANSHEE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(uban)"
+      "value": "FourCC(uban)",
+      "isNullable": false
     },
     "PIT_FIEND": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ucry)"
+      "value": "FourCC(ucry)",
+      "isNullable": false
     },
     "CRYPT_FIEND": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "PIT_FIEND"
+      "value": "PIT_FIEND",
+      "isNullable": false
     },
     "FROST_WYRM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ufro)"
+      "value": "FourCC(ufro)",
+      "isNullable": false
     },
     "GARGOYLE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ugar)"
+      "value": "FourCC(ugar)",
+      "isNullable": false
     },
     "GARGOYLE_MORPH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ugrm)"
+      "value": "FourCC(ugrm)",
+      "isNullable": false
     },
     "GHOUL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ugho)"
+      "value": "FourCC(ugho)",
+      "isNullable": false
     },
     "MEAT_WAGON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(umtw)"
+      "value": "FourCC(umtw)",
+      "isNullable": false
     },
     "NECRO": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(unec)"
+      "value": "FourCC(unec)",
+      "isNullable": false
     },
     "SKEL_WARRIOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(uske)"
+      "value": "FourCC(uske)",
+      "isNullable": false
     },
     "SHADE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ushd)"
+      "value": "FourCC(ushd)",
+      "isNullable": false
     },
     "UNDEAD_BARGE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(uarb)"
+      "value": "FourCC(uarb)",
+      "isNullable": false
     },
     "OBSIDIAN_STATUE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(uobs)"
+      "value": "FourCC(uobs)",
+      "isNullable": false
     },
     "OBS_STATUE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "OBSIDIAN_STATUE"
+      "value": "OBSIDIAN_STATUE",
+      "isNullable": false
     },
     "BLK_SPHINX": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ubsp)"
+      "value": "FourCC(ubsp)",
+      "isNullable": false
     },
     "UNDEAD_MINE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ugol)"
+      "value": "FourCC(ugol)",
+      "isNullable": false
     },
     "UNDEAD_ALTAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(uaod)"
+      "value": "FourCC(uaod)",
+      "isNullable": false
     },
     "BONEYARD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ubon)"
+      "value": "FourCC(ubon)",
+      "isNullable": false
     },
     "GARG_SPIRE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ugsp)"
+      "value": "FourCC(ugsp)",
+      "isNullable": false
     },
     "NECROPOLIS_1": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027unpl\u0027 "
+      "value": "\u0027unpl\u0027 ",
+      "isNullable": false
     },
     "NECROPOLIS_2": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027unp1\u0027 "
+      "value": "\u0027unp1\u0027 ",
+      "isNullable": false
     },
     "NECROPOLIS_3": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027unp2\u0027 "
+      "value": "\u0027unp2\u0027 ",
+      "isNullable": false
     },
     "SAC_PIT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(usap)"
+      "value": "FourCC(usap)",
+      "isNullable": false
     },
     "CRYPT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(usep)"
+      "value": "FourCC(usep)",
+      "isNullable": false
     },
     "SLAUGHTERHOUSE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(uslh)"
+      "value": "FourCC(uslh)",
+      "isNullable": false
     },
     "DAMNED_TEMPLE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(utod)"
+      "value": "FourCC(utod)",
+      "isNullable": false
     },
     "ZIGGURAT_1": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027uzig\u0027 "
+      "value": "\u0027uzig\u0027 ",
+      "isNullable": false
     },
     "ZIGGURAT_2": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027uzg1\u0027 "
+      "value": "\u0027uzg1\u0027 ",
+      "isNullable": false
     },
     "ZIGGURAT_FROST": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027uzg2\u0027 "
+      "value": "\u0027uzg2\u0027 ",
+      "isNullable": false
     },
     "GRAVEYARD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ugrv)"
+      "value": "FourCC(ugrv)",
+      "isNullable": false
     },
     "TOMB_OF_RELICS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(utom)"
+      "value": "FourCC(utom)",
+      "isNullable": false
     },
     "UPG_UNHOLY_STR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rume)"
+      "value": "FourCC(Rume)",
+      "isNullable": false
     },
     "UPG_CR_ATTACK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rura)"
+      "value": "FourCC(Rura)",
+      "isNullable": false
     },
     "UPG_UNHOLY_ARMOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ruar)"
+      "value": "FourCC(Ruar)",
+      "isNullable": false
     },
     "UPG_CANNIBALIZE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ruac)"
+      "value": "FourCC(Ruac)",
+      "isNullable": false
     },
     "UPG_GHOUL_FRENZY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rugf)"
+      "value": "FourCC(Rugf)",
+      "isNullable": false
     },
     "UPG_FIEND_WEB": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ruwb)"
+      "value": "FourCC(Ruwb)",
+      "isNullable": false
     },
     "UPG_ABOM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ruab)"
+      "value": "FourCC(Ruab)",
+      "isNullable": false
     },
     "UPG_STONE_FORM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rusf)"
+      "value": "FourCC(Rusf)",
+      "isNullable": false
     },
     "UPG_NECROS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rune)"
+      "value": "FourCC(Rune)",
+      "isNullable": false
     },
     "UPG_BANSHEE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ruba)"
+      "value": "FourCC(Ruba)",
+      "isNullable": false
     },
     "UPG_MEAT_WAGON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rump)"
+      "value": "FourCC(Rump)",
+      "isNullable": false
     },
     "UPG_WYRM_BREATH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rufb)"
+      "value": "FourCC(Rufb)",
+      "isNullable": false
     },
     "UPG_SKEL_LIFE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rusl)"
+      "value": "FourCC(Rusl)",
+      "isNullable": false
     },
     "UPG_SKEL_MASTERY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rusm)"
+      "value": "FourCC(Rusm)",
+      "isNullable": false
     },
     "UPG_EXHUME": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ruex)"
+      "value": "FourCC(Ruex)",
+      "isNullable": false
     },
     "UPG_SACRIFICE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rurs)"
+      "value": "FourCC(Rurs)",
+      "isNullable": false
     },
     "UPG_ABOM_EXPL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ruax)"
+      "value": "FourCC(Ruax)",
+      "isNullable": false
     },
     "UPG_CR_ARMOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rucr)"
+      "value": "FourCC(Rucr)",
+      "isNullable": false
     },
     "UPG_PLAGUE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rupc)"
+      "value": "FourCC(Rupc)",
+      "isNullable": false
     },
     "UPG_BLK_SPHINX": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rusp)"
+      "value": "FourCC(Rusp)",
+      "isNullable": false
     },
     "UPG_BURROWING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rubu)"
+      "value": "FourCC(Rubu)",
+      "isNullable": false
     },
     "DEMON_HUNTER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Edem)"
+      "value": "FourCC(Edem)",
+      "isNullable": false
     },
     "DEMON_HUNTER_M": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Edmm)"
+      "value": "FourCC(Edmm)",
+      "isNullable": false
     },
     "KEEPER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ekee)"
+      "value": "FourCC(Ekee)",
+      "isNullable": false
     },
     "MOON_CHICK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Emoo)"
+      "value": "FourCC(Emoo)",
+      "isNullable": false
     },
     "MOON_BABE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "MOON_CHICK"
+      "value": "MOON_CHICK",
+      "isNullable": false
     },
     "MOON_HONEY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "MOON_CHICK"
+      "value": "MOON_CHICK",
+      "isNullable": false
     },
     "WARDEN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ewar)"
+      "value": "FourCC(Ewar)",
+      "isNullable": false
     },
     "SYLVANUS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hvwd)"
+      "value": "FourCC(Hvwd)",
+      "isNullable": false
     },
     "CENARIUS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ecen)"
+      "value": "FourCC(Ecen)",
+      "isNullable": false
     },
     "ILLIDAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Eevi)"
+      "value": "FourCC(Eevi)",
+      "isNullable": false
     },
     "ILLIDAN_DEMON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Eevm)"
+      "value": "FourCC(Eevm)",
+      "isNullable": false
     },
     "MAIEV": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Ewrd)"
+      "value": "FourCC(Ewrd)",
+      "isNullable": false
     },
     "FORCE_NATURE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEfn)"
+      "value": "FourCC(AEfn)",
+      "isNullable": false
     },
     "ENT_ROOTS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEer)"
+      "value": "FourCC(AEer)",
+      "isNullable": false
     },
     "THORNS_AURA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEah)"
+      "value": "FourCC(AEah)",
+      "isNullable": false
     },
     "TRANQUILITY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEtq)"
+      "value": "FourCC(AEtq)",
+      "isNullable": false
     },
     "EVASION": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEev)"
+      "value": "FourCC(AEev)",
+      "isNullable": false
     },
     "IMMOLATION": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEim)"
+      "value": "FourCC(AEim)",
+      "isNullable": false
     },
     "MANA_BURN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEmb)"
+      "value": "FourCC(AEmb)",
+      "isNullable": false
     },
     "METAMORPHOSIS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEme)"
+      "value": "FourCC(AEme)",
+      "isNullable": false
     },
     "SEARING_ARROWS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AHfa)"
+      "value": "FourCC(AHfa)",
+      "isNullable": false
     },
     "SCOUT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEst)"
+      "value": "FourCC(AEst)",
+      "isNullable": false
     },
     "STARFALL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEsf)"
+      "value": "FourCC(AEsf)",
+      "isNullable": false
     },
     "TRUESHOT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEar)"
+      "value": "FourCC(AEar)",
+      "isNullable": false
     },
     "BLINK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEbl)"
+      "value": "FourCC(AEbl)",
+      "isNullable": false
     },
     "FAN_KNIVES": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEfk)"
+      "value": "FourCC(AEfk)",
+      "isNullable": false
     },
     "SHADOW_TOUCH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEsh)"
+      "value": "FourCC(AEsh)",
+      "isNullable": false
     },
     "VENGEANCE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(AEsv)"
+      "value": "FourCC(AEsv)",
+      "isNullable": false
     },
     "WISP": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ewsp)"
+      "value": "FourCC(ewsp)",
+      "isNullable": false
     },
     "ARCHER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(earc)"
+      "value": "FourCC(earc)",
+      "isNullable": false
     },
     "DRUID_TALON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(edot)"
+      "value": "FourCC(edot)",
+      "isNullable": false
     },
     "DRUID_TALON_M": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(edtm)"
+      "value": "FourCC(edtm)",
+      "isNullable": false
     },
     "BALLISTA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ebal)"
+      "value": "FourCC(ebal)",
+      "isNullable": false
     },
     "DRUID_CLAW": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(edoc)"
+      "value": "FourCC(edoc)",
+      "isNullable": false
     },
     "DRUID_CLAW_M": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(edcm)"
+      "value": "FourCC(edcm)",
+      "isNullable": false
     },
     "DRYAD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(edry)"
+      "value": "FourCC(edry)",
+      "isNullable": false
     },
     "HIPPO": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ehip)"
+      "value": "FourCC(ehip)",
+      "isNullable": false
     },
     "HIPPO_RIDER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ehpr)"
+      "value": "FourCC(ehpr)",
+      "isNullable": false
     },
     "HUNTRESS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(esen)"
+      "value": "FourCC(esen)",
+      "isNullable": false
     },
     "CHIMAERA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(echm)"
+      "value": "FourCC(echm)",
+      "isNullable": false
     },
     "ENT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(efon)"
+      "value": "FourCC(efon)",
+      "isNullable": false
     },
     "MOUNTAIN_GIANT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(emtg)"
+      "value": "FourCC(emtg)",
+      "isNullable": false
     },
     "FAERIE_DRAGON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(efdr)"
+      "value": "FourCC(efdr)",
+      "isNullable": false
     },
     "HIGH_ARCHER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nhea)"
+      "value": "FourCC(nhea)",
+      "isNullable": false
     },
     "HIGH_FOOTMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hcth)"
+      "value": "FourCC(hcth)",
+      "isNullable": false
     },
     "HIGH_FOOTMEN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "HIGH_FOOTMAN"
+      "value": "HIGH_FOOTMAN",
+      "isNullable": false
     },
     "HIGH_SWORDMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hhes)"
+      "value": "FourCC(hhes)",
+      "isNullable": false
     },
     "DRAGON_HAWK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nws1)"
+      "value": "FourCC(nws1)",
+      "isNullable": false
     },
     "CORRUPT_TREANT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nenc)"
+      "value": "FourCC(nenc)",
+      "isNullable": false
     },
     "POISON_TREANT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nenp)"
+      "value": "FourCC(nenp)",
+      "isNullable": false
     },
     "PLAGUE_TREANT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nepl)"
+      "value": "FourCC(nepl)",
+      "isNullable": false
     },
     "SHANDRIS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(eshd)"
+      "value": "FourCC(eshd)",
+      "isNullable": false
     },
     "ANCIENT_LORE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(eaoe)"
+      "value": "FourCC(eaoe)",
+      "isNullable": false
     },
     "ANCIENT_WAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(eaom)"
+      "value": "FourCC(eaom)",
+      "isNullable": false
     },
     "ANCIENT_WIND": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(eaow)"
+      "value": "FourCC(eaow)",
+      "isNullable": false
     },
     "TREE_AGES": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(etoa)"
+      "value": "FourCC(etoa)",
+      "isNullable": false
     },
     "TREE_ETERNITY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(etoe)"
+      "value": "FourCC(etoe)",
+      "isNullable": false
     },
     "TREE_LIFE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(etol)"
+      "value": "FourCC(etol)",
+      "isNullable": false
     },
     "ANCIENT_PROTECT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(etrp)"
+      "value": "FourCC(etrp)",
+      "isNullable": false
     },
     "ELF_ALTAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(eate)"
+      "value": "FourCC(eate)",
+      "isNullable": false
     },
     "BEAR_DEN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(edol)"
+      "value": "FourCC(edol)",
+      "isNullable": false
     },
     "CHIMAERA_ROOST": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(edos)"
+      "value": "FourCC(edos)",
+      "isNullable": false
     },
     "HUNTERS_HALL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(edob)"
+      "value": "FourCC(edob)",
+      "isNullable": false
     },
     "MOON_WELL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(emow)"
+      "value": "FourCC(emow)",
+      "isNullable": false
     },
     "ELF_MINE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(egol)"
+      "value": "FourCC(egol)",
+      "isNullable": false
     },
     "DEN_OF_WONDERS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(eden)"
+      "value": "FourCC(eden)",
+      "isNullable": false
     },
     "ELF_FARM": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nefm)"
+      "value": "FourCC(nefm)",
+      "isNullable": false
     },
     "ELF_GUARD_TOWER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(negt)"
+      "value": "FourCC(negt)",
+      "isNullable": false
     },
     "HIGH_SKY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(negm)"
+      "value": "FourCC(negm)",
+      "isNullable": false
     },
     "HIGH_EARTH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(negf)"
+      "value": "FourCC(negf)",
+      "isNullable": false
     },
     "HIGH_TOWER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(negt)"
+      "value": "FourCC(negt)",
+      "isNullable": false
     },
     "ELF_HIGH_BARRACKS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nheb)"
+      "value": "FourCC(nheb)",
+      "isNullable": false
     },
     "CORRUPT_LIFE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nctl)"
+      "value": "FourCC(nctl)",
+      "isNullable": false
     },
     "CORRUPT_WELL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ncmw)"
+      "value": "FourCC(ncmw)",
+      "isNullable": false
     },
     "CORRUPT_PROTECTOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ncap)"
+      "value": "FourCC(ncap)",
+      "isNullable": false
     },
     "CORRUPT_WAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ncaw)"
+      "value": "FourCC(ncaw)",
+      "isNullable": false
     },
     "UPG_STR_MOON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Resm)"
+      "value": "FourCC(Resm)",
+      "isNullable": false
     },
     "UPG_STR_WILD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Resw)"
+      "value": "FourCC(Resw)",
+      "isNullable": false
     },
     "UPG_MOON_ARMOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rema)"
+      "value": "FourCC(Rema)",
+      "isNullable": false
     },
     "UPG_HIDES": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rerh)"
+      "value": "FourCC(Rerh)",
+      "isNullable": false
     },
     "UPG_ULTRAVISION": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Reuv)"
+      "value": "FourCC(Reuv)",
+      "isNullable": false
     },
     "UPG_BLESSING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Renb)"
+      "value": "FourCC(Renb)",
+      "isNullable": false
     },
     "UPG_SCOUT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Resc)"
+      "value": "FourCC(Resc)",
+      "isNullable": false
     },
     "UPG_GLAIVE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Remg)"
+      "value": "FourCC(Remg)",
+      "isNullable": false
     },
     "UPG_BOWS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Reib)"
+      "value": "FourCC(Reib)",
+      "isNullable": false
     },
     "UPG_MARKSMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Remk)"
+      "value": "FourCC(Remk)",
+      "isNullable": false
     },
     "UPG_DRUID_TALON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Redt)"
+      "value": "FourCC(Redt)",
+      "isNullable": false
     },
     "UPG_DRUID_CLAW": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Redc)"
+      "value": "FourCC(Redc)",
+      "isNullable": false
     },
     "UPG_ABOLISH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Resi)"
+      "value": "FourCC(Resi)",
+      "isNullable": false
     },
     "UPG_CHIM_ACID": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Recb)"
+      "value": "FourCC(Recb)",
+      "isNullable": false
     },
     "UPG_HIPPO_TAME": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Reht)"
+      "value": "FourCC(Reht)",
+      "isNullable": false
     },
     "UPG_BOLT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Repd)"
+      "value": "FourCC(Repd)",
+      "isNullable": false
     },
     "UPG_MARK_CLAW": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Reeb)"
+      "value": "FourCC(Reeb)",
+      "isNullable": false
     },
     "UPG_MARK_TALON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Reec)"
+      "value": "FourCC(Reec)",
+      "isNullable": false
     },
     "UPG_HARD_SKIN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rehs)"
+      "value": "FourCC(Rehs)",
+      "isNullable": false
     },
     "UPG_RESIST_SKIN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rers)"
+      "value": "FourCC(Rers)",
+      "isNullable": false
     },
     "UPG_WELL_SPRING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rews)"
+      "value": "FourCC(Rews)",
+      "isNullable": false
     },
     "DEMON_GATE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ndmg)"
+      "value": "FourCC(ndmg)",
+      "isNullable": false
     },
     "FELLHOUND": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nfel)"
+      "value": "FourCC(nfel)",
+      "isNullable": false
     },
     "INFERNAL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(ninf)"
+      "value": "FourCC(ninf)",
+      "isNullable": false
     },
     "DOOMGUARD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nbal)"
+      "value": "FourCC(nbal)",
+      "isNullable": false
     },
     "SATYR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nsty)"
+      "value": "FourCC(nsty)",
+      "isNullable": false
     },
     "TRICKSTER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nsat)"
+      "value": "FourCC(nsat)",
+      "isNullable": false
     },
     "SHADOWDANCER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nsts)"
+      "value": "FourCC(nsts)",
+      "isNullable": false
     },
     "SOULSTEALER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nstl)"
+      "value": "FourCC(nstl)",
+      "isNullable": false
     },
     "HELLCALLER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nsth)"
+      "value": "FourCC(nsth)",
+      "isNullable": false
     },
     "SKEL_ARCHER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nska)"
+      "value": "FourCC(nska)",
+      "isNullable": false
     },
     "SKEL_MARKSMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nskm)"
+      "value": "FourCC(nskm)",
+      "isNullable": false
     },
     "SKEL_BURNING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nskf)"
+      "value": "FourCC(nskf)",
+      "isNullable": false
     },
     "SKEL_GIANT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nskg)"
+      "value": "FourCC(nskg)",
+      "isNullable": false
     },
     "FURBOLG": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nfrl)"
+      "value": "FourCC(nfrl)",
+      "isNullable": false
     },
     "FURBOLG_TRACKER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nfrb)"
+      "value": "FourCC(nfrb)",
+      "isNullable": false
     },
     "FURBOLG_SHAMAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nfrs)"
+      "value": "FourCC(nfrs)",
+      "isNullable": false
     },
     "FURBOLG_CHAMP": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nfrg)"
+      "value": "FourCC(nfrg)",
+      "isNullable": false
     },
     "FURBOLG_ELDER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nfre)"
+      "value": "FourCC(nfre)",
+      "isNullable": false
     },
     "NAGA_SORCERESS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Nngs)"
+      "value": "FourCC(Nngs)",
+      "isNullable": false
     },
     "NAGA_VASHJ": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hvsh)"
+      "value": "FourCC(Hvsh)",
+      "isNullable": false
     },
     "NAGA_DRAGON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nsnp\u0027 "
+      "value": "\u0027nsnp\u0027 ",
+      "isNullable": false
     },
     "NAGA_WITCH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nnsw)"
+      "value": "FourCC(nnsw)",
+      "isNullable": false
     },
     "NAGA_SERPENT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nwgs)"
+      "value": "FourCC(nwgs)",
+      "isNullable": false
     },
     "NAGA_HYDRA": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(nhyc)"
+      "value": "FourCC(nhyc)",
+      "isNullable": false
     },
     "NAGA_SLAVE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nmpe\u0027 "
+      "value": "\u0027nmpe\u0027 ",
+      "isNullable": false
     },
     "NAGA_SNAP_DRAGON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "NAGA_DRAGON "
+      "value": "NAGA_DRAGON ",
+      "isNullable": false
     },
     "NAGA_COUATL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "NAGA_SERPENT "
+      "value": "NAGA_SERPENT ",
+      "isNullable": false
     },
     "NAGA_SIREN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "NAGA_WITCH "
+      "value": "NAGA_WITCH ",
+      "isNullable": false
     },
     "NAGA_MYRMIDON": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nmyr\u0027 "
+      "value": "\u0027nmyr\u0027 ",
+      "isNullable": false
     },
     "NAGA_REAVER": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nnmg\u0027 "
+      "value": "\u0027nnmg\u0027 ",
+      "isNullable": false
     },
     "NAGA_TURTLE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "NAGA_HYDRA "
+      "value": "NAGA_HYDRA ",
+      "isNullable": false
     },
     "NAGA_ROYAL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nnrg\u0027 "
+      "value": "\u0027nnrg\u0027 ",
+      "isNullable": false
     },
     "NAGA_TEMPLE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nntt\u0027 "
+      "value": "\u0027nntt\u0027 ",
+      "isNullable": false
     },
     "NAGA_CORAL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nnfm\u0027 "
+      "value": "\u0027nnfm\u0027 ",
+      "isNullable": false
     },
     "NAGA_SHRINE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nnsa\u0027 "
+      "value": "\u0027nnsa\u0027 ",
+      "isNullable": false
     },
     "NAGA_SPAWNING": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nnsg\u0027 "
+      "value": "\u0027nnsg\u0027 ",
+      "isNullable": false
     },
     "NAGA_GUARDIAN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nntg\u0027 "
+      "value": "\u0027nntg\u0027 ",
+      "isNullable": false
     },
     "NAGA_ALTAR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "\u0027nnad\u0027 "
+      "value": "\u0027nnad\u0027 ",
+      "isNullable": false
     },
     "UPG_NAGA_ARMOR": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rnam)"
+      "value": "FourCC(Rnam)",
+      "isNullable": false
     },
     "UPG_NAGA_ATTACK": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rnat)"
+      "value": "FourCC(Rnat)",
+      "isNullable": false
     },
     "UPG_NAGA_ABOLISH": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rnsi)"
+      "value": "FourCC(Rnsi)",
+      "isNullable": false
     },
     "UPG_SIREN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rnsw)"
+      "value": "FourCC(Rnsw)",
+      "isNullable": false
     },
     "UPG_NAGA_ENSNARE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Rnen)"
+      "value": "FourCC(Rnen)",
+      "isNullable": false
     },
     "M1": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "60"
+      "value": "60",
+      "isNullable": false
     },
     "M2": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "2*60"
+      "value": "2*60",
+      "isNullable": false
     },
     "M3": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "3*60"
+      "value": "3*60",
+      "isNullable": false
     },
     "M4": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "4*60"
+      "value": "4*60",
+      "isNullable": false
     },
     "M5": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "5*60"
+      "value": "5*60",
+      "isNullable": false
     },
     "M6": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "6*60"
+      "value": "6*60",
+      "isNullable": false
     },
     "M7": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "7*60"
+      "value": "7*60",
+      "isNullable": false
     },
     "M8": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "8*60"
+      "value": "8*60",
+      "isNullable": false
     },
     "M9": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "9*60"
+      "value": "9*60",
+      "isNullable": false
     },
     "M10": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "10*60"
+      "value": "10*60",
+      "isNullable": false
     },
     "M11": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "11*60"
+      "value": "11*60",
+      "isNullable": false
     },
     "M12": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "12*60"
+      "value": "12*60",
+      "isNullable": false
     },
     "M13": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "13*60"
+      "value": "13*60",
+      "isNullable": false
     },
     "M14": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "14*60"
+      "value": "14*60",
+      "isNullable": false
     },
     "M15": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "15*60"
+      "value": "15*60",
+      "isNullable": false
     },
     "EASY": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "1"
+      "value": "1",
+      "isNullable": false
     },
     "NORMAL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "2"
+      "value": "2",
+      "isNullable": false
     },
     "HARD": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "3"
+      "value": "3",
+      "isNullable": false
     },
     "INSANE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "4 "
+      "value": "4 ",
+      "isNullable": false
     },
     "MELEE_NEWBIE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "1"
+      "value": "1",
+      "isNullable": false
     },
     "MELEE_NORMAL": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "2"
+      "value": "2",
+      "isNullable": false
     },
     "MELEE_INSANE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "3"
+      "value": "3",
+      "isNullable": false
     },
     "ATTACK_CAPTAIN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "1"
+      "value": "1",
+      "isNullable": false
     },
     "DEFENSE_CAPTAIN": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "2"
+      "value": "2",
+      "isNullable": false
     },
     "BOTH_CAPTAINS": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "3"
+      "value": "3",
+      "isNullable": false
     },
     "BUILD_UNIT": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "1"
+      "value": "1",
+      "isNullable": false
     },
     "BUILD_UPGRADE": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "2"
+      "value": "2",
+      "isNullable": false
     },
     "BUILD_EXPAND": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "3"
+      "value": "3",
+      "isNullable": false
     },
     "UPKEEP_TIER1": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "50"
+      "value": "50",
+      "isNullable": false
     },
     "UPKEEP_TIER2": {
+      "description": null,
       "isConstant": true,
       "type": "number",
       "isArray": false,
-      "value": "80"
+      "value": "80",
+      "isNullable": false
     },
     "ai_player": {
+      "description": null,
       "isConstant": false,
       "type": "player",
       "isArray": false,
-      "value": ""
+      "value": "",
+      "isNullable": true
     },
     "sleep_seconds": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "total_gold": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "0"
+      "value": "0",
+      "isNullable": false
     },
     "total_wood": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "0"
+      "value": "0",
+      "isNullable": false
     },
     "gold_buffer": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "0 "
+      "value": "0 ",
+      "isNullable": false
     },
     "difficulty": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "NORMAL"
+      "value": "NORMAL",
+      "isNullable": false
     },
     "exp_seen": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "0"
+      "value": "0",
+      "isNullable": false
     },
     "racial_farm": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(hhou)"
+      "value": "FourCC(hhou)",
+      "isNullable": false
     },
     "hero_id": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hamg)"
+      "value": "FourCC(Hamg)",
+      "isNullable": false
     },
     "hero_id2": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hmkg)"
+      "value": "FourCC(Hmkg)",
+      "isNullable": false
     },
     "hero_id3": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "FourCC(Hpal)"
+      "value": "FourCC(Hpal)",
+      "isNullable": false
     },
     "skill": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "skills1": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "skills2": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "skills3": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "max_hero_level": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "0"
+      "value": "0",
+      "isNullable": false
     },
     "harass_qty": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "harass_max": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "harass_units": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "harass_length": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "0"
+      "value": "0",
+      "isNullable": false
     },
     "defense_qty": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "defense_units": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "defense_length": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "0"
+      "value": "0",
+      "isNullable": false
     },
     "build_qty": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "build_type": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "build_item": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "build_town": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": true,
-      "value": ""
+      "value": "",
+      "isNullable": false
     },
     "build_length": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "0"
+      "value": "0",
+      "isNullable": false
     },
     "campaign_gold_peons": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "5"
+      "value": "5",
+      "isNullable": false
     },
     "campaign_wood_peons": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "3"
+      "value": "3",
+      "isNullable": false
     },
     "campaign_basics_speed": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "5"
+      "value": "5",
+      "isNullable": false
     },
     "min_creeps": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "-1"
+      "value": "-1",
+      "isNullable": false
     },
     "max_creeps": {
+      "description": null,
       "isConstant": false,
       "type": "number",
       "isArray": false,
-      "value": "-1"
+      "value": "-1",
+      "isNullable": false
     },
     "harvest_town1": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "true"
+      "value": "true",
+      "isNullable": false
     },
     "harvest_town2": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "true"
+      "value": "true",
+      "isNullable": false
     },
     "harvest_town3": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "true"
+      "value": "true",
+      "isNullable": false
     },
     "do_campaign_farms": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "true"
+      "value": "true",
+      "isNullable": false
     },
     "two_heroes": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "false"
+      "value": "false",
+      "isNullable": false
     },
     "allow_air_creeps": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "false"
+      "value": "false",
+      "isNullable": false
     },
     "take_exp": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "false"
+      "value": "false",
+      "isNullable": false
     },
     "allow_signal_abort": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "false"
+      "value": "false",
+      "isNullable": false
     },
     "ready_for_zeppelin": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "true"
+      "value": "true",
+      "isNullable": false
     },
     "get_zeppelin": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "false"
+      "value": "false",
+      "isNullable": false
     },
     "build_campaign_attackers": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "true"
+      "value": "true",
+      "isNullable": false
     },
     "do_debug_cheats": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "false"
+      "value": "false",
+      "isNullable": false
     },
     "trace_on": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "true"
+      "value": "true",
+      "isNullable": false
     },
     "zep_next_wave": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "false"
+      "value": "false",
+      "isNullable": false
     },
     "form_group_timeouts": {
+      "description": null,
       "isConstant": false,
       "type": "boolean",
       "isArray": false,
-      "value": "true"
+      "value": "true",
+      "isNullable": false
     }
   },
   "natives": {
     "DebugS": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "str",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "DebugFI": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "str",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "val",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "DebugUnitID": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "str",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "val",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "DisplayText": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "p",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "str",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "DisplayTextI": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "p",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "str",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "val",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "DisplayTextII": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "p",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "str",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "DisplayTextIII": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "p",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "str",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v3",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "DoAiScriptDebug": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "GetAiPlayer": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetHeroId": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetHeroLevelAI": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetUnitCount": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetPlayerUnitTypeCount": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetUnitCountDone": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetTownUnitCount": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "tn",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "dn",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetUnitGoldCost": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetUnitWoodCost": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetUnitBuildTime": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetMinesOwned": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetGoldOwned": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "TownWithMine": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "TownHasMine": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "townid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "TownHasHall": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "townid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "GetUpgradeLevel": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetUpgradeGoldCost": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetUpgradeWoodCost": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetNextExpansion": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetMegaTarget": {
+      "description": null,
       "takes": [],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "GetBuilding": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "GetEnemyPower": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "SetAllianceTarget": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "GetAllianceTarget": {
+      "description": null,
       "takes": [],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "SetProduce": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "town",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "Unsummon": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetExpansion": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "peon",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "SetUpgrade": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "SetHeroLevels": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "func",
-          "type": "() =\u003E void"
+          "type": "() =\u003E void",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetNewHeroes": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "PurchaseZeppelin": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "MergeUnits": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "a",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "b",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "make",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "ConvertUnits": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "SetCampaignAI": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetMeleeAI": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetTargetHeroes": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetPeonsRepair": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetRandomPaths": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetDefendPlayer": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetHeroesFlee": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetHeroesBuyItems": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetWatchMegaTargets": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetIgnoreInjured": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetHeroesTakeItems": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetUnitsFlee": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetGroupsFlee": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetSlowChopping": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetCaptainChanges": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "allow",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetSmartArtillery": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetReplacementCount": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "GroupTimedLife": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "allow",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "RemoveInjuries": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "RemoveSiege": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "InitAssault": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AddAssault": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "AddDefenders": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "GetCreepCamp": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "min",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "max",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "flyers_ok",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "StartGetEnemyBase": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "WaitGetEnemyBase": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "GetEnemyBase": {
+      "description": null,
       "takes": [],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "GetExpansionFoe": {
+      "description": null,
       "takes": [],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "GetEnemyExpansion": {
+      "description": null,
       "takes": [],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "GetExpansionX": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetExpansionY": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "SetStagePoint": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AttackMoveKill": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "target",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AttackMoveXY": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "LoadZepWave": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicidePlayer": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "check_full",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "SuicidePlayerUnits": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "check_full",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "CaptainInCombat": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "attack_captain",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "IsTowered": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "target",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "ClearHarvestAI": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "HarvestGold": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "town",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "peons",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "HarvestWood": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "town",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "peons",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "GetExpansionPeon": {
+      "description": null,
       "takes": [],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "StopGathering": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AddGuardPost": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "FillGuardPosts": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "ReturnGuardPosts": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CreateCaptains": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetCaptainHome": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "which",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "ResetCaptainLocs": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "ShiftTownSpot": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "TeleportCaptain": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "ClearCaptainTargets": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CaptainAttack": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CaptainVsUnits": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CaptainVsPlayer": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CaptainGoHome": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CaptainIsHome": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "CaptainIsFull": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "CaptainIsEmpty": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "CaptainGroupSize": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "CaptainReadiness": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "CaptainRetreating": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "CaptainReadinessHP": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "CaptainReadinessMa": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "CaptainAtGoal": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "CreepsOnMap": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "SuicideUnit": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "count",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideUnitEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "ct",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "uid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "pid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "StartThread": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "func",
-          "type": "() =\u003E void"
+          "type": "() =\u003E void",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "Sleep": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "UnitAlive": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "UnitInvis": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "id",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "IgnoredUnits": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "TownThreatened": {
+      "description": null,
       "takes": [],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "DisablePathing": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetAmphibious": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CommandsWaiting": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetLastCommand": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetLastData": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "PopLastCommand": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "MeleeDifficulty": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     }
   },
   "functions": {
     "PlayerEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "slot",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "player | null"
+      "returns": "player",
+      "isNullable": true
     },
     "Trace": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "message",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "TraceI": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "message",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "val",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "TraceII": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "message",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "TraceIII": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "message",
-          "type": "string"
+          "type": "string",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "v3",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "InitAI": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "StandardAI": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "heroes",
-          "type": "() =\u003E void"
+          "type": "() =\u003E void",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "peons",
-          "type": "() =\u003E void"
+          "type": "() =\u003E void",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "attacks",
-          "type": "() =\u003E void"
+          "type": "() =\u003E void",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "Min": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "A",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "B",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "Max": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "A",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "B",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "SetZepNextWave": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideSleep": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "WaitForSignal": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "SetWoodPeons": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "count",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetGoldPeons": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "count",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetHarvestLumber": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "harvest",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetFormGroupTimeouts": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "DoCampaignFarms": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "state",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "GetMinorCreep": {
+      "description": null,
       "takes": [],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "GetMajorCreep": {
+      "description": null,
       "takes": [],
-      "returns": "unit | null"
+      "returns": "unit",
+      "isNullable": true
     },
     "GetGold": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "GetWood": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "InitBuildArray": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "InitAssaultGroup": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "InitDefenseGroup": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "InitMeleeGroup": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "PrepFullSuicide": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetReplacements": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "StartTownBuilder": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "func",
-          "type": "() =\u003E void"
+          "type": "() =\u003E void",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetBuildAll": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "t",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "town",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetBuildUnit": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetBuildNext": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetBuildUnitEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SecondaryTown": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "town",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SecTown": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "town",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetBuildUpgr": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetBuildUpgrEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetBuildExpa": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "StartUpgrade": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "level",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "upgid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "BuildFactory": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "HallsCompleted": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "GuardSecondary": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "townid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "GetUnitCountEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "only_done",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "townid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "TownCountEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "only_done",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "townid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "TownCountDone": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "base",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "TownCount": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "base",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "BasicExpansion": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "build_it",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "UpgradeAll": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "baseid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "newid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "TownCountTown": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "base",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "townid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "FoodPool": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "food",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "weak",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "id1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "use1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "strong",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "id2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "use2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "MeleeTownHall": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "townid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "WaitForUnits": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "StartUnit": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "ask_qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "town",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "WaitForTown": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "towns",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "townid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "StartExpansion": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hall",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "OneBuildLoop": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "StaggerSleep": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "base",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "spread",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "BuildLoop": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "StartBuildLoop": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetInitialWave": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AddSleepSeconds": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SleepForever": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "PlayGame": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "ConvertNeeds": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "Conversions": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "desire",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetAssaultGroup": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "max",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "Interleave3": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "e1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "m1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "h1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "e2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "m2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "h2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "e3",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "m3",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "h3",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u3",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SetMeleeGroup": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CampaignDefender": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "level",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CampaignDefenderEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CampaignAttacker": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "level",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "qty",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CampaignAttackerEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "FormGroup": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "testReady",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "WavePrepare": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "PrepTime": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "PrepSuicideOnPlayer": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "boolean"
+      "returns": "boolean",
+      "isNullable": false
     },
     "SleepUntilAtGoal": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SleepInCombat": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AttackMoveXYA": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideOnPlayerWave": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CommonSuicideOnPlayer": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "standard",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "bldgs",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideOnPlayer": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideOnUnits": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideOnPoint": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideUntilSignal": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideOnce": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideUnitA": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideUnitB": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "unitid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "playerid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideUnits": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "u1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u3",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u4",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u5",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u6",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u7",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u8",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u9",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "uA",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideUnitsEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "playerid",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u1",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u2",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u3",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u4",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u5",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u6",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u7",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u8",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "u9",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "uA",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideOnPlayerEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideOnUnitsEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SuicideOnPointEx": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "easy",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "med",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "hard",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "x",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "y",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "ForeverSuicideOnPlayer": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "seconds",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "p",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CommonSleepUntilTargetDead": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "target",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "reform",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SleepUntilTargetDead": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "target",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "ReformUntilTargetDead": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "target",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AttackMoveKillA": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "target",
-          "type": "unit"
+          "type": "unit",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "MinorCreepAttack": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "MajorCreepAttack": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CreepAttackEx": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AnyPlayerAttack": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "ExpansionAttack": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AddSiege": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "GetAllyCount": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "whichPlayer",
-          "type": "player"
+          "type": "player",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "SingleMeleeAttack": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "needs_exp",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "has_siege",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "major_ok",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "air_units",
-          "type": "boolean"
+          "type": "boolean",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "GetZeppelin": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "FoodUsed": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "FoodCap": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "FoodSpace": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "FoodAvail": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "base",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "BuildAttackers": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "BuildDefenders": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CampaignBasicsA": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CampaignBasics": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "CampaignAI": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "farms",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "heroes",
-          "type": "() =\u003E void"
+          "type": "() =\u003E void",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "UnsummonAll": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "SkillArrays": {
+      "description": null,
       "takes": [],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     },
     "SetSkillArray": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "index",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         },
         {
+          "description": null,
           "name": "id",
-          "type": "number"
+          "type": "number",
+          "isNullable": false
         }
       ],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "AwaitMeleeHeroes": {
+      "description": null,
       "takes": [],
-      "returns": "void"
+      "returns": "void",
+      "isNullable": false
     },
     "PickMeleeHero": {
+      "description": null,
       "takes": [
         {
+          "description": null,
           "name": "raceid",
-          "type": "race"
+          "type": "race",
+          "isNullable": false
         }
       ],
-      "returns": "number"
+      "returns": "number",
+      "isNullable": false
     }
   }
 }
