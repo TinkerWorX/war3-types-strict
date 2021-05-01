@@ -16425,7 +16425,7 @@
         }
       ],
       "returns": "playercolor",
-      "isNullable": true
+      "isNullable": false
     },
     "GetPlayerSelectable": {
       "description": null,
@@ -16451,7 +16451,7 @@
         }
       ],
       "returns": "mapcontrol",
-      "isNullable": true
+      "isNullable": false
     },
     "GetPlayerSlotState": {
       "description": null,
@@ -16464,7 +16464,7 @@
         }
       ],
       "returns": "playerslotstate",
-      "isNullable": true
+      "isNullable": false
     },
     "GetPlayerTaxRate": {
       "description": null,
@@ -16527,7 +16527,7 @@
       "description": null,
       "takes": [],
       "returns": "timer",
-      "isNullable": true
+      "isNullable": false
     },
     "DestroyTimer": {
       "description": null,
@@ -16803,7 +16803,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -16828,7 +16828,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -16853,7 +16853,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         },
         {
           "description": null,
@@ -16884,7 +16884,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -16909,7 +16909,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         },
         {
           "description": null,
@@ -16952,7 +16952,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -16983,7 +16983,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -17020,7 +17020,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         },
         {
           "description": null,
@@ -17057,7 +17057,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         },
         {
           "description": null,
@@ -17088,7 +17088,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -17428,7 +17428,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -17447,7 +17447,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         },
         {
           "description": null,
@@ -17478,7 +17478,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -17503,7 +17503,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "void",
@@ -17557,7 +17557,7 @@
         }
       ],
       "returns": "rect",
-      "isNullable": true
+      "isNullable": false
     },
     "RectFromLoc": {
       "description": null,
@@ -17779,7 +17779,7 @@
       "description": null,
       "takes": [],
       "returns": "region",
-      "isNullable": true
+      "isNullable": false
     },
     "RemoveRegion": {
       "description": null,
@@ -17937,7 +17937,7 @@
         }
       ],
       "returns": "location",
-      "isNullable": true
+      "isNullable": false
     },
     "RemoveLocation": {
       "description": null,
@@ -18089,7 +18089,7 @@
       "description": null,
       "takes": [],
       "returns": "trigger",
-      "isNullable": true
+      "isNullable": false
     },
     "DestroyTrigger": {
       "description": null,
@@ -18610,7 +18610,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "event",
@@ -18647,7 +18647,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "event",
@@ -18852,7 +18852,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "event",
@@ -19429,7 +19429,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "event",
@@ -19466,7 +19466,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         }
       ],
       "returns": "event",
@@ -19540,7 +19540,7 @@
         }
       ],
       "returns": "triggeraction",
-      "isNullable": true
+      "isNullable": false
     },
     "TriggerRemoveAction": {
       "description": null,
@@ -19976,7 +19976,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         },
         {
           "description": null,
@@ -20608,7 +20608,7 @@
           "description": null,
           "name": "filter",
           "type": "boolexpr",
-          "isNullable": false
+          "isNullable": true
         },
         {
           "description": null,
