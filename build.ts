@@ -52,7 +52,22 @@ for (const inPath of filePaths) {
             const nativeDeclaration = data.natives[key];
             fs.appendFileSync(outPath, `declare function ${key}(`);
             if (nativeDeclaration.takes.length > 0) {
-                fs.appendFileSync(outPath, nativeDeclaration.takes.map(({ name, type, isNullable }: any) => `${name}: ${type}${isNullable ? " | undefined" : ""}`).join(", "));
+                const isDefaultable: boolean[] = [];
+                let allowDefault = true;
+                for (let i = nativeDeclaration.takes.length - 1; i >= 0; i--) {
+                    allowDefault = allowDefault && nativeDeclaration.takes[i].isNullable;
+                    isDefaultable[i] = allowDefault;
+                }
+                fs.appendFileSync(outPath, nativeDeclaration.takes.map(({ name, type, isNullable }: any, i: number) => {
+                    if (isNullable) {
+                        if (isDefaultable[i]) {
+                            return `${name}${isNullable ? "?" : ""}: ${type}`;
+                        } else {
+                            return `${name}: ${type} | undefined`;
+                        }
+                    }
+                    return `${name}: ${type}`;
+                }).join(", "));
             }
             fs.appendFileSync(outPath, `): ${nativeDeclaration.returns}${nativeDeclaration.isNullable ? " | undefined" : ""};\n`);
         }
@@ -67,7 +82,22 @@ for (const inPath of filePaths) {
             const functionDeclaration = data.functions[key];
             fs.appendFileSync(outPath, `declare function ${key}(`);
             if (functionDeclaration.takes.length > 0) {
-                fs.appendFileSync(outPath, functionDeclaration.takes.map(({ name, type, isNullable }: any) => `${name}: ${type}${isNullable ? " | undefined" : ""}`).join(", "));
+                const isDefaultable: boolean[] = [];
+                let allowDefault = true;
+                for (let i = functionDeclaration.takes.length - 1; i >= 0; i--) {
+                    allowDefault = allowDefault && functionDeclaration.takes[i].isNullable;
+                    isDefaultable[i] = allowDefault;
+                }
+                fs.appendFileSync(outPath, functionDeclaration.takes.map(({ name, type, isNullable }: any, i: number) => {
+                    if (isNullable) {
+                        if (isDefaultable[i]) {
+                            return `${name}${isNullable ? "?" : ""}: ${type}`;
+                        } else {
+                            return `${name}: ${type} | undefined`;
+                        }
+                    }
+                    return `${name}: ${type}`;
+                }).join(", "));
             }
             fs.appendFileSync(outPath, `): ${functionDeclaration.returns}${functionDeclaration.isNullable ? " | undefined" : ""};\n`);
         }
