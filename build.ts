@@ -36,9 +36,9 @@ for (const inPath of filePaths) {
                 fs.appendFileSync(outPath, " var");
             fs.appendFileSync(outPath, ` ${key}`);
             if (globalDeclaration.isArray)
-                fs.appendFileSync(outPath, `: Record<number, ${globalDeclaration.type}${globalDeclaration.isNullable ? " | null" : ""}>;`);
+                fs.appendFileSync(outPath, `: Record<number, ${globalDeclaration.type}${globalDeclaration.isNullable ? " | undefined" : ""}>;`);
             else
-                fs.appendFileSync(outPath, `: ${globalDeclaration.type}${globalDeclaration.isNullable ? " | null" : ""};`);
+                fs.appendFileSync(outPath, `: ${globalDeclaration.type}${globalDeclaration.isNullable ? " | undefined" : ""};`);
             fs.appendFileSync(outPath, "\n");
         }
         fs.appendFileSync(outPath, "\n");
@@ -52,9 +52,9 @@ for (const inPath of filePaths) {
             const nativeDeclaration = data.natives[key];
             fs.appendFileSync(outPath, `declare function ${key}(`);
             if (nativeDeclaration.takes.length > 0) {
-                fs.appendFileSync(outPath, nativeDeclaration.takes.map(({ name, type }: any) => `${name}: ${type}`).join(", "));
+                fs.appendFileSync(outPath, nativeDeclaration.takes.map(({ name, type, isNullable }: any) => `${name}: ${type}${isNullable ? " | undefined" : ""}`).join(", "));
             }
-            fs.appendFileSync(outPath, `): ${nativeDeclaration.returns}${nativeDeclaration.isNullable ? " | null" : ""};\n`);
+            fs.appendFileSync(outPath, `): ${nativeDeclaration.returns}${nativeDeclaration.isNullable ? " | undefined" : ""};\n`);
         }
         fs.appendFileSync(outPath, "\n");
     }
@@ -67,9 +67,9 @@ for (const inPath of filePaths) {
             const functionDeclaration = data.functions[key];
             fs.appendFileSync(outPath, `declare function ${key}(`);
             if (functionDeclaration.takes.length > 0) {
-                fs.appendFileSync(outPath, functionDeclaration.takes.map(({ name, type, isNullable }: any) => `${name}: ${type}${isNullable ? " | null" : ""}`).join(", "));
+                fs.appendFileSync(outPath, functionDeclaration.takes.map(({ name, type, isNullable }: any) => `${name}: ${type}${isNullable ? " | undefined" : ""}`).join(", "));
             }
-            fs.appendFileSync(outPath, `): ${functionDeclaration.returns}${functionDeclaration.isNullable ? " | null" : ""};\n`);
+            fs.appendFileSync(outPath, `): ${functionDeclaration.returns}${functionDeclaration.isNullable ? " | undefined" : ""};\n`);
         }
     }
 }
