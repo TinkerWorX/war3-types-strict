@@ -40781,7 +40781,6 @@
         }
       ],
       "returns": "framehandle",
-	  //Do origin frames return null?
       "isNullable": false
     },
     "BlzFrameGetHeight": {
