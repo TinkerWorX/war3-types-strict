@@ -5,7 +5,8 @@
   "author": "Nikolaj 'William' Mariager",
   "license": "MIT",
   "scripts": {
-    "build": "ts-node build.ts common.j.json common.ai.json blizzard.j.json"
+    "build": "ts-node build.ts common.j.json common.ai.json blizzard.j.json",
+    "prepublishOnly": "npm run build"
   },
   "dependencies": {
     "ts-node": "^10.2.1",
