@@ -1,0 +1,21 @@
+{
+  "name": "HarvestWood",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "town",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "peons",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

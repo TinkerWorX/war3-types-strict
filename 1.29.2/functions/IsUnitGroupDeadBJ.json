@@ -1,0 +1,15 @@
+{
+  "name": "IsUnitGroupDeadBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "g",
+      "type": "group",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

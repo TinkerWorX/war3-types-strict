@@ -1,0 +1,10 @@
+{
+  "name": "UPG_EXHUME",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ruex)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SetTextTagLifespanBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "tt",
+      "type": "texttag",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "lifespan",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

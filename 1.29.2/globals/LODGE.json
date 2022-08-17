@@ -1,0 +1,10 @@
+{
+  "name": "LODGE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(osld)",
+  "isNullable": false,
+  "source": "common.ai"
+}

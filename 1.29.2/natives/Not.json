@@ -1,0 +1,15 @@
+{
+  "name": "Not",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "operand",
+      "type": "boolexpr",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolexpr",
+  "isNullable": false,
+  "source": "common.j"
+}

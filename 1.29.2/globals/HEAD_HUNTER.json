@@ -1,0 +1,10 @@
+{
+  "name": "HEAD_HUNTER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ohun)",
+  "isNullable": false,
+  "source": "common.ai"
+}

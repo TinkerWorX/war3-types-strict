@@ -1,0 +1,15 @@
+{
+  "name": "ConvertUnitType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unittype",
+  "isNullable": true,
+  "source": "common.j"
+}

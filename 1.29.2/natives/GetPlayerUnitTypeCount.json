@@ -1,0 +1,21 @@
+{
+  "name": "GetPlayerUnitTypeCount",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "p",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CameraSetupApplyForceDurationWithZ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichSetup",
+      "type": "camerasetup",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "zDestOffset",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "forceDuration",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

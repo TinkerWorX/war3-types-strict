@@ -1,0 +1,10 @@
+{
+  "name": "CAMERA_MARGIN_BOTTOM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "3",
+  "isNullable": false,
+  "source": "common.j"
+}

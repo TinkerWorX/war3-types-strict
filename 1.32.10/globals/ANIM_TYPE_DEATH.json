@@ -1,0 +1,10 @@
+{
+  "name": "ANIM_TYPE_DEATH",
+  "description": null,
+  "isConstant": true,
+  "type": "animtype",
+  "isArray": false,
+  "value": "ConvertAnimType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

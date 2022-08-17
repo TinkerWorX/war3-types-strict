@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_HERO_BUTTON",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

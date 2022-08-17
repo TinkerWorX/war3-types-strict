@@ -1,0 +1,21 @@
+{
+  "name": "QuestSetDiscovered",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichQuest",
+      "type": "quest",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "discovered",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

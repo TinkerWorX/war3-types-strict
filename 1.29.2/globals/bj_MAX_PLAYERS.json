@@ -1,0 +1,10 @@
+{
+  "name": "bj_MAX_PLAYERS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "GetBJMaxPlayers()",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

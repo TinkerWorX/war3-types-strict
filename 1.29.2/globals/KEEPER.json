@@ -1,0 +1,10 @@
+{
+  "name": "KEEPER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ekee)",
+  "isNullable": false,
+  "source": "common.ai"
+}

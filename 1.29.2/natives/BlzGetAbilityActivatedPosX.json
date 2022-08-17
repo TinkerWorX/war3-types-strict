@@ -1,0 +1,15 @@
+{
+  "name": "BlzGetAbilityActivatedPosX",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilCode",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

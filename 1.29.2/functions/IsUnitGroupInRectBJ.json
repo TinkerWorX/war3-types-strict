@@ -1,0 +1,21 @@
+{
+  "name": "IsUnitGroupInRectBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "g",
+      "type": "group",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "r",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

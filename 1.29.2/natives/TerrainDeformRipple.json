@@ -1,0 +1,69 @@
+{
+  "name": "TerrainDeformRipple",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "depth",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "duration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "count",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "spaceWaves",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeWaves",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radiusStartPct",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "limitNeg",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "terraindeformation",
+  "isNullable": true,
+  "source": "common.j"
+}

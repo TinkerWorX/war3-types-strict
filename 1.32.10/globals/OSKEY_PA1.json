@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_PA1",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($FD)",
+  "isNullable": false,
+  "source": "common.j"
+}

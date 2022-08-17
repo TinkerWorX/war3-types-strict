@@ -1,0 +1,27 @@
+{
+  "name": "SetPlayerAbilityAvailableBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "avail",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "abilid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

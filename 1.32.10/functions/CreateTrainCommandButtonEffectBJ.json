@@ -1,0 +1,15 @@
+{
+  "name": "CreateTrainCommandButtonEffectBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "commandbuttoneffect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

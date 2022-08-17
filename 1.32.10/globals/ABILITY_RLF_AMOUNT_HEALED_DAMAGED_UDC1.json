@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_AMOUNT_HEALED_DAMAGED_UDC1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Udc1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

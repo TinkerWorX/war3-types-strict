@@ -1,0 +1,10 @@
+{
+  "name": "IMMOLATION",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEim)",
+  "isNullable": false,
+  "source": "common.ai"
+}

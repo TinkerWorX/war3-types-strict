@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ATTACK_SPEED_INCREASE_PERCENT_OAE2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Oae2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

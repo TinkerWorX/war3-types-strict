@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_IF_MAX_HIT_POINTS",
+  "description": null,
+  "isConstant": true,
+  "type": "itemintegerfield",
+  "isArray": false,
+  "value": "ConvertItemIntegerField(\u0027ihtp\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

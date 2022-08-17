@@ -1,0 +1,8 @@
+{
+  "name": "CreateCameraSetup",
+  "description": null,
+  "takes": [],
+  "returns": "camerasetup",
+  "isNullable": false,
+  "source": "common.j"
+}

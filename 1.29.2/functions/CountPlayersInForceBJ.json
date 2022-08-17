@@ -1,0 +1,15 @@
+{
+  "name": "CountPlayersInForceBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "f",
+      "type": "force",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SaveGameCache",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichCache",
+      "type": "gamecache",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

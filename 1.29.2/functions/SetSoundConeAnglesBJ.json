@@ -1,0 +1,33 @@
+{
+  "name": "SetSoundConeAnglesBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "inside",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "outside",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "outsideVolumePercent",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

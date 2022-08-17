@@ -1,0 +1,10 @@
+{
+  "name": "racial_farm",
+  "description": null,
+  "isConstant": false,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hhou)",
+  "isNullable": false,
+  "source": "common.ai"
+}

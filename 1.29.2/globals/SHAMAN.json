@@ -1,0 +1,10 @@
+{
+  "name": "SHAMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(oshm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

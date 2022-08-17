@@ -1,0 +1,10 @@
+{
+  "name": "SLAUGHTERHOUSE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(uslh)",
+  "isNullable": false,
+  "source": "common.ai"
+}

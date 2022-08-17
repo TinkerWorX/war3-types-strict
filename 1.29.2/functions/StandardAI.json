@@ -1,0 +1,27 @@
+{
+  "name": "StandardAI",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "heroes",
+      "type": "() =\u003E void",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "peons",
+      "type": "() =\u003E void",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "attacks",
+      "type": "() =\u003E void",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

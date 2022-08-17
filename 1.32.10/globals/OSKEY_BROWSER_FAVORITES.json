@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_BROWSER_FAVORITES",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($AB)",
+  "isNullable": false,
+  "source": "common.j"
+}

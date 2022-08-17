@@ -1,0 +1,10 @@
+{
+  "name": "SYLVANUS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Hvwd)",
+  "isNullable": false,
+  "source": "common.ai"
+}

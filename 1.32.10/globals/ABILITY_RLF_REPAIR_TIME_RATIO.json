@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_REPAIR_TIME_RATIO",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Rep2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

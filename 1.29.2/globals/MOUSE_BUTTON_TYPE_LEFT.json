@@ -1,0 +1,10 @@
+{
+  "name": "MOUSE_BUTTON_TYPE_LEFT",
+  "description": null,
+  "isConstant": true,
+  "type": "mousebuttontype",
+  "isArray": false,
+  "value": "ConvertMouseButtonType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

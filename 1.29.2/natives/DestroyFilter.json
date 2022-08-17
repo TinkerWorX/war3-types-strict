@@ -1,0 +1,15 @@
+{
+  "name": "DestroyFilter",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "f",
+      "type": "filterfunc",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

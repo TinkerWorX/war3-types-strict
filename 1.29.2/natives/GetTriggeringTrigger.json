@@ -1,0 +1,8 @@
+{
+  "name": "GetTriggeringTrigger",
+  "description": null,
+  "takes": [],
+  "returns": "trigger",
+  "isNullable": true,
+  "source": "common.j"
+}

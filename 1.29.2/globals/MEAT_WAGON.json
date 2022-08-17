@@ -1,0 +1,10 @@
+{
+  "name": "MEAT_WAGON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(umtw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

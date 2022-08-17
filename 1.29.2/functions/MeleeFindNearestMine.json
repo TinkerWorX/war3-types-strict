@@ -1,0 +1,21 @@
+{
+  "name": "MeleeFindNearestMine",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "src",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "range",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

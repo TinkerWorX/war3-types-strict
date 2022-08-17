@@ -1,0 +1,8 @@
+{
+  "name": "VersionGet",
+  "description": null,
+  "takes": [],
+  "returns": "version",
+  "isNullable": true,
+  "source": "common.j"
+}

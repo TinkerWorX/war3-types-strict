@@ -1,0 +1,15 @@
+{
+  "name": "GetUnitRallyPoint",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "location",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "DialogAddButtonWithHotkeyBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDialog",
+      "type": "dialog",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "buttonText",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "hotkey",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "button",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

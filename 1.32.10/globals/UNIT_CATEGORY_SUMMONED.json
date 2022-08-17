@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_CATEGORY_SUMMONED",
+  "description": null,
+  "isConstant": true,
+  "type": "unitcategory",
+  "isArray": false,
+  "value": "ConvertUnitCategory(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

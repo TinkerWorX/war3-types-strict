@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MANA_DRAINED_PER_SECOND_NMR1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Nmr1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

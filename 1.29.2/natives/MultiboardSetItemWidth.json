@@ -1,0 +1,21 @@
+{
+  "name": "MultiboardSetItemWidth",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "mbi",
+      "type": "multiboarditem",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "width",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

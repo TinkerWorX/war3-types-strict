@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_MELEE_ATTACKER",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(7)",
+  "isNullable": false,
+  "source": "common.j"
+}

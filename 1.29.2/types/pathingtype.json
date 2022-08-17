@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "pathingtype",
+  "extends": "handle",
+  "source": "common.j"
+}

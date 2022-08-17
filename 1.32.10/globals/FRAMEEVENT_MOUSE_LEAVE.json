@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_MOUSE_LEAVE",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

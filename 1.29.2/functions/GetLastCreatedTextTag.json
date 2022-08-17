@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedTextTag",
+  "description": null,
+  "takes": [],
+  "returns": "texttag",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

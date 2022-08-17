@@ -1,0 +1,27 @@
+{
+  "name": "GroupTargetOrderBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichGroup",
+      "type": "group",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "order",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "targetWidget",
+      "type": "widget",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

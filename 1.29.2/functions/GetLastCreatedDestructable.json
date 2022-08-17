@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedDestructable",
+  "description": null,
+  "takes": [],
+  "returns": "destructable",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MINIMUM_LIFE_REQUIRED",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Rpb3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

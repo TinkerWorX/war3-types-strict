@@ -1,0 +1,10 @@
+{
+  "name": "REGENERATION_TYPE_NIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "regentype",
+  "isArray": false,
+  "value": "ConvertRegenType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

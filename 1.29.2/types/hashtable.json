@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "hashtable",
+  "extends": "agent",
+  "source": "common.j"
+}

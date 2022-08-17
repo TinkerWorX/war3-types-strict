@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_AURA_DURATION",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Apl1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

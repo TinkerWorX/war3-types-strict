@@ -1,0 +1,21 @@
+{
+  "name": "PlayersAreCoAllied",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "playerA",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "playerB",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

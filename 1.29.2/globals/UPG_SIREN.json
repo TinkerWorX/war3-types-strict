@@ -1,0 +1,10 @@
+{
+  "name": "UPG_SIREN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rnsw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

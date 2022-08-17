@@ -1,0 +1,10 @@
+{
+  "name": "SAC_PIT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(usap)",
+  "isNullable": false,
+  "source": "common.ai"
+}

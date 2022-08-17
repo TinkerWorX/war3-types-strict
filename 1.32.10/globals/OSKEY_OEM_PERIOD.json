@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_PERIOD",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($BE)",
+  "isNullable": false,
+  "source": "common.j"
+}

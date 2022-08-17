@@ -1,0 +1,27 @@
+{
+  "name": "GetStoredInteger",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "cache",
+      "type": "gamecache",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "key",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

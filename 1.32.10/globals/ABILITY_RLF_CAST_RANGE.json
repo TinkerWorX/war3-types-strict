@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_CAST_RANGE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027aran\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

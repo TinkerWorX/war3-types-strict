@@ -1,0 +1,27 @@
+{
+  "name": "GetAbilityEffectBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilcode",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "t",
+      "type": "effecttype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

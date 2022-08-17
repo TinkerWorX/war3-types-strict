@@ -1,0 +1,15 @@
+{
+  "name": "MathRound",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "r",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

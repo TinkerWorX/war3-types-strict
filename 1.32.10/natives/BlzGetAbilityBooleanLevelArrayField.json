@@ -1,0 +1,33 @@
+{
+  "name": "BlzGetAbilityBooleanLevelArrayField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichAbility",
+      "type": "ability",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "abilitybooleanlevelarrayfield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

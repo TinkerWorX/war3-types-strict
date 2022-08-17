@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "filterfunc",
+  "extends": "boolexpr",
+  "source": "common.j"
+}

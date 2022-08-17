@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ATTACK_SPEED_REDUCTION_PERCENT_CRI2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Cri2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

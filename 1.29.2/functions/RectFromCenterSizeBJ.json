@@ -1,0 +1,27 @@
+{
+  "name": "RectFromCenterSizeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "center",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "width",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "height",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "rect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

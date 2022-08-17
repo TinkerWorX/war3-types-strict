@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SLF_SPAWN_UNIT_ID_NSY2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringLevelField(\u0027Nsy2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

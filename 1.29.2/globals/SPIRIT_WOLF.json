@@ -1,0 +1,10 @@
+{
+  "name": "SPIRIT_WOLF",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOsf)",
+  "isNullable": false,
+  "source": "common.ai"
+}

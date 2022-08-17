@@ -1,0 +1,21 @@
+{
+  "name": "UnitRemoveTypeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichType",
+      "type": "unittype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

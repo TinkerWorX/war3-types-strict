@@ -1,0 +1,15 @@
+{
+  "name": "ParseTags",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "taggedString",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

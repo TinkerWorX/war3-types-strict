@@ -1,0 +1,15 @@
+{
+  "name": "BlzGetAbilityIcon",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilCode",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

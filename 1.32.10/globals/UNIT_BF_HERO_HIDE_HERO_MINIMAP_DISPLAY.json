@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_BF_HERO_HIDE_HERO_MINIMAP_DISPLAY",
+  "description": null,
+  "isConstant": true,
+  "type": "unitbooleanfield",
+  "isArray": false,
+  "value": "ConvertUnitBooleanField(\u0027uhhm\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

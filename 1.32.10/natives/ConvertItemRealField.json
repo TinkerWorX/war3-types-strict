@@ -1,0 +1,15 @@
+{
+  "name": "ConvertItemRealField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "itemrealfield",
+  "isNullable": true,
+  "source": "common.j"
+}

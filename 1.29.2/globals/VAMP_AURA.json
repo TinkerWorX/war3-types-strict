@@ -1,0 +1,10 @@
+{
+  "name": "VAMP_AURA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AUav)",
+  "isNullable": false,
+  "source": "common.ai"
+}

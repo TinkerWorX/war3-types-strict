@@ -1,0 +1,33 @@
+{
+  "name": "MeleeStartingUnitsForPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichRace",
+      "type": "race",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "doHeroes",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

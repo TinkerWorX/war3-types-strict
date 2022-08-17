@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_MOUSE_WHEEL",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(6)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SOUND_VOLUMEGROUP_AMBIENTSOUNDS",
+  "description": null,
+  "isConstant": true,
+  "type": "volumegroup",
+  "isArray": false,
+  "value": "ConvertVolumeGroup(6)",
+  "isNullable": false,
+  "source": "common.j"
+}

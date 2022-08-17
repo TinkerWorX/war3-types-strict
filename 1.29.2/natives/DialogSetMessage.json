@@ -1,0 +1,21 @@
+{
+  "name": "DialogSetMessage",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDialog",
+      "type": "dialog",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "messageText",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

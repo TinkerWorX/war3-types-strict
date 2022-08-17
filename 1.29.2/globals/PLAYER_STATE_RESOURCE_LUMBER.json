@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_RESOURCE_LUMBER",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

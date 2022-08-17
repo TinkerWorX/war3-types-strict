@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "event",
+  "extends": "agent",
+  "source": "common.j"
+}

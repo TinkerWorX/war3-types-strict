@@ -1,0 +1,10 @@
+{
+  "name": "MAP_CONTROL_RESCUABLE",
+  "description": null,
+  "isConstant": true,
+  "type": "mapcontrol",
+  "isArray": false,
+  "value": "ConvertMapControl(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

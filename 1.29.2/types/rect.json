@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "rect",
+  "extends": "agent",
+  "source": "common.j"
+}

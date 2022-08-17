@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_ROOTED_TURNING",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Roo3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

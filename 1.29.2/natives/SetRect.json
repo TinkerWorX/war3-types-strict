@@ -1,0 +1,39 @@
+{
+  "name": "SetRect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichRect",
+      "type": "rect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "minx",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "miny",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "maxx",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "maxy",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

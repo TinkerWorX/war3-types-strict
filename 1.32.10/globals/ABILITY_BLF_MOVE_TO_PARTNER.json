@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_MOVE_TO_PARTNER",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027coa2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

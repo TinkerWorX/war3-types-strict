@@ -1,0 +1,10 @@
+{
+  "name": "SHADE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ushd)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SetRandomSeed",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "seed",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

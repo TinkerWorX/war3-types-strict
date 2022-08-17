@@ -1,0 +1,15 @@
+{
+  "name": "BlzDestroyFrame",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "frame",
+      "type": "framehandle",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

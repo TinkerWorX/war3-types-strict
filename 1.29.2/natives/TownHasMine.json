@@ -1,0 +1,15 @@
+{
+  "name": "TownHasMine",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "townid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

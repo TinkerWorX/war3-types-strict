@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_IF_CASTER_ATTACHMENTS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerField(\u0027acac\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ATTACK_TYPE_MELEE",
+  "description": null,
+  "isConstant": true,
+  "type": "attacktype",
+  "isArray": false,
+  "value": "ConvertAttackType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

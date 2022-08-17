@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_BF_INCLUDE_AS_RANDOM_CHOICE",
+  "description": null,
+  "isConstant": true,
+  "type": "itembooleanfield",
+  "isArray": false,
+  "value": "ConvertItemBooleanField(\u0027iprn\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

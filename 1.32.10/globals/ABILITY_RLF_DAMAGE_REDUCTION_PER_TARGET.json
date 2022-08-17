@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_REDUCTION_PER_TARGET",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ocl3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

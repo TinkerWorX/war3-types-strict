@@ -1,0 +1,15 @@
+{
+  "name": "CommentString",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "commentString",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "MOON_WELL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(emow)",
+  "isNullable": false,
+  "source": "common.ai"
+}

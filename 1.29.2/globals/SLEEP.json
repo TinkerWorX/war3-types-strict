@@ -1,0 +1,10 @@
+{
+  "name": "SLEEP",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AUsl)",
+  "isNullable": false,
+  "source": "common.ai"
+}

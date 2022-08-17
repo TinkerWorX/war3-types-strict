@@ -1,0 +1,15 @@
+{
+  "name": "HallsCompleted",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

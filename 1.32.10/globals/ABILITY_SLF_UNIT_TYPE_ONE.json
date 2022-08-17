@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SLF_UNIT_TYPE_ONE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringLevelField(\u0027Rai3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

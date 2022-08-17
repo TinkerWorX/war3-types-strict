@@ -1,0 +1,10 @@
+{
+  "name": "PEON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(opeo)",
+  "isNullable": false,
+  "source": "common.ai"
+}

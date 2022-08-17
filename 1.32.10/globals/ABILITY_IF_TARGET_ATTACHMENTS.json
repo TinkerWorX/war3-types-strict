@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_IF_TARGET_ATTACHMENTS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerField(\u0027atac\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

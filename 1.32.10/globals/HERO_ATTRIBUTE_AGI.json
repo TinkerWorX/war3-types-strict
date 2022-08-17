@@ -1,0 +1,10 @@
+{
+  "name": "HERO_ATTRIBUTE_AGI",
+  "description": null,
+  "isConstant": true,
+  "type": "heroattribute",
+  "isArray": false,
+  "value": "ConvertHeroAttribute(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

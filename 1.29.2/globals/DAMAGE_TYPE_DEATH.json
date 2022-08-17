@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_DEATH",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(18)",
+  "isNullable": false,
+  "source": "common.j"
+}

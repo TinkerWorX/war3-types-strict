@@ -1,0 +1,8 @@
+{
+  "name": "BlzGetEventWeaponType",
+  "description": null,
+  "takes": [],
+  "returns": "weapontype",
+  "isNullable": true,
+  "source": "common.j"
+}

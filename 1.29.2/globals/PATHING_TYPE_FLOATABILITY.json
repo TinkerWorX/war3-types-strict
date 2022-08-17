@@ -1,0 +1,10 @@
+{
+  "name": "PATHING_TYPE_FLOATABILITY",
+  "description": null,
+  "isConstant": true,
+  "type": "pathingtype",
+  "isArray": false,
+  "value": "ConvertPathingType(6)",
+  "isNullable": false,
+  "source": "common.j"
+}

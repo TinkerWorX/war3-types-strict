@@ -1,0 +1,10 @@
+{
+  "name": "CRITICAL_STRIKE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOcr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

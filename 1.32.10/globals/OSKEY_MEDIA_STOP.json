@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_MEDIA_STOP",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($B2)",
+  "isNullable": false,
+  "source": "common.j"
+}

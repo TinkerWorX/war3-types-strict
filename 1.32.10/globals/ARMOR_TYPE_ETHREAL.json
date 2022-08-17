@@ -1,0 +1,10 @@
+{
+  "name": "ARMOR_TYPE_ETHREAL",
+  "description": null,
+  "isConstant": true,
+  "type": "armortype",
+  "isArray": false,
+  "value": "ConvertArmorType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

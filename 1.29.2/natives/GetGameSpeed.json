@@ -1,0 +1,8 @@
+{
+  "name": "GetGameSpeed",
+  "description": null,
+  "takes": [],
+  "returns": "gamespeed",
+  "isNullable": true,
+  "source": "common.j"
+}

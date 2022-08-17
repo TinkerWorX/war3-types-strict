@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MAXIMUM_TOTAL_DAMAGE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Efk2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

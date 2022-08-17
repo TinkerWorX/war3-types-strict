@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MOVEMENT_SPEED_INCREASE_PERCENT_BLO2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Blo2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedQuestItemBJ",
+  "description": null,
+  "takes": [],
+  "returns": "questitem",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

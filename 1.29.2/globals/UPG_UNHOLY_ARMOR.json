@@ -1,0 +1,10 @@
+{
+  "name": "UPG_UNHOLY_ARMOR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ruar)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "MOVE_TYPE_HORSE",
+  "description": null,
+  "isConstant": true,
+  "type": "movetype",
+  "isArray": false,
+  "value": "ConvertMoveType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

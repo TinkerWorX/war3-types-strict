@@ -1,0 +1,27 @@
+{
+  "name": "SetTextTagVelocityBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "tt",
+      "type": "texttag",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "speed",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "angle",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

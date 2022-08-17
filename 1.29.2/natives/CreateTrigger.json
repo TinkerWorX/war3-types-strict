@@ -1,0 +1,8 @@
+{
+  "name": "CreateTrigger",
+  "description": null,
+  "takes": [],
+  "returns": "trigger",
+  "isNullable": false,
+  "source": "common.j"
+}

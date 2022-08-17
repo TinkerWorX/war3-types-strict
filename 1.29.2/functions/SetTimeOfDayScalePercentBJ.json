@@ -1,0 +1,15 @@
+{
+  "name": "SetTimeOfDayScalePercentBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "scalePercent",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

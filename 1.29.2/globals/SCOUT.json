@@ -1,0 +1,10 @@
+{
+  "name": "SCOUT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEst)",
+  "isNullable": false,
+  "source": "common.ai"
+}

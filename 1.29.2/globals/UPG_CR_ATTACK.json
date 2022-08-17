@@ -1,0 +1,10 @@
+{
+  "name": "UPG_CR_ATTACK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rura)",
+  "isNullable": false,
+  "source": "common.ai"
+}

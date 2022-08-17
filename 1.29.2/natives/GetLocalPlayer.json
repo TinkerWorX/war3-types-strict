@@ -1,0 +1,8 @@
+{
+  "name": "GetLocalPlayer",
+  "description": null,
+  "takes": [],
+  "returns": "player",
+  "isNullable": false,
+  "source": "common.j"
+}

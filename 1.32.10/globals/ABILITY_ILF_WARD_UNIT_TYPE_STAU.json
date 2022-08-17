@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_WARD_UNIT_TYPE_STAU",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Stau\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

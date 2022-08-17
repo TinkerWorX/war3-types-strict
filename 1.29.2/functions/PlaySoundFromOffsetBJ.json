@@ -1,0 +1,27 @@
+{
+  "name": "PlaySoundFromOffsetBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "volumePercent",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "startingOffset",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

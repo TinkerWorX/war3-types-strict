@@ -1,0 +1,27 @@
+{
+  "name": "CameraSetupApply",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichSetup",
+      "type": "camerasetup",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "doPan",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "panTimed",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

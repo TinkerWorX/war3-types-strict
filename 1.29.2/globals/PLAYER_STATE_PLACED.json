@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_PLACED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(9)",
+  "isNullable": false,
+  "source": "common.j"
+}

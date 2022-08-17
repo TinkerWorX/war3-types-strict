@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_EXTRA_DAMAGE_POA1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Poa1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

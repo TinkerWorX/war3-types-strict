@@ -1,0 +1,10 @@
+{
+  "name": "WEAPON_TYPE_CLAW_MEDIUM_SLICE",
+  "description": null,
+  "isConstant": true,
+  "type": "weapontype",
+  "isArray": false,
+  "value": "ConvertWeaponType(20)",
+  "isNullable": false,
+  "source": "common.j"
+}

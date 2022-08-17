@@ -1,0 +1,15 @@
+{
+  "name": "AllowVictoryDefeat",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "gameResult",
+      "type": "playergameresult",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "Cheat",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "cheatStr",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

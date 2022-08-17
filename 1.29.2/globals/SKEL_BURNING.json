@@ -1,0 +1,10 @@
+{
+  "name": "SKEL_BURNING",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nskf)",
+  "isNullable": false,
+  "source": "common.ai"
+}

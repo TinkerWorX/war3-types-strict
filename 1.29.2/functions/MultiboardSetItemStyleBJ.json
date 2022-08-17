@@ -1,0 +1,39 @@
+{
+  "name": "MultiboardSetItemStyleBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "mb",
+      "type": "multiboard",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "col",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "row",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "showValue",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "showIcon",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

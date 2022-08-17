@@ -1,0 +1,10 @@
+{
+  "name": "MILITIA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hmil)",
+  "isNullable": false,
+  "source": "common.ai"
+}

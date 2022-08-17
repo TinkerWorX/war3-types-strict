@@ -1,0 +1,15 @@
+{
+  "name": "ConvertUnitCategory",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unitcategory",
+  "isNullable": true,
+  "source": "common.j"
+}

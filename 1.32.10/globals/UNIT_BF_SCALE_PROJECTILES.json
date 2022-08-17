@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_BF_SCALE_PROJECTILES",
+  "description": null,
+  "isConstant": true,
+  "type": "unitbooleanfield",
+  "isArray": false,
+  "value": "ConvertUnitBooleanField(\u0027uscb\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

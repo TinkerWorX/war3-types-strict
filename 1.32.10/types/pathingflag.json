@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "pathingflag",
+  "extends": "handle",
+  "source": "common.j"
+}

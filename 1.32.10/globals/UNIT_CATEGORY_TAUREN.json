@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_CATEGORY_TAUREN",
+  "description": null,
+  "isConstant": true,
+  "type": "unitcategory",
+  "isArray": false,
+  "value": "ConvertUnitCategory(2048)",
+  "isNullable": false,
+  "source": "common.j"
+}

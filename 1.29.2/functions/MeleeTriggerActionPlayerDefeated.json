@@ -1,0 +1,8 @@
+{
+  "name": "MeleeTriggerActionPlayerDefeated",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "FAR_SEER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ofar)",
+  "isNullable": false,
+  "source": "common.ai"
+}

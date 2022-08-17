@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_STATE_MAX_LIFE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitstate",
+  "isArray": false,
+  "value": "ConvertUnitState(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

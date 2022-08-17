@@ -1,0 +1,10 @@
+{
+  "name": "JASS_MAX_ARRAY_SIZE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "32768",
+  "isNullable": false,
+  "source": "common.j"
+}

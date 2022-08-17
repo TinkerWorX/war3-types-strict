@@ -1,0 +1,15 @@
+{
+  "name": "GetUnitsOfTypeIdAll",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "group",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "GetRectMinX",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichRect",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

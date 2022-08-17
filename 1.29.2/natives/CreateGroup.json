@@ -1,0 +1,8 @@
+{
+  "name": "CreateGroup",
+  "description": null,
+  "takes": [],
+  "returns": "group",
+  "isNullable": true,
+  "source": "common.j"
+}

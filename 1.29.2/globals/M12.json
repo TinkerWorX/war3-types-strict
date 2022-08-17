@@ -1,0 +1,10 @@
+{
+  "name": "M12",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "12*60",
+  "isNullable": false,
+  "source": "common.ai"
+}

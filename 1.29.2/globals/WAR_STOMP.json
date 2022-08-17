@@ -1,0 +1,10 @@
+{
+  "name": "WAR_STOMP",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOws)",
+  "isNullable": false,
+  "source": "common.ai"
+}

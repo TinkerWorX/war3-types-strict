@@ -1,0 +1,27 @@
+{
+  "name": "SetPlayerAbilityAvailable",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "abilid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "avail",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

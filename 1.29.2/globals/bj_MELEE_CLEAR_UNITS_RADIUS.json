@@ -1,0 +1,10 @@
+{
+  "name": "bj_MELEE_CLEAR_UNITS_RADIUS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "1500",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

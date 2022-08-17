@@ -1,0 +1,10 @@
+{
+  "name": "bj_CINEMATICINDEX_XED",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "10",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

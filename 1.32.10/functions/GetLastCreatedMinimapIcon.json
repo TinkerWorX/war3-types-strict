@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedMinimapIcon",
+  "description": null,
+  "takes": [],
+  "returns": "minimapicon",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "LOCUST_SWARM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AUls)",
+  "isNullable": false,
+  "source": "common.ai"
+}

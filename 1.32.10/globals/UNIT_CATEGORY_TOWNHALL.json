@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_CATEGORY_TOWNHALL",
+  "description": null,
+  "isConstant": true,
+  "type": "unitcategory",
+  "isArray": false,
+  "value": "ConvertUnitCategory(64)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_PLANT",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(20)",
+  "isNullable": false,
+  "source": "common.j"
+}

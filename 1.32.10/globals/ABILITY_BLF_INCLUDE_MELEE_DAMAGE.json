@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_INCLUDE_MELEE_DAMAGE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Ssk5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ConvertLimitOp",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "limitop",
+  "isNullable": true,
+  "source": "common.j"
+}

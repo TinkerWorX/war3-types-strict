@@ -1,0 +1,15 @@
+{
+  "name": "DestroyUnitPool",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPool",
+      "type": "unitpool",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

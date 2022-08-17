@@ -1,0 +1,10 @@
+{
+  "name": "HOLY_BOLT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHhb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

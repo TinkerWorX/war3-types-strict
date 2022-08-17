@@ -1,0 +1,15 @@
+{
+  "name": "SetCineFilterBlendMode",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichMode",
+      "type": "blendmode",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

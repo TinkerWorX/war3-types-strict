@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SLOT_STATE_PLAYING",
+  "description": null,
+  "isConstant": true,
+  "type": "playerslotstate",
+  "isArray": false,
+  "value": "ConvertPlayerSlotState(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

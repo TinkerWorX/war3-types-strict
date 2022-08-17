@@ -1,0 +1,10 @@
+{
+  "name": "WATER_ELEMENTAL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHwe)",
+  "isNullable": false,
+  "source": "common.ai"
+}

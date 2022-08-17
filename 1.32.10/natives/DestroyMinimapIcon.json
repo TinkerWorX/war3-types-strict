@@ -1,0 +1,15 @@
+{
+  "name": "DestroyMinimapIcon",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "pingId",
+      "type": "minimapicon",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

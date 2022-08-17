@@ -1,0 +1,10 @@
+{
+  "name": "LICH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ulic)",
+  "isNullable": false,
+  "source": "common.ai"
+}

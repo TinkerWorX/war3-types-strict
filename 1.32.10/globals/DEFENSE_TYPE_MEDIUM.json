@@ -1,0 +1,10 @@
+{
+  "name": "DEFENSE_TYPE_MEDIUM",
+  "description": null,
+  "isConstant": true,
+  "type": "defensetype",
+  "isArray": false,
+  "value": "ConvertDefenseType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

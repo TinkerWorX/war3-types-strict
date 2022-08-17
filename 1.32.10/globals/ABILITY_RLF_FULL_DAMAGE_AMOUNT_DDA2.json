@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_FULL_DAMAGE_AMOUNT_DDA2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Dda2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

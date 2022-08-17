@@ -1,0 +1,27 @@
+{
+  "name": "BlzFrameSetTextAlignment",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "frame",
+      "type": "framehandle",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "vert",
+      "type": "textaligntype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "horz",
+      "type": "textaligntype",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

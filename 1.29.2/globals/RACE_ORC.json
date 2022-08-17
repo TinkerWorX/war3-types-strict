@@ -1,0 +1,10 @@
+{
+  "name": "RACE_ORC",
+  "description": null,
+  "isConstant": true,
+  "type": "race",
+  "isArray": false,
+  "value": "ConvertRace(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

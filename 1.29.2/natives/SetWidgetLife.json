@@ -1,0 +1,21 @@
+{
+  "name": "SetWidgetLife",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichWidget",
+      "type": "widget",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newLife",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

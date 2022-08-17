@@ -1,0 +1,10 @@
+{
+  "name": "UPG_HARD_SKIN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rehs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

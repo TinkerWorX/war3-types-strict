@@ -1,0 +1,21 @@
+{
+  "name": "UnitItemInSlotBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "itemSlot",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

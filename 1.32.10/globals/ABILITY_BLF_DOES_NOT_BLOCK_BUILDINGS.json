@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_DOES_NOT_BLOCK_BUILDINGS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Eth2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

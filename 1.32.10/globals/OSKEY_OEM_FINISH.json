@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_FINISH",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($F1)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEPOINT_TOP",
+  "description": null,
+  "isConstant": true,
+  "type": "framepointtype",
+  "isArray": false,
+  "value": "ConvertFramePointType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

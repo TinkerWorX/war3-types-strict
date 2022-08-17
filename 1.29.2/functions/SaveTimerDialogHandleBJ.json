@@ -1,0 +1,33 @@
+{
+  "name": "SaveTimerDialogHandleBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTimerdialog",
+      "type": "timerdialog",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "key",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "table",
+      "type": "hashtable",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

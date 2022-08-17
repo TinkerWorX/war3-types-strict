@@ -1,0 +1,10 @@
+{
+  "name": "GRAVEYARD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ugrv)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CountUnitsInGroup",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "g",
+      "type": "group",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

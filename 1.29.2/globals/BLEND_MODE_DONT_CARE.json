@@ -1,0 +1,10 @@
+{
+  "name": "BLEND_MODE_DONT_CARE",
+  "description": null,
+  "isConstant": true,
+  "type": "blendmode",
+  "isArray": false,
+  "value": "ConvertBlendMode(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

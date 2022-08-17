@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_CHAT_MSG",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(13)",
+  "isNullable": false,
+  "source": "common.j"
+}

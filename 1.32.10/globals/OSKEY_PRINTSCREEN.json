@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_PRINTSCREEN",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($2C)",
+  "isNullable": false,
+  "source": "common.j"
+}

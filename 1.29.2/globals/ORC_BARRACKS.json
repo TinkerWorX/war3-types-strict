@@ -1,0 +1,10 @@
+{
+  "name": "ORC_BARRACKS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(obar)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "HIPPO",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ehip)",
+  "isNullable": false,
+  "source": "common.ai"
+}

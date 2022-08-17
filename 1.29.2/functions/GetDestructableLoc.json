@@ -1,0 +1,15 @@
+{
+  "name": "GetDestructableLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDestructable",
+      "type": "destructable",
+      "isNullable": false
+    }
+  ],
+  "returns": "location",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

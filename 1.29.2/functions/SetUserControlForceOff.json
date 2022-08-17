@@ -1,0 +1,15 @@
+{
+  "name": "SetUserControlForceOff",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichForce",
+      "type": "force",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

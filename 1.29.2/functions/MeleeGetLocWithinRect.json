@@ -1,0 +1,21 @@
+{
+  "name": "MeleeGetLocWithinRect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "src",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "r",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "location",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

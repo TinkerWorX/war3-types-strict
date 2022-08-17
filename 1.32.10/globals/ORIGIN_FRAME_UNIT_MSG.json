@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_UNIT_MSG",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(14)",
+  "isNullable": false,
+  "source": "common.j"
+}

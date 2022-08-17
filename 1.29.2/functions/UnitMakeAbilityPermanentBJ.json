@@ -1,0 +1,27 @@
+{
+  "name": "UnitMakeAbilityPermanentBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "permanent",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "abilityId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

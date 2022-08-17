@@ -1,0 +1,8 @@
+{
+  "name": "GetEventUnitState",
+  "description": null,
+  "takes": [],
+  "returns": "unitstate",
+  "isNullable": true,
+  "source": "common.j"
+}

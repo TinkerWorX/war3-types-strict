@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_UNITS_TRAINED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CreateItemPool",
+  "description": null,
+  "takes": [],
+  "returns": "itempool",
+  "isNullable": true,
+  "source": "common.j"
+}

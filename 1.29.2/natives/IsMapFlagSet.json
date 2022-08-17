@@ -1,0 +1,15 @@
+{
+  "name": "IsMapFlagSet",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichMapFlag",
+      "type": "mapflag",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

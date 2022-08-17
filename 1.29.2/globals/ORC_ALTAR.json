@@ -1,0 +1,10 @@
+{
+  "name": "ORC_ALTAR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(oalt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

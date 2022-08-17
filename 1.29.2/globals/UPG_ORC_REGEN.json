@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_REGEN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rotr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

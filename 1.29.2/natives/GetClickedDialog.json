@@ -1,0 +1,8 @@
+{
+  "name": "GetClickedDialog",
+  "description": null,
+  "takes": [],
+  "returns": "dialog",
+  "isNullable": true,
+  "source": "common.j"
+}

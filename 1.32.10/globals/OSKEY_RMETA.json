@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_RMETA",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($5C)",
+  "isNullable": false,
+  "source": "common.j"
+}

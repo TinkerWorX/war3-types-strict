@@ -1,0 +1,10 @@
+{
+  "name": "ELF_ALTAR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(eate)",
+  "isNullable": false,
+  "source": "common.ai"
+}

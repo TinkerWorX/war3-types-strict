@@ -1,0 +1,27 @@
+{
+  "name": "GetCreepCamp",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "min",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "max",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "flyers_ok",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "common.ai"
+}

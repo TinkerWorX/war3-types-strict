@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_STUNNED",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(11)",
+  "isNullable": false,
+  "source": "common.j"
+}

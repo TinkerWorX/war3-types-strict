@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedLightningBJ",
+  "description": null,
+  "takes": [],
+  "returns": "lightning",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

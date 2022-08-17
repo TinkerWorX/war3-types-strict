@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_SHARED_VISION",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

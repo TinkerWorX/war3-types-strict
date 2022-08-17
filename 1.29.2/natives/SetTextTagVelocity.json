@@ -1,0 +1,27 @@
+{
+  "name": "SetTextTagVelocity",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "t",
+      "type": "texttag",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "xvel",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "yvel",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

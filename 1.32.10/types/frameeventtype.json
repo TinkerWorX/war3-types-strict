@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "frameeventtype",
+  "extends": "handle",
+  "source": "common.j"
+}

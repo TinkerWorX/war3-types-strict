@@ -1,0 +1,10 @@
+{
+  "name": "MAP_DENSITY_NONE",
+  "description": null,
+  "isConstant": true,
+  "type": "mapdensity",
+  "isArray": false,
+  "value": "ConvertMapDensity(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

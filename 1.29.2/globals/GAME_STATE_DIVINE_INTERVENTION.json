@@ -1,0 +1,10 @@
+{
+  "name": "GAME_STATE_DIVINE_INTERVENTION",
+  "description": null,
+  "isConstant": true,
+  "type": "igamestate",
+  "isArray": false,
+  "value": "ConvertIGameState(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

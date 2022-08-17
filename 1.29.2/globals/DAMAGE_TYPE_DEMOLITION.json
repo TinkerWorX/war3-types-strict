@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_DEMOLITION",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(22)",
+  "isNullable": false,
+  "source": "common.j"
+}

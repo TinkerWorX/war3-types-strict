@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_HELP_RESPONSE",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

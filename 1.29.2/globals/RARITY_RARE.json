@@ -1,0 +1,10 @@
+{
+  "name": "RARITY_RARE",
+  "description": null,
+  "isConstant": true,
+  "type": "raritycontrol",
+  "isArray": false,
+  "value": "ConvertRarityControl(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

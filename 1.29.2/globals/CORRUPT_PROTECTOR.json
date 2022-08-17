@@ -1,0 +1,10 @@
+{
+  "name": "CORRUPT_PROTECTOR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ncap)",
+  "isNullable": false,
+  "source": "common.ai"
+}

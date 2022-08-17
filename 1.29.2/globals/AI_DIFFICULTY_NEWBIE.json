@@ -1,0 +1,10 @@
+{
+  "name": "AI_DIFFICULTY_NEWBIE",
+  "description": null,
+  "isConstant": true,
+  "type": "aidifficulty",
+  "isArray": false,
+  "value": "ConvertAIDifficulty(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "MultiboardSetItemStyle",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "mbi",
+      "type": "multiboarditem",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "showValue",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "showIcon",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

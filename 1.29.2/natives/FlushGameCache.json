@@ -1,0 +1,15 @@
+{
+  "name": "FlushGameCache",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "cache",
+      "type": "gamecache",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

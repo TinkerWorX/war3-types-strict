@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_RESOURCE_FOOD_USED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "IsTimerDialogDisplayed",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDialog",
+      "type": "timerdialog",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

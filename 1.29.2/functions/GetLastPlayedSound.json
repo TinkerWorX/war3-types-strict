@@ -1,0 +1,8 @@
+{
+  "name": "GetLastPlayedSound",
+  "description": null,
+  "takes": [],
+  "returns": "sound",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

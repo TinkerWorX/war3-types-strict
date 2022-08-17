@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_ARROW_DOWN_UP",
+  "description": null,
+  "isConstant": true,
+  "type": "playerevent",
+  "isArray": false,
+  "value": "ConvertPlayerEvent(266)",
+  "isNullable": false,
+  "source": "common.j"
+}

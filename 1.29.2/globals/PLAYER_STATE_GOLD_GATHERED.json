@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_GOLD_GATHERED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(15)",
+  "isNullable": false,
+  "source": "common.j"
+}

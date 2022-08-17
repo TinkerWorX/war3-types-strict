@@ -1,0 +1,10 @@
+{
+  "name": "DEVOTION_AURA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHad)",
+  "isNullable": false,
+  "source": "common.ai"
+}

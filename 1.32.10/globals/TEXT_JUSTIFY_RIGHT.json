@@ -1,0 +1,10 @@
+{
+  "name": "TEXT_JUSTIFY_RIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "textaligntype",
+  "isArray": false,
+  "value": "ConvertTextAlignType(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "conditionfunc",
+  "extends": "boolexpr",
+  "source": "common.j"
+}

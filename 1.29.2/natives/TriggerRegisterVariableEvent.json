@@ -1,0 +1,33 @@
+{
+  "name": "TriggerRegisterVariableEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "varName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "opcode",
+      "type": "limitop",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "limitval",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

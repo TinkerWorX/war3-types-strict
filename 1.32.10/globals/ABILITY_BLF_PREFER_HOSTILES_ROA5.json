@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_PREFER_HOSTILES_ROA5",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Roa5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

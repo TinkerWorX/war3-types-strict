@@ -1,0 +1,10 @@
+{
+  "name": "BLADE_MASTER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Obla)",
+  "isNullable": false,
+  "source": "common.ai"
+}

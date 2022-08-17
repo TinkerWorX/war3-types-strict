@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_DISABLE_OTHER_ABILITIES",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Ncl5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

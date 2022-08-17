@@ -1,0 +1,10 @@
+{
+  "name": "VERSION_FROZEN_THRONE",
+  "description": null,
+  "isConstant": true,
+  "type": "version",
+  "isArray": false,
+  "value": "ConvertVersion(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

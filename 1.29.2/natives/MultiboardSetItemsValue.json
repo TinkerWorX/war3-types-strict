@@ -1,0 +1,21 @@
+{
+  "name": "MultiboardSetItemsValue",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "multiboard",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_MOUSE_DOWN",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

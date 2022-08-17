@@ -1,0 +1,10 @@
+{
+  "name": "NAGA_VASHJ",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Hvsh)",
+  "isNullable": false,
+  "source": "common.ai"
+}

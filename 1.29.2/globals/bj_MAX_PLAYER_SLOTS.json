@@ -1,0 +1,10 @@
+{
+  "name": "bj_MAX_PLAYER_SLOTS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "GetBJMaxPlayerSlots()",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

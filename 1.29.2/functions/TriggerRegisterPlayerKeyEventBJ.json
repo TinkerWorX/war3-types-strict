@@ -1,0 +1,33 @@
+{
+  "name": "TriggerRegisterPlayerKeyEventBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "trig",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "keType",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "keKey",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

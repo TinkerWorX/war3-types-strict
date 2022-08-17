@@ -1,0 +1,10 @@
+{
+  "name": "DARK_RITUAL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AUdr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TEXMAP_FLAG_NONE",
+  "description": null,
+  "isConstant": true,
+  "type": "texmapflags",
+  "isArray": false,
+  "value": "ConvertTexMapFlags(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

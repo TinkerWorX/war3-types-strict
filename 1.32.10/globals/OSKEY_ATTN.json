@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_ATTN",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($F6)",
+  "isNullable": false,
+  "source": "common.j"
+}

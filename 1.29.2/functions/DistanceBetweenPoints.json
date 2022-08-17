@@ -1,0 +1,21 @@
+{
+  "name": "DistanceBetweenPoints",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "locA",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "locB",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

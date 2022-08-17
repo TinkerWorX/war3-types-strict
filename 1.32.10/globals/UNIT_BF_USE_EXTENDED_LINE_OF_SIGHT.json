@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_BF_USE_EXTENDED_LINE_OF_SIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "unitbooleanfield",
+  "isArray": false,
+  "value": "ConvertUnitBooleanField(\u0027ulos\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

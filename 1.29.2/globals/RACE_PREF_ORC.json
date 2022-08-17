@@ -1,0 +1,10 @@
+{
+  "name": "RACE_PREF_ORC",
+  "description": null,
+  "isConstant": true,
+  "type": "racepreference",
+  "isArray": false,
+  "value": "ConvertRacePref(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

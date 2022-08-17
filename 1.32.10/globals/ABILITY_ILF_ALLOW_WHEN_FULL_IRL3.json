@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_ALLOW_WHEN_FULL_IRL3",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027irl3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_ENHANCED",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

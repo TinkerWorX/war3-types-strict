@@ -1,0 +1,39 @@
+{
+  "name": "UnitDamageTargetBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "target",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "amount",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichAttack",
+      "type": "attacktype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichDamage",
+      "type": "damagetype",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

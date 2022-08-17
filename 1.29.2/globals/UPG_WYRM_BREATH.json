@@ -1,0 +1,10 @@
+{
+  "name": "UPG_WYRM_BREATH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rufb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

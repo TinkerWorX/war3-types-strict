@@ -1,0 +1,10 @@
+{
+  "name": "UPG_DRUID_TALON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Redt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

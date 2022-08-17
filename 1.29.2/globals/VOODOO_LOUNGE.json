@@ -1,0 +1,10 @@
+{
+  "name": "VOODOO_LOUNGE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ovln)",
+  "isNullable": false,
+  "source": "common.ai"
+}

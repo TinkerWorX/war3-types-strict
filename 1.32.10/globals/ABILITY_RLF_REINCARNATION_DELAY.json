@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_REINCARNATION_DELAY",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ore1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

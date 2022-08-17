@@ -1,0 +1,27 @@
+{
+  "name": "StartTimerBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "t",
+      "type": "timer",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "periodic",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeout",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "timer",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

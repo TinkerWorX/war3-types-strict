@@ -1,0 +1,21 @@
+{
+  "name": "BlzEnableSelections",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "enableSelection",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "enableSelectionCircle",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

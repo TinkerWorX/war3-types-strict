@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_CATEGORY_STANDON",
+  "description": null,
+  "isConstant": true,
+  "type": "unitcategory",
+  "isArray": false,
+  "value": "ConvertUnitCategory(1024)",
+  "isNullable": false,
+  "source": "common.j"
+}

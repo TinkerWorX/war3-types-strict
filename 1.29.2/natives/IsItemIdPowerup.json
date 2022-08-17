@@ -1,0 +1,15 @@
+{
+  "name": "IsItemIdPowerup",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "itemId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

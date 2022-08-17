@@ -1,0 +1,27 @@
+{
+  "name": "HaveStoredReal",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "cache",
+      "type": "gamecache",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "key",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

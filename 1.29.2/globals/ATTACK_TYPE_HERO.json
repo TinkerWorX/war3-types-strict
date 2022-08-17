@@ -1,0 +1,10 @@
+{
+  "name": "ATTACK_TYPE_HERO",
+  "description": null,
+  "isConstant": true,
+  "type": "attacktype",
+  "isArray": false,
+  "value": "ConvertAttackType(6)",
+  "isNullable": false,
+  "source": "common.j"
+}

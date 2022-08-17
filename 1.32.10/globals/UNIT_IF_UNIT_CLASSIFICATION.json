@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_UNIT_CLASSIFICATION",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027utyp\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

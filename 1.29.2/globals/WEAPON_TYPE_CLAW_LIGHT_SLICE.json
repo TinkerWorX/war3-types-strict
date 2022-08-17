@@ -1,0 +1,10 @@
+{
+  "name": "WEAPON_TYPE_CLAW_LIGHT_SLICE",
+  "description": null,
+  "isConstant": true,
+  "type": "weapontype",
+  "isArray": false,
+  "value": "ConvertWeaponType(19)",
+  "isNullable": false,
+  "source": "common.j"
+}

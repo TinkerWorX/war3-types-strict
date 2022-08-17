@@ -1,0 +1,15 @@
+{
+  "name": "SetGoldPeons",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "count",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

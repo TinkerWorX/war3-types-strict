@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastCreatedEffect",
+  "description": null,
+  "isConstant": false,
+  "type": "effect",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "StartCampaignAI",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "num",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "script",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

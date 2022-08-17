@@ -1,0 +1,10 @@
+{
+  "name": "PEASANT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hpea)",
+  "isNullable": false,
+  "source": "common.ai"
+}

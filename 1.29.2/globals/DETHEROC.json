@@ -1,0 +1,10 @@
+{
+  "name": "DETHEROC",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Udth)",
+  "isNullable": false,
+  "source": "common.ai"
+}

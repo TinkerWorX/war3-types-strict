@@ -1,0 +1,10 @@
+{
+  "name": "ELF_HIGH_BARRACKS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nheb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

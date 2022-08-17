@@ -1,0 +1,10 @@
+{
+  "name": "NAGA_SIREN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "NAGA_WITCH ",
+  "isNullable": false,
+  "source": "common.ai"
+}

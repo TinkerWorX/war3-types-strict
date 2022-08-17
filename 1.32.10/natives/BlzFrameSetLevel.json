@@ -1,0 +1,21 @@
+{
+  "name": "BlzFrameSetLevel",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "frame",
+      "type": "framehandle",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_BACKTAB",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($F5)",
+  "isNullable": false,
+  "source": "common.j"
+}

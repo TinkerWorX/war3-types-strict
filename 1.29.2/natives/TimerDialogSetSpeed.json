@@ -1,0 +1,21 @@
+{
+  "name": "TimerDialogSetSpeed",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDialog",
+      "type": "timerdialog",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "speedMultFactor",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

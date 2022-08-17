@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_EREOF",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($F9)",
+  "isNullable": false,
+  "source": "common.j"
+}

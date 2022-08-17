@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_RF_ATTACK_DAMAGE_SPILL_DISTANCE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponrealfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponRealField(\u0027usd1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

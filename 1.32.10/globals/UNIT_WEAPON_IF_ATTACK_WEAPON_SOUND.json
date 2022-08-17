@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_IF_ATTACK_WEAPON_SOUND",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponIntegerField(\u0027ucs1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

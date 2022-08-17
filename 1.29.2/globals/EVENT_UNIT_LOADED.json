@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_LOADED",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(88)",
+  "isNullable": false,
+  "source": "common.j"
+}

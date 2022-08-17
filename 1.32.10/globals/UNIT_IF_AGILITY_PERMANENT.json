@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_AGILITY_PERMANENT",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027uagm\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

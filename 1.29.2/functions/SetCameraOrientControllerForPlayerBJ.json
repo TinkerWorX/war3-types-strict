@@ -1,0 +1,33 @@
+{
+  "name": "SetCameraOrientControllerForPlayerBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "xoffset",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "yoffset",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

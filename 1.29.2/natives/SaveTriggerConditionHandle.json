@@ -1,0 +1,33 @@
+{
+  "name": "SaveTriggerConditionHandle",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "table",
+      "type": "hashtable",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "parentKey",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "childKey",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichTriggercondition",
+      "type": "triggercondition",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

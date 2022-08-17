@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_DECIMAL",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($6E)",
+  "isNullable": false,
+  "source": "common.j"
+}

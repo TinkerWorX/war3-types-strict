@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_SHARED_ADVANCED_CONTROL",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "",
+  "isNullable": false,
+  "source": "common.j"
+}

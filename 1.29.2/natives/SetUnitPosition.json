@@ -1,0 +1,27 @@
+{
+  "name": "SetUnitPosition",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newX",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newY",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

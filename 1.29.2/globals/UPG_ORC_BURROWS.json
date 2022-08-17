@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_BURROWS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rorb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

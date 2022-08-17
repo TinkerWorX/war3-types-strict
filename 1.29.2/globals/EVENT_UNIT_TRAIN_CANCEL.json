@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_TRAIN_CANCEL",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(70)",
+  "isNullable": false,
+  "source": "common.j"
+}

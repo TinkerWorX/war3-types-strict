@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_FOLLOW_THROUGH_TIME",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ncl1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetCameraTargetPositionLoc",
+  "description": null,
+  "takes": [],
+  "returns": "location",
+  "isNullable": true,
+  "source": "common.j"
+}

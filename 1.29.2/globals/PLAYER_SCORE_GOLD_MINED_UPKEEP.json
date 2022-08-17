@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_GOLD_MINED_UPKEEP",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(11)",
+  "isNullable": false,
+  "source": "common.j"
+}

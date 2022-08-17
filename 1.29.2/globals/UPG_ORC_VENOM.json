@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_VENOM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rovs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

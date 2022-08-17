@@ -1,0 +1,15 @@
+{
+  "name": "Filter",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "func",
+      "type": "() =\u003E void",
+      "isNullable": false
+    }
+  ],
+  "returns": "filterfunc",
+  "isNullable": false,
+  "source": "common.j"
+}

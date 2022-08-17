@@ -1,0 +1,15 @@
+{
+  "name": "ConvertedPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "convertedPlayerId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "player",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

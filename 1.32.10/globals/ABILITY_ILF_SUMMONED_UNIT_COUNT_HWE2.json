@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_SUMMONED_UNIT_COUNT_HWE2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Hwe2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

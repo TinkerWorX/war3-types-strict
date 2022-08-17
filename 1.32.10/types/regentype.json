@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "regentype",
+  "extends": "handle",
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ItemPoolAddItemType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItemPool",
+      "type": "itempool",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "itemId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "weight",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

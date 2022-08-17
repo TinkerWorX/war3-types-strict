@@ -1,0 +1,21 @@
+{
+  "name": "TownCountTown",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "base",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "townid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetIssuedOrderIdBJ",
+  "description": null,
+  "takes": [],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetEventDamage",
+  "description": null,
+  "takes": [],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

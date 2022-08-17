@@ -1,0 +1,15 @@
+{
+  "name": "ISignBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "a",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

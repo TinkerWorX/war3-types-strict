@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_HIT_POINTS_RESTORED",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Ihps\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

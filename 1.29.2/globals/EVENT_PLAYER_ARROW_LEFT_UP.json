@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_ARROW_LEFT_UP",
+  "description": null,
+  "isConstant": true,
+  "type": "playerevent",
+  "isArray": false,
+  "value": "ConvertPlayerEvent(262)",
+  "isNullable": false,
+  "source": "common.j"
+}

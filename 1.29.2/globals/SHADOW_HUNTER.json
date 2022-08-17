@@ -1,0 +1,10 @@
+{
+  "name": "SHADOW_HUNTER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Oshd)",
+  "isNullable": false,
+  "source": "common.ai"
+}

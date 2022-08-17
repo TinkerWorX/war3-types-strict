@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_PERIOD",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Nso2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

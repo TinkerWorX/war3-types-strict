@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_GOLD_BOUNTY_AWARDED_BASE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027ubba\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

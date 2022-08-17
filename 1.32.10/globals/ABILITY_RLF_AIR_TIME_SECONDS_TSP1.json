@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_AIR_TIME_SECONDS_TSP1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Tsp1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UPG_HIPPO_TAME",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Reht)",
+  "isNullable": false,
+  "source": "common.ai"
+}

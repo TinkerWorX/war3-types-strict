@@ -1,0 +1,33 @@
+{
+  "name": "TriggerRegisterGameStateEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichState",
+      "type": "gamestate",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "opcode",
+      "type": "limitop",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "limitval",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

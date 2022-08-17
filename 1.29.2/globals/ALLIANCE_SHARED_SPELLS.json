@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_SHARED_SPELLS",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

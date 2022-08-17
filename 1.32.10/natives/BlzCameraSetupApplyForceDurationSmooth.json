@@ -1,0 +1,45 @@
+{
+  "name": "BlzCameraSetupApplyForceDurationSmooth",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichSetup",
+      "type": "camerasetup",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "doPan",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "forcedDuration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "easeInDuration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "easeOutDuration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "smoothFactor",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

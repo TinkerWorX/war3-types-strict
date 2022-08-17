@@ -1,0 +1,21 @@
+{
+  "name": "SetFloatGameState",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichFloatGameState",
+      "type": "fgamestate",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedWeatherEffect",
+  "description": null,
+  "takes": [],
+  "returns": "weathereffect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

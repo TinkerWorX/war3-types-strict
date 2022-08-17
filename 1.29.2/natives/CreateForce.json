@@ -1,0 +1,8 @@
+{
+  "name": "CreateForce",
+  "description": null,
+  "takes": [],
+  "returns": "force",
+  "isNullable": true,
+  "source": "common.j"
+}

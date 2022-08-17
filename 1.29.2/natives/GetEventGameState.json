@@ -1,0 +1,8 @@
+{
+  "name": "GetEventGameState",
+  "description": null,
+  "takes": [],
+  "returns": "gamestate",
+  "isNullable": true,
+  "source": "common.j"
+}

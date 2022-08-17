@@ -1,0 +1,21 @@
+{
+  "name": "RectFromLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "min",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "max",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "rect",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "CameraSetTargetNoiseEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "mag",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "velocity",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "vertOnly",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

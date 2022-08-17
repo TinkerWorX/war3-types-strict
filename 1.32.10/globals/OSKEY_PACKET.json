@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_PACKET",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($E7)",
+  "isNullable": false,
+  "source": "common.j"
+}

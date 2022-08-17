@@ -1,0 +1,10 @@
+{
+  "name": "UPG_MOON_ARMOR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rema)",
+  "isNullable": false,
+  "source": "common.ai"
+}

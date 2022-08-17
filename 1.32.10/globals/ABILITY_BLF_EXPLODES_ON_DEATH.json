@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_EXPLODES_ON_DEATH",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Sds6\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

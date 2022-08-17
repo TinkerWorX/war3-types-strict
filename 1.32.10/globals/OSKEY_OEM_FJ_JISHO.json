@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_FJ_JISHO",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($92)",
+  "isNullable": false,
+  "source": "common.j"
+}

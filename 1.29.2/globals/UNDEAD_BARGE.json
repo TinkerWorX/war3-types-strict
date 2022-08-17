@@ -1,0 +1,10 @@
+{
+  "name": "UNDEAD_BARGE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(uarb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_LAUNCH_APP1",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($B6)",
+  "isNullable": false,
+  "source": "common.j"
+}

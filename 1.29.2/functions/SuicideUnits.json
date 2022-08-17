@@ -1,0 +1,69 @@
+{
+  "name": "SuicideUnits",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "u1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u3",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u4",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u5",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u6",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u7",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u8",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u9",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "uA",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_CINEMODE_VOLUME_SPELLS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "0.40",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

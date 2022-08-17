@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_CHARGE_OWNING_PLAYER",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Ans6\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

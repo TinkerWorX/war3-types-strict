@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_CATEGORY_SAPPER",
+  "description": null,
+  "isConstant": true,
+  "type": "unitcategory",
+  "isArray": false,
+  "value": "ConvertUnitCategory(32)",
+  "isNullable": false,
+  "source": "common.j"
+}

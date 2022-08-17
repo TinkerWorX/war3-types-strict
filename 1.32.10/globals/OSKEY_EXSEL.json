@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_EXSEL",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($F8)",
+  "isNullable": false,
+  "source": "common.j"
+}

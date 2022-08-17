@@ -1,0 +1,10 @@
+{
+  "name": "DEFENSE_TYPE_HERO",
+  "description": null,
+  "isConstant": true,
+  "type": "defensetype",
+  "isArray": false,
+  "value": "ConvertDefenseType(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

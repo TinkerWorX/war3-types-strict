@@ -1,0 +1,10 @@
+{
+  "name": "REGENERATION_TYPE_DAY",
+  "description": null,
+  "isConstant": true,
+  "type": "regentype",
+  "isArray": false,
+  "value": "ConvertRegenType(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

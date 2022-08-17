@@ -1,0 +1,10 @@
+{
+  "name": "M3",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "3*60",
+  "isNullable": false,
+  "source": "common.ai"
+}

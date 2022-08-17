@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_RF_TURN_RATE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitrealfield",
+  "isArray": false,
+  "value": "ConvertUnitRealField(\u0027umvr\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

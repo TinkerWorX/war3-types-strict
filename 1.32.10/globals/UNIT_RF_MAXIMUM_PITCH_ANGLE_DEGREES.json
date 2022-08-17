@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_RF_MAXIMUM_PITCH_ANGLE_DEGREES",
+  "description": null,
+  "isConstant": true,
+  "type": "unitrealfield",
+  "isArray": false,
+  "value": "ConvertUnitRealField(\u0027umxp\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

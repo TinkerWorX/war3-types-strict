@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_GRAPHIC_DELAY_LIT1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Lit1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

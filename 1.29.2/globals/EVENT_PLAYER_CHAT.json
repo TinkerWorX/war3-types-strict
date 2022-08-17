@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_CHAT",
+  "description": null,
+  "isConstant": true,
+  "type": "playerevent",
+  "isArray": false,
+  "value": "ConvertPlayerEvent(16)",
+  "isNullable": false,
+  "source": "common.j"
+}

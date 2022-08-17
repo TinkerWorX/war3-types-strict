@@ -1,0 +1,15 @@
+{
+  "name": "GetAbilityName",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilcode",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

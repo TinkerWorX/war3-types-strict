@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ABOM_EXPL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ruax)",
+  "isNullable": false,
+  "source": "common.ai"
+}

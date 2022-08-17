@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_MODECHANGE",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($1F)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "do_debug_cheats",
+  "description": null,
+  "isConstant": false,
+  "type": "boolean",
+  "isArray": false,
+  "value": "false",
+  "isNullable": false,
+  "source": "common.ai"
+}

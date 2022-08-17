@@ -1,0 +1,39 @@
+{
+  "name": "CreateDestructableLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "objectid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "facing",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "scale",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "variation",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "destructable",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "CHAOS_KODO",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nckb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

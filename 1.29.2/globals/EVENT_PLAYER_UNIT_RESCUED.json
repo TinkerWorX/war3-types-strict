@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_RESCUED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(19)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,45 @@
+{
+  "name": "RestoreUnitLocFacingAngleBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "key",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "cache",
+      "type": "gamecache",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "forWhichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "facing",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

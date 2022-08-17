@@ -1,0 +1,27 @@
+{
+  "name": "BlzSetItemStringField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItem",
+      "type": "item",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "itemstringfield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

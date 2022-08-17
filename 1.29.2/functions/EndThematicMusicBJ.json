@@ -1,0 +1,8 @@
+{
+  "name": "EndThematicMusicBJ",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

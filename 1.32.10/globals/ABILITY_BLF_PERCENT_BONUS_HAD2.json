@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_PERCENT_BONUS_HAD2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Had2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

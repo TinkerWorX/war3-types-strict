@@ -1,0 +1,15 @@
+{
+  "name": "SetAmbientNightSound",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "inLabel",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

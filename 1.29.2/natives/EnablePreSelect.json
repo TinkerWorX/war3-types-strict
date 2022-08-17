@@ -1,0 +1,21 @@
+{
+  "name": "EnablePreSelect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "state",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "ui",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

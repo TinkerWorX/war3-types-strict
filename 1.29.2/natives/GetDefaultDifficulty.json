@@ -1,0 +1,8 @@
+{
+  "name": "GetDefaultDifficulty",
+  "description": null,
+  "takes": [],
+  "returns": "gamedifficulty",
+  "isNullable": true,
+  "source": "common.j"
+}

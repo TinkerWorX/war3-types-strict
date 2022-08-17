@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_UPGRADE_FINISH",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(68)",
+  "isNullable": false,
+  "source": "common.j"
+}

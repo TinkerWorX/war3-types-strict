@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_RF_ATTACK_AREA_OF_EFFECT_SMALL_DAMAGE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponrealfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponRealField(\u0027ua1q\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

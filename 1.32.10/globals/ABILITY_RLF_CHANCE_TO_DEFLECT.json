@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_CHANCE_TO_DEFLECT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Def6\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

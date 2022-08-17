@@ -1,0 +1,27 @@
+{
+  "name": "BlzPlaySpecialEffectWithTimeScale",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichEffect",
+      "type": "effect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichAnim",
+      "type": "animtype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeScale",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "CreateQuestBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "questType",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "title",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "description",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "iconPath",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "quest",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

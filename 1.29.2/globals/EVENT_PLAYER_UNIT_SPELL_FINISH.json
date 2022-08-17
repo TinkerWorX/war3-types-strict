@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_SPELL_FINISH",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(275)",
+  "isNullable": false,
+  "source": "common.j"
+}

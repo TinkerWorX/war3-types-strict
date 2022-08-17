@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_TAUREN",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(20)",
+  "isNullable": false,
+  "source": "common.j"
+}

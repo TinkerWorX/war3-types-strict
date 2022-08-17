@@ -1,0 +1,10 @@
+{
+  "name": "NAGA_HYDRA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nhyc)",
+  "isNullable": false,
+  "source": "common.ai"
+}

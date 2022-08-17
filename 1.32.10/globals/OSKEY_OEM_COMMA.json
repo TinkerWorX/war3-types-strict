@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_COMMA",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($BC)",
+  "isNullable": false,
+  "source": "common.j"
+}

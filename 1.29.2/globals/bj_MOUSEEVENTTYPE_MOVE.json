@@ -1,0 +1,10 @@
+{
+  "name": "bj_MOUSEEVENTTYPE_MOVE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "2",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

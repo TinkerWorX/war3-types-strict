@@ -1,0 +1,10 @@
+{
+  "name": "MAP_FOG_ALWAYS_VISIBLE",
+  "description": null,
+  "isConstant": true,
+  "type": "mapflag",
+  "isArray": false,
+  "value": "ConvertMapFlag(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

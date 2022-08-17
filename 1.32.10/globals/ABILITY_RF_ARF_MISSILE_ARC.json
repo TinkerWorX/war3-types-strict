@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RF_ARF_MISSILE_ARC",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityrealfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealField(\u0027amac\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

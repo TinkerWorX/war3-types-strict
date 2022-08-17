@@ -1,0 +1,21 @@
+{
+  "name": "SetTextTagLifespan",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "t",
+      "type": "texttag",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "lifespan",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

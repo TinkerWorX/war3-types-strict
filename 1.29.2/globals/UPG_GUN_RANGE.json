@@ -1,0 +1,10 @@
+{
+  "name": "UPG_GUN_RANGE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhri)",
+  "isNullable": false,
+  "source": "common.ai"
+}

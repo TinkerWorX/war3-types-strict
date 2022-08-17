@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_JUMP",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($EA)",
+  "isNullable": false,
+  "source": "common.j"
+}

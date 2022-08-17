@@ -1,0 +1,21 @@
+{
+  "name": "TriggerAddCondition",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "condition",
+      "type": "boolexpr",
+      "isNullable": false
+    }
+  ],
+  "returns": "triggercondition",
+  "isNullable": true,
+  "source": "common.j"
+}

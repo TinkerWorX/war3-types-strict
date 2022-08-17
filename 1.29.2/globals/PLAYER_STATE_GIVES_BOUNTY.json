@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_GIVES_BOUNTY",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(7)",
+  "isNullable": false,
+  "source": "common.j"
+}

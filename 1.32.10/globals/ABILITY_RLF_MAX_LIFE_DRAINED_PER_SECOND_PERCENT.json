@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MAX_LIFE_DRAINED_PER_SECOND_PERCENT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Udd1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

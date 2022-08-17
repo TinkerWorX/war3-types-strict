@@ -1,0 +1,27 @@
+{
+  "name": "MoveLightningLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichBolt",
+      "type": "lightning",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where1",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where2",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

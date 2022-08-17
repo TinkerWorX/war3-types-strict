@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "force",
+  "extends": "agent",
+  "source": "common.j"
+}

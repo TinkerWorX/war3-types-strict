@@ -1,0 +1,33 @@
+{
+  "name": "ChangeElevatorWallBlocker",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "facing",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "open",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

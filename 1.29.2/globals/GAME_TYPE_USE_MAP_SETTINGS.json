@@ -1,0 +1,10 @@
+{
+  "name": "GAME_TYPE_USE_MAP_SETTINGS",
+  "description": null,
+  "isConstant": true,
+  "type": "gametype",
+  "isArray": false,
+  "value": "ConvertGameType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

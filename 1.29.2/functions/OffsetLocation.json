@@ -1,0 +1,27 @@
+{
+  "name": "OffsetLocation",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dx",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dy",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "location",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

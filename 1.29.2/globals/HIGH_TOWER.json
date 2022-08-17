@@ -1,0 +1,10 @@
+{
+  "name": "HIGH_TOWER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(negt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

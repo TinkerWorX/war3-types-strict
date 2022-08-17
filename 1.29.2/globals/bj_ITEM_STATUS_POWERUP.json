@@ -1,0 +1,10 @@
+{
+  "name": "bj_ITEM_STATUS_POWERUP",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "3",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

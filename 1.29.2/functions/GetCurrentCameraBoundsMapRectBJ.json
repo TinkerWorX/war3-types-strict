@@ -1,0 +1,8 @@
+{
+  "name": "GetCurrentCameraBoundsMapRectBJ",
+  "description": null,
+  "takes": [],
+  "returns": "rect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

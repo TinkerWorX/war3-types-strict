@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_CONSTRUCT_START",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(26)",
+  "isNullable": false,
+  "source": "common.j"
+}

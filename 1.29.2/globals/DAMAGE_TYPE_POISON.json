@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_POISON",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(11)",
+  "isNullable": false,
+  "source": "common.j"
+}

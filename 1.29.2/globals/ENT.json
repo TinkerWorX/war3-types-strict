@@ -1,0 +1,10 @@
+{
+  "name": "ENT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(efon)",
+  "isNullable": false,
+  "source": "common.ai"
+}

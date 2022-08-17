@@ -1,0 +1,33 @@
+{
+  "name": "RegisterStackedSound",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "byPosition",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "rectwidth",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "rectheight",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "RIFLEMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hrif)",
+  "isNullable": false,
+  "source": "common.ai"
+}

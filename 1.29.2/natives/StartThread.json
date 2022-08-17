@@ -1,0 +1,15 @@
+{
+  "name": "StartThread",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "func",
+      "type": "() =\u003E void",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

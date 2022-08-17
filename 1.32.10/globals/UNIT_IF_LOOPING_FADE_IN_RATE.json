@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_LOOPING_FADE_IN_RATE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027ulfi\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

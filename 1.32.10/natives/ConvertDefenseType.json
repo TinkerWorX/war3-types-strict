@@ -1,0 +1,15 @@
+{
+  "name": "ConvertDefenseType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "defensetype",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SetPlayerMaxHeroesAllowed",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "maximum",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

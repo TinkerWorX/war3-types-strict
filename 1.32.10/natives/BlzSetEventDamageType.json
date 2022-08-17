@@ -1,0 +1,15 @@
+{
+  "name": "BlzSetEventDamageType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "damageType",
+      "type": "damagetype",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

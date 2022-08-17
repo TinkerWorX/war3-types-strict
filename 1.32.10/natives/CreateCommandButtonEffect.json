@@ -1,0 +1,21 @@
+{
+  "name": "CreateCommandButtonEffect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilityId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "order",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "commandbuttoneffect",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TARGET_FLAG_DECORATION",
+  "description": null,
+  "isConstant": true,
+  "type": "targetflag",
+  "isArray": false,
+  "value": "ConvertTargetFlag(512)",
+  "isNullable": false,
+  "source": "common.j"
+}

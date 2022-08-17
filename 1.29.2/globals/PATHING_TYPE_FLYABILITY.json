@@ -1,0 +1,10 @@
+{
+  "name": "PATHING_TYPE_FLYABILITY",
+  "description": null,
+  "isConstant": true,
+  "type": "pathingtype",
+  "isArray": false,
+  "value": "ConvertPathingType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

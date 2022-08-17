@@ -1,0 +1,15 @@
+{
+  "name": "ConvertEffectType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "effecttype",
+  "isNullable": true,
+  "source": "common.j"
+}

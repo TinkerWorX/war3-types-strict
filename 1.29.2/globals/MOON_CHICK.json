@@ -1,0 +1,10 @@
+{
+  "name": "MOON_CHICK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Emoo)",
+  "isNullable": false,
+  "source": "common.ai"
+}

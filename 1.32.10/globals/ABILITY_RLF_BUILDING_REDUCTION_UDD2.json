@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_BUILDING_REDUCTION_UDD2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Udd2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

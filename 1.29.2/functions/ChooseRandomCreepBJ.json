@@ -1,0 +1,15 @@
+{
+  "name": "ChooseRandomCreepBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

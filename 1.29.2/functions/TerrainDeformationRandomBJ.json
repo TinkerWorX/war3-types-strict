@@ -1,0 +1,45 @@
+{
+  "name": "TerrainDeformationRandomBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "duration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "minDelta",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "maxDelta",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "updateInterval",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "terraindeformation",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

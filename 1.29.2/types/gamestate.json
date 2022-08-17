@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "gamestate",
+  "extends": "handle",
+  "source": "common.j"
+}

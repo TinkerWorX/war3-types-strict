@@ -1,0 +1,21 @@
+{
+  "name": "BlzGetAbilityStringField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichAbility",
+      "type": "ability",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "abilitystringfield",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

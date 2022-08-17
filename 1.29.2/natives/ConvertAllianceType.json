@@ -1,0 +1,15 @@
+{
+  "name": "ConvertAllianceType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "alliancetype",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "FORCE_NATURE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEfn)",
+  "isNullable": false,
+  "source": "common.ai"
+}

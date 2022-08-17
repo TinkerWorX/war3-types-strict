@@ -1,0 +1,15 @@
+{
+  "name": "BlzGetAnimName",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichAnim",
+      "type": "animtype",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

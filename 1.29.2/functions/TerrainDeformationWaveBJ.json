@@ -1,0 +1,45 @@
+{
+  "name": "TerrainDeformationWaveBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "duration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "source",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "target",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "depth",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "trailDelay",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "terraindeformation",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

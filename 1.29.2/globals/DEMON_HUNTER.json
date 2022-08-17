@@ -1,0 +1,10 @@
+{
+  "name": "DEMON_HUNTER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Edem)",
+  "isNullable": false,
+  "source": "common.ai"
+}

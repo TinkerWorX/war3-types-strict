@@ -1,0 +1,81 @@
+{
+  "name": "Interleave3",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "e1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "m1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "h1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "e2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "m2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "h2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "e3",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "m3",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "h3",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "u3",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

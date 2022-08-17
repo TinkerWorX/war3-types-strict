@@ -1,0 +1,10 @@
+{
+  "name": "bj_MELEE_HERO_TYPE_LIMIT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "1",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

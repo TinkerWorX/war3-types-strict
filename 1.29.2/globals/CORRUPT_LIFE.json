@@ -1,0 +1,10 @@
+{
+  "name": "CORRUPT_LIFE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nctl)",
+  "isNullable": false,
+  "source": "common.ai"
+}

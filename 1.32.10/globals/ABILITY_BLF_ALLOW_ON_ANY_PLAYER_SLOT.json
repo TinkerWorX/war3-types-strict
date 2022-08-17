@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_ALLOW_ON_ANY_PLAYER_SLOT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027sla2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

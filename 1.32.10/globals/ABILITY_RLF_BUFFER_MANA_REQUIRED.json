@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_BUFFER_MANA_REQUIRED",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Eim3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

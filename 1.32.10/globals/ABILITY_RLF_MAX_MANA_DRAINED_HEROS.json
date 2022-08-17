@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MAX_MANA_DRAINED_HEROS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027fbk3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

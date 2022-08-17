@@ -1,0 +1,33 @@
+{
+  "name": "StoreStringBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "value",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "key",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "cache",
+      "type": "gamecache",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

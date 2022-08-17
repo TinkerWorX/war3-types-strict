@@ -1,0 +1,15 @@
+{
+  "name": "GetPlayerController",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "mapcontrol",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_HIDE_BUTTON",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Ihid\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetClickedButtonBJ",
+  "description": null,
+  "takes": [],
+  "returns": "button",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

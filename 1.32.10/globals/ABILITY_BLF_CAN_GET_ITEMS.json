@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_CAN_GET_ITEMS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027inv4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

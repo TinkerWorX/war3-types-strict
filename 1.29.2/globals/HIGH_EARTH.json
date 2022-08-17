@@ -1,0 +1,10 @@
+{
+  "name": "HIGH_EARTH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(negf)",
+  "isNullable": false,
+  "source": "common.ai"
+}

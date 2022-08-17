@@ -1,0 +1,15 @@
+{
+  "name": "QueuedTriggerRemoveByIndex",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "trigIndex",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

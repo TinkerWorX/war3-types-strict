@@ -1,0 +1,10 @@
+{
+  "name": "BANSHEE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(uban)",
+  "isNullable": false,
+  "source": "common.ai"
+}

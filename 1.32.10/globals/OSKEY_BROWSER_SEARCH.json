@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_BROWSER_SEARCH",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($AA)",
+  "isNullable": false,
+  "source": "common.j"
+}

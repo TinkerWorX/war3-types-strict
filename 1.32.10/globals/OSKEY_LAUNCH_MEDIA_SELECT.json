@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_LAUNCH_MEDIA_SELECT",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($B5)",
+  "isNullable": false,
+  "source": "common.j"
+}

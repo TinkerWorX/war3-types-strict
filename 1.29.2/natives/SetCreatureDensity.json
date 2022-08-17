@@ -1,0 +1,15 @@
+{
+  "name": "SetCreatureDensity",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichdensity",
+      "type": "mapdensity",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

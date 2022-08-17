@@ -1,0 +1,10 @@
+{
+  "name": "UPG_MARK_CLAW",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Reeb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_HIT_POINTS_REGENERATION_TYPE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027uhrt\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ACOLYTE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(uaco)",
+  "isNullable": false,
+  "source": "common.ai"
+}

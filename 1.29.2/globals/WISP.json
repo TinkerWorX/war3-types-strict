@@ -1,0 +1,10 @@
+{
+  "name": "WISP",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ewsp)",
+  "isNullable": false,
+  "source": "common.ai"
+}

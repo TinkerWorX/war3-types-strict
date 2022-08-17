@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_PER_SECOND_IDPS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Idps\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

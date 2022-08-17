@@ -1,0 +1,27 @@
+{
+  "name": "GetPlayerAlliance",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "sourcePlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "otherPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichAllianceSetting",
+      "type": "alliancetype",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

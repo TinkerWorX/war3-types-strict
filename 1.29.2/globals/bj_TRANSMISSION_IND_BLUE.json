@@ -1,0 +1,10 @@
+{
+  "name": "bj_TRANSMISSION_IND_BLUE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "255",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

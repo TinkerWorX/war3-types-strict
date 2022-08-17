@@ -1,0 +1,21 @@
+{
+  "name": "PlayThematicMusicEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "musicFileName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "frommsecs",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

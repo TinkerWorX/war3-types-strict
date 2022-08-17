@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_LIFE_REGENERATION_RATE_PER_SECOND",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027ave5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

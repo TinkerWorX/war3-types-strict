@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_F4",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($73)",
+  "isNullable": false,
+  "source": "common.j"
+}

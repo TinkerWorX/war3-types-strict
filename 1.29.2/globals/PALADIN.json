@@ -1,0 +1,10 @@
+{
+  "name": "PALADIN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Hpal)",
+  "isNullable": false,
+  "source": "common.ai"
+}

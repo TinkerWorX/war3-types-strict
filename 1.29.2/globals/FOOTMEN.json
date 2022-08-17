@@ -1,0 +1,10 @@
+{
+  "name": "FOOTMEN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FOOTMAN",
+  "isNullable": false,
+  "source": "common.ai"
+}

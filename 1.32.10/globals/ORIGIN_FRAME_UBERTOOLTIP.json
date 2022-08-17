@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_UBERTOOLTIP",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(12)",
+  "isNullable": false,
+  "source": "common.j"
+}

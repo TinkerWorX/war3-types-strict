@@ -1,0 +1,10 @@
+{
+  "name": "bj_MISSION_INDEX_XU07",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "bj_CAMPAIGN_OFFSET_XU * 1000 \u002B 7",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

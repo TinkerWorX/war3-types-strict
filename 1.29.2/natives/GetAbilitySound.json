@@ -1,0 +1,21 @@
+{
+  "name": "GetAbilitySound",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilityString",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "t",
+      "type": "soundtype",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

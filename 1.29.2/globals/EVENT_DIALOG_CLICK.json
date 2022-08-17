@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_DIALOG_CLICK",
+  "description": null,
+  "isConstant": true,
+  "type": "dialogevent",
+  "isArray": false,
+  "value": "ConvertDialogEvent(91)",
+  "isNullable": false,
+  "source": "common.j"
+}

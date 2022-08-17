@@ -1,0 +1,10 @@
+{
+  "name": "DEATH_KNIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Udea)",
+  "isNullable": false,
+  "source": "common.ai"
+}

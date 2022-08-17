@@ -1,0 +1,10 @@
+{
+  "name": "CHURCH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(htws)",
+  "isNullable": false,
+  "source": "common.ai"
+}

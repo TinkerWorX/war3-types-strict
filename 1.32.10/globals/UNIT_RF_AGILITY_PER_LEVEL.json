@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_RF_AGILITY_PER_LEVEL",
+  "description": null,
+  "isConstant": true,
+  "type": "unitrealfield",
+  "isArray": false,
+  "value": "ConvertUnitRealField(\u0027uagp\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

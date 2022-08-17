@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ARMOR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhar)",
+  "isNullable": false,
+  "source": "common.ai"
+}

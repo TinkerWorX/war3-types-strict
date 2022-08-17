@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_FJ_MASSHOU",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($93)",
+  "isNullable": false,
+  "source": "common.j"
+}

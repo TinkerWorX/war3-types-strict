@@ -1,0 +1,10 @@
+{
+  "name": "GUARD_TOWER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hgtw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

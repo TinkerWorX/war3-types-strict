@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_PICKUP_ITEM",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(49)",
+  "isNullable": false,
+  "source": "common.j"
+}

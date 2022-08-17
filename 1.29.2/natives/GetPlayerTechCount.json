@@ -1,0 +1,27 @@
+{
+  "name": "GetPlayerTechCount",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "techid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "specificonly",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

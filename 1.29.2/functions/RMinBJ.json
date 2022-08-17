@@ -1,0 +1,21 @@
+{
+  "name": "RMinBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "a",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "b",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

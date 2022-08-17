@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_BF_NEUTRAL_BUILDING_SHOWS_MINIMAP_ICON",
+  "description": null,
+  "isConstant": true,
+  "type": "unitbooleanfield",
+  "isArray": false,
+  "value": "ConvertUnitBooleanField(\u0027unbm\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_IF_COOLDOWN_GROUP",
+  "description": null,
+  "isConstant": true,
+  "type": "itemintegerfield",
+  "isArray": false,
+  "value": "ConvertItemIntegerField(\u0027icid\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

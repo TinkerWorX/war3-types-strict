@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_COMPLETE",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(34)",
+  "isNullable": false,
+  "source": "common.j"
+}

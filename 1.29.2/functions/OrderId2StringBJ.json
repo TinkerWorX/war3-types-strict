@@ -1,0 +1,15 @@
+{
+  "name": "OrderId2StringBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "orderId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DECAYING_DAMAGE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Esh1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

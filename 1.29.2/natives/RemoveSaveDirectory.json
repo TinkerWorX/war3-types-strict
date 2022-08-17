@@ -1,0 +1,15 @@
+{
+  "name": "RemoveSaveDirectory",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "sourceDirName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

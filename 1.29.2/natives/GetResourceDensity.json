@@ -1,0 +1,8 @@
+{
+  "name": "GetResourceDensity",
+  "description": null,
+  "takes": [],
+  "returns": "mapdensity",
+  "isNullable": true,
+  "source": "common.j"
+}

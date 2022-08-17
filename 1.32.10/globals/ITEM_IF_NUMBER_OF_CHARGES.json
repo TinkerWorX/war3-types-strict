@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_IF_NUMBER_OF_CHARGES",
+  "description": null,
+  "isConstant": true,
+  "type": "itemintegerfield",
+  "isArray": false,
+  "value": "ConvertItemIntegerField(\u0027iuse\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

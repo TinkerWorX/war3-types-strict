@@ -1,0 +1,15 @@
+{
+  "name": "SetTeams",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "teamcount",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

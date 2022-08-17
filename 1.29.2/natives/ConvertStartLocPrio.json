@@ -1,0 +1,15 @@
+{
+  "name": "ConvertStartLocPrio",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "startlocprio",
+  "isNullable": true,
+  "source": "common.j"
+}

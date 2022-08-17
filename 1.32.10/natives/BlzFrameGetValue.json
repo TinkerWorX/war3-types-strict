@@ -1,0 +1,15 @@
+{
+  "name": "BlzFrameGetValue",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "frame",
+      "type": "framehandle",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

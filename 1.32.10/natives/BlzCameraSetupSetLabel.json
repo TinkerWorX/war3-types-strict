@@ -1,0 +1,21 @@
+{
+  "name": "BlzCameraSetupSetLabel",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichSetup",
+      "type": "camerasetup",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "label",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SKEL_WARRIOR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(uske)",
+  "isNullable": false,
+  "source": "common.ai"
+}

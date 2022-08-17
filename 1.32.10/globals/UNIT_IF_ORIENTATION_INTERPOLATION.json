@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_ORIENTATION_INTERPOLATION",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027uori\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_USE_ITEM",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(87)",
+  "isNullable": false,
+  "source": "common.j"
+}

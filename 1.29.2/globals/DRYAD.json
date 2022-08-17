@@ -1,0 +1,10 @@
+{
+  "name": "DRYAD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(edry)",
+  "isNullable": false,
+  "source": "common.ai"
+}

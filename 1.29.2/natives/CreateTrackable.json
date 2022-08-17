@@ -1,0 +1,33 @@
+{
+  "name": "CreateTrackable",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "trackableModelPath",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "facing",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "trackable",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "SetLightningColorBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichBolt",
+      "type": "lightning",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "r",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "g",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "b",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "a",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

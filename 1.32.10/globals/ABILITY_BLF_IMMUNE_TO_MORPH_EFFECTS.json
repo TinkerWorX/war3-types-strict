@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_IMMUNE_TO_MORPH_EFFECTS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Eth1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

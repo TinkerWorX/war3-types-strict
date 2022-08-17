@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_DEALT_PERCENT_OF_NORMAL",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Iild\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_CAN_DROP_ITEMS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027inv5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

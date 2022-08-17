@@ -1,0 +1,27 @@
+{
+  "name": "GetUnitStatePercent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichState",
+      "type": "unitstate",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichMaxState",
+      "type": "unitstate",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

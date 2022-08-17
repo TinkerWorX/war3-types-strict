@@ -1,0 +1,10 @@
+{
+  "name": "WEAPON_TYPE_WOOD_MEDIUM_BASH",
+  "description": null,
+  "isConstant": true,
+  "type": "weapontype",
+  "isArray": false,
+  "value": "ConvertWeaponType(15)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_PRINT",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($2A)",
+  "isNullable": false,
+  "source": "common.j"
+}

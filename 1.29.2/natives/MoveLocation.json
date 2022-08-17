@@ -1,0 +1,27 @@
+{
+  "name": "MoveLocation",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newX",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newY",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

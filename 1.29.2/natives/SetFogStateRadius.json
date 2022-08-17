@@ -1,0 +1,45 @@
+{
+  "name": "SetFogStateRadius",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "forWhichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichState",
+      "type": "fogstate",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "centerx",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "centerY",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "useSharedVision",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

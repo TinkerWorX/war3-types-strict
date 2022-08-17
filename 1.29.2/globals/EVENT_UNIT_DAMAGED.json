@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_DAMAGED",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(52)",
+  "isNullable": false,
+  "source": "common.j"
+}

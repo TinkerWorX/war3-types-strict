@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_KANJI",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($19)",
+  "isNullable": false,
+  "source": "common.j"
+}

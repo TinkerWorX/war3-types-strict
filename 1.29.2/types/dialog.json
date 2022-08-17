@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "dialog",
+  "extends": "agent",
+  "source": "common.j"
+}

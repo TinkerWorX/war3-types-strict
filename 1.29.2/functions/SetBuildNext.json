@@ -1,0 +1,21 @@
+{
+  "name": "SetBuildNext",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "qty",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

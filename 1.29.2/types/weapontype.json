@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "weapontype",
+  "extends": "handle",
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_BOLT_DELAY",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Emb2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

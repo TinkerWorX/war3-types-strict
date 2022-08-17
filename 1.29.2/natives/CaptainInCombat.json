@@ -1,0 +1,15 @@
+{
+  "name": "CaptainInCombat",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "attack_captain",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

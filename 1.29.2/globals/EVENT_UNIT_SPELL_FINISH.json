@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_SPELL_FINISH",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(292)",
+  "isNullable": false,
+  "source": "common.j"
+}

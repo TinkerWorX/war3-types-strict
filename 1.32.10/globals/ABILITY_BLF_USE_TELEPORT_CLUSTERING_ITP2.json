@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_USE_TELEPORT_CLUSTERING_ITP2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Itp2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

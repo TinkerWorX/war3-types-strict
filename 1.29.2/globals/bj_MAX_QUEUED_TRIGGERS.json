@@ -1,0 +1,10 @@
+{
+  "name": "bj_MAX_QUEUED_TRIGGERS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "100",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

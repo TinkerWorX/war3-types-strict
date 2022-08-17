@@ -1,0 +1,10 @@
+{
+  "name": "CHAOS_RAIDER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nchr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

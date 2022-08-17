@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_NEW_TIME_OF_DAY_MINUTE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027ict2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

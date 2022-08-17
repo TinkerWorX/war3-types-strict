@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SLOT_STATE_EMPTY",
+  "description": null,
+  "isConstant": true,
+  "type": "playerslotstate",
+  "isArray": false,
+  "value": "ConvertPlayerSlotState(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

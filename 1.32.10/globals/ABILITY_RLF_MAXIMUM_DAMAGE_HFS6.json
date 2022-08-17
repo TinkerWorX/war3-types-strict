@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MAXIMUM_DAMAGE_HFS6",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Hfs6\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

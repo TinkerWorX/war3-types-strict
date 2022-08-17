@@ -1,0 +1,21 @@
+{
+  "name": "DialogAddButtonBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDialog",
+      "type": "dialog",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "buttonText",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "button",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

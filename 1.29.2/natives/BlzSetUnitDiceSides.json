@@ -1,0 +1,27 @@
+{
+  "name": "BlzSetUnitDiceSides",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "diceSides",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "weaponIndex",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

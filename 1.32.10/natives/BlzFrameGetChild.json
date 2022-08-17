@@ -1,0 +1,21 @@
+{
+  "name": "BlzFrameGetChild",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "frame",
+      "type": "framehandle",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "framehandle",
+  "isNullable": true,
+  "source": "common.j"
+}

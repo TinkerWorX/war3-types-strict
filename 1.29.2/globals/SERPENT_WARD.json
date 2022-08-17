@@ -1,0 +1,10 @@
+{
+  "name": "SERPENT_WARD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOsw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

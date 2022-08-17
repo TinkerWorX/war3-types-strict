@@ -1,0 +1,10 @@
+{
+  "name": "ELF_MINE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(egol)",
+  "isNullable": false,
+  "source": "common.ai"
+}

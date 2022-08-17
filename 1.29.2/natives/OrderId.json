@@ -1,0 +1,15 @@
+{
+  "name": "OrderId",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "orderIdString",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

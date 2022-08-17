@@ -1,0 +1,10 @@
+{
+  "name": "AVATAR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHav)",
+  "isNullable": false,
+  "source": "common.ai"
+}

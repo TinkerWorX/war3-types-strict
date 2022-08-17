@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_ISSUED_POINT_ORDER",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(39)",
+  "isNullable": false,
+  "source": "common.j"
+}

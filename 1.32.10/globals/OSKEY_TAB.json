@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_TAB",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($09)",
+  "isNullable": false,
+  "source": "common.j"
+}

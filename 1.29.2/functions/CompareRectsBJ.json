@@ -1,0 +1,21 @@
+{
+  "name": "CompareRectsBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "A",
+      "type": "rect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "B",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SubStringBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "source",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "start",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "end",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

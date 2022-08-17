@@ -1,0 +1,10 @@
+{
+  "name": "WYVERN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(owyv)",
+  "isNullable": false,
+  "source": "common.ai"
+}

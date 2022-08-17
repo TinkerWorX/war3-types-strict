@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_SAPPER",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(17)",
+  "isNullable": false,
+  "source": "common.j"
+}

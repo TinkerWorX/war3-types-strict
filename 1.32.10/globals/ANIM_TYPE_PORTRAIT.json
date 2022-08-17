@@ -1,0 +1,10 @@
+{
+  "name": "ANIM_TYPE_PORTRAIT",
+  "description": null,
+  "isConstant": true,
+  "type": "animtype",
+  "isArray": false,
+  "value": "ConvertAnimType(10)",
+  "isNullable": false,
+  "source": "common.j"
+}

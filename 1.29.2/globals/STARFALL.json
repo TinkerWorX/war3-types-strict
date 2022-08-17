@@ -1,0 +1,10 @@
+{
+  "name": "STARFALL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEsf)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "SetMapMusicIndexedBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "musicName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

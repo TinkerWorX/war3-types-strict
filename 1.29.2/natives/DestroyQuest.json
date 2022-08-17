@@ -1,0 +1,15 @@
+{
+  "name": "DestroyQuest",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichQuest",
+      "type": "quest",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

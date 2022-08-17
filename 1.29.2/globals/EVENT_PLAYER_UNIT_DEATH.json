@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_DEATH",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(20)",
+  "isNullable": false,
+  "source": "common.j"
+}

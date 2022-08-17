@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_SHIFT",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($10)",
+  "isNullable": false,
+  "source": "common.j"
+}

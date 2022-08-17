@@ -1,0 +1,21 @@
+{
+  "name": "RenameSaveDirectoryBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "sourceDirName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "destDirName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "CreateQuestItemBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichQuest",
+      "type": "quest",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "description",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "questitem",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

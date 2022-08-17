@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_PICKUP_ITEM",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(86)",
+  "isNullable": false,
+  "source": "common.j"
+}

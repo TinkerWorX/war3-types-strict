@@ -1,0 +1,27 @@
+{
+  "name": "StartUnit",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "ask_qty",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "town",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

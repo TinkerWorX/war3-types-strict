@@ -1,0 +1,15 @@
+{
+  "name": "PlayThematicMusicBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "musicName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

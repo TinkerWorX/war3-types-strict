@@ -1,0 +1,10 @@
+{
+  "name": "DAMNED_TEMPLE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(utod)",
+  "isNullable": false,
+  "source": "common.ai"
+}

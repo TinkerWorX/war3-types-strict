@@ -1,0 +1,15 @@
+{
+  "name": "NudgeObjectsInRect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "nudgeArea",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

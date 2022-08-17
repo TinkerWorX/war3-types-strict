@@ -1,0 +1,27 @@
+{
+  "name": "EnumUnitsSelected",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "enumFilter",
+      "type": "boolexpr",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "enumAction",
+      "type": "() =\u003E void",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

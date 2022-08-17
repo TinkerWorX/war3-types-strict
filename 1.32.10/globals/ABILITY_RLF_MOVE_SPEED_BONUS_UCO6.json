@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MOVE_SPEED_BONUS_UCO6",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Uco6\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

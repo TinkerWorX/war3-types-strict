@@ -1,0 +1,10 @@
+{
+  "name": "bj_QUEUED_TRIGGER_TIMEOUT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "180.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

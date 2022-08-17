@@ -1,0 +1,45 @@
+{
+  "name": "SetUnitLookAt",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichBone",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "lookAtTarget",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "offsetX",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "offsetY",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "offsetZ",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "MURADIN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Hmbr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ATTACK_SPEED_REDUCTION_PERCENT_HTC4",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Htc4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

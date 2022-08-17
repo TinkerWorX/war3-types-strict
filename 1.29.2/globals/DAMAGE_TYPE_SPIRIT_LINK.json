@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_SPIRIT_LINK",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(24)",
+  "isNullable": false,
+  "source": "common.j"
+}

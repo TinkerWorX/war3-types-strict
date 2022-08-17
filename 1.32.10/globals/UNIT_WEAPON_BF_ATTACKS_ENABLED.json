@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_BF_ATTACKS_ENABLED",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponbooleanfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponBooleanField(\u0027uaen\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

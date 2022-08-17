@@ -1,0 +1,10 @@
+{
+  "name": "DEFENSE_TYPE_FORT",
+  "description": null,
+  "isConstant": true,
+  "type": "defensetype",
+  "isArray": false,
+  "value": "ConvertDefenseType(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "CreateMinimapIconBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "pingPath",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fogVisibility",
+      "type": "fogstate",
+      "isNullable": false
+    }
+  ],
+  "returns": "minimapicon",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

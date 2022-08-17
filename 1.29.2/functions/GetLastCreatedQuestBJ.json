@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedQuestBJ",
+  "description": null,
+  "takes": [],
+  "returns": "quest",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

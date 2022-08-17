@@ -1,0 +1,15 @@
+{
+  "name": "GetPlayersEnemies",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "force",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

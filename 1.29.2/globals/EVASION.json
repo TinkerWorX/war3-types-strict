@@ -1,0 +1,10 @@
+{
+  "name": "EVASION",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEev)",
+  "isNullable": false,
+  "source": "common.ai"
+}

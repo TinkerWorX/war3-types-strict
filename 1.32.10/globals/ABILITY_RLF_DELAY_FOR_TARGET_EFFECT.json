@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DELAY_FOR_TARGET_EFFECT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Idel\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

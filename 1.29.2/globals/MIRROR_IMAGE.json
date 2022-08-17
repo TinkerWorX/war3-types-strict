@@ -1,0 +1,10 @@
+{
+  "name": "MIRROR_IMAGE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOmi)",
+  "isNullable": false,
+  "source": "common.ai"
+}

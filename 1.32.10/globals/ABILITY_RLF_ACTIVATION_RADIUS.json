@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ACTIVATION_RADIUS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Neu1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

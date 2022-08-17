@@ -1,0 +1,10 @@
+{
+  "name": "ATTACK_TYPE_CHAOS",
+  "description": null,
+  "isConstant": true,
+  "type": "attacktype",
+  "isArray": false,
+  "value": "ConvertAttackType(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

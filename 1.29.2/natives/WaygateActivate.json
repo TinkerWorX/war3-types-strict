@@ -1,0 +1,21 @@
+{
+  "name": "WaygateActivate",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "waygate",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "activate",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

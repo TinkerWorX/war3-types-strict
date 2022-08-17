@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_END_CINEMATIC",
+  "description": null,
+  "isConstant": true,
+  "type": "playerevent",
+  "isArray": false,
+  "value": "ConvertPlayerEvent(17)",
+  "isNullable": false,
+  "source": "common.j"
+}

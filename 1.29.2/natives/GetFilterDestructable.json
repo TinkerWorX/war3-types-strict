@@ -1,0 +1,8 @@
+{
+  "name": "GetFilterDestructable",
+  "description": null,
+  "takes": [],
+  "returns": "destructable",
+  "isNullable": true,
+  "source": "common.j"
+}

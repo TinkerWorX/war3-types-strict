@@ -1,0 +1,10 @@
+{
+  "name": "FURBOLG_SHAMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nfrs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

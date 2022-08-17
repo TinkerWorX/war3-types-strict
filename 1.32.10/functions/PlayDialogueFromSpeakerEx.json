@@ -1,0 +1,51 @@
+{
+  "name": "PlayDialogueFromSpeakerEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "toForce",
+      "type": "force",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "speaker",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "speakerType",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeType",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeVal",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "wait",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

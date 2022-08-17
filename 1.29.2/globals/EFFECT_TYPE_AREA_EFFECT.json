@@ -1,0 +1,10 @@
+{
+  "name": "EFFECT_TYPE_AREA_EFFECT",
+  "description": null,
+  "isConstant": true,
+  "type": "effecttype",
+  "isArray": false,
+  "value": "ConvertEffectType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

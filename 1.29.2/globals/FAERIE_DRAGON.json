@@ -1,0 +1,10 @@
+{
+  "name": "FAERIE_DRAGON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(efdr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

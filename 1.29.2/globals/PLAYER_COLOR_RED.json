@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_COLOR_RED",
+  "description": null,
+  "isConstant": true,
+  "type": "playercolor",
+  "isArray": false,
+  "value": "ConvertPlayerColor(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

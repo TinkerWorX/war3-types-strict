@@ -1,0 +1,15 @@
+{
+  "name": "Player",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "number",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "player",
+  "isNullable": true,
+  "source": "common.j"
+}

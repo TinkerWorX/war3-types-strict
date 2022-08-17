@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_CHECKBOX_UNCHECKED",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(8)",
+  "isNullable": false,
+  "source": "common.j"
+}

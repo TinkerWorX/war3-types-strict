@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_SHOW_UNIT_INDICATOR",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Neu4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

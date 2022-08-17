@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_LUMBER",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(36)",
+  "isNullable": false,
+  "source": "common.j"
+}

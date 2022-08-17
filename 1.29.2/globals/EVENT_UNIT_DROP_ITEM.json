@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_DROP_ITEM",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(85)",
+  "isNullable": false,
+  "source": "common.j"
+}

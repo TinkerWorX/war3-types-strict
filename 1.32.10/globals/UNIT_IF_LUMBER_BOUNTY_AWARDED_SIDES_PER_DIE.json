@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_LUMBER_BOUNTY_AWARDED_SIDES_PER_DIE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027ulbs\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

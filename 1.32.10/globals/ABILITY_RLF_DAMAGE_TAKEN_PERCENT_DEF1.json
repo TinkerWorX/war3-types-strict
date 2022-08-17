@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_TAKEN_PERCENT_DEF1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Def1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

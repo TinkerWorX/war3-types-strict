@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_STUN_DURATION_STA4",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Sta4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

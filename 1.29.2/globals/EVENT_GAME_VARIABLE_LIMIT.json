@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_GAME_VARIABLE_LIMIT",
+  "description": null,
+  "isConstant": true,
+  "type": "gameevent",
+  "isArray": false,
+  "value": "ConvertGameEvent(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

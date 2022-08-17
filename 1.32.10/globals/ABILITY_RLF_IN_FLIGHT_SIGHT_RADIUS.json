@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_IN_FLIGHT_SIGHT_RADIUS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Esn1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

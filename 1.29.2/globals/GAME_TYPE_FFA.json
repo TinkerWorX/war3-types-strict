@@ -1,0 +1,10 @@
+{
+  "name": "GAME_TYPE_FFA",
+  "description": null,
+  "isConstant": true,
+  "type": "gametype",
+  "isArray": false,
+  "value": "ConvertGameType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

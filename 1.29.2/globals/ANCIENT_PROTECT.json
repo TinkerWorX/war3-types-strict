@@ -1,0 +1,10 @@
+{
+  "name": "ANCIENT_PROTECT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(etrp)",
+  "isNullable": false,
+  "source": "common.ai"
+}

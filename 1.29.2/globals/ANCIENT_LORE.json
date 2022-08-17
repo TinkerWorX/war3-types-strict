@@ -1,0 +1,10 @@
+{
+  "name": "ANCIENT_LORE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(eaoe)",
+  "isNullable": false,
+  "source": "common.ai"
+}

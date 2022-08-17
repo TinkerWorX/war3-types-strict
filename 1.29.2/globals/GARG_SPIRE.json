@@ -1,0 +1,10 @@
+{
+  "name": "GARG_SPIRE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ugsp)",
+  "isNullable": false,
+  "source": "common.ai"
+}

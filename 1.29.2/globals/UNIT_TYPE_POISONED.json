@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_POISONED",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(21)",
+  "isNullable": false,
+  "source": "common.j"
+}

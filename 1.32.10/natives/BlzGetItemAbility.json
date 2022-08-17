@@ -1,0 +1,21 @@
+{
+  "name": "BlzGetItemAbility",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItem",
+      "type": "item",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "abilCode",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "ability",
+  "isNullable": true,
+  "source": "common.j"
+}

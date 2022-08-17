@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_HERO_DAMAGE_PER_MANA_POINT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027mfl2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "BLINK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEbl)",
+  "isNullable": false,
+  "source": "common.ai"
+}

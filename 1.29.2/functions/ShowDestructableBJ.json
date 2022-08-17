@@ -1,0 +1,21 @@
+{
+  "name": "ShowDestructableBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "flag",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "d",
+      "type": "destructable",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "WEAPON_TYPE_METAL_HEAVY_STAB",
+  "description": null,
+  "isConstant": true,
+  "type": "weapontype",
+  "isArray": false,
+  "value": "ConvertWeaponType(10)",
+  "isNullable": false,
+  "source": "common.j"
+}

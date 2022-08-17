@@ -1,0 +1,21 @@
+{
+  "name": "CreateTimerBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "periodic",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeout",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "timer",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

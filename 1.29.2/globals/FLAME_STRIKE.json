@@ -1,0 +1,10 @@
+{
+  "name": "FLAME_STRIKE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHfs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

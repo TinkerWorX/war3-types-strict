@@ -1,0 +1,27 @@
+{
+  "name": "LoadTriggerConditionHandle",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "table",
+      "type": "hashtable",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "parentKey",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "childKey",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "triggercondition",
+  "isNullable": true,
+  "source": "common.j"
+}

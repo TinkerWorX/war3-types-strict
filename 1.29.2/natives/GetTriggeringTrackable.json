@@ -1,0 +1,8 @@
+{
+  "name": "GetTriggeringTrackable",
+  "description": null,
+  "takes": [],
+  "returns": "trackable",
+  "isNullable": true,
+  "source": "common.j"
+}

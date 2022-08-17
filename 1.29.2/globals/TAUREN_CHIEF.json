@@ -1,0 +1,10 @@
+{
+  "name": "TAUREN_CHIEF",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Otch)",
+  "isNullable": false,
+  "source": "common.ai"
+}

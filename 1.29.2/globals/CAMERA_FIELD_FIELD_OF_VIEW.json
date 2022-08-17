@@ -1,0 +1,10 @@
+{
+  "name": "CAMERA_FIELD_FIELD_OF_VIEW",
+  "description": null,
+  "isConstant": true,
+  "type": "camerafield",
+  "isArray": false,
+  "value": "ConvertCameraField(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

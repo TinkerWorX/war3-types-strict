@@ -1,0 +1,15 @@
+{
+  "name": "SaveGameExists",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "saveName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

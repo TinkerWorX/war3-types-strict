@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_MEDIA_NEXT_TRACK",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($B0)",
+  "isNullable": false,
+  "source": "common.j"
+}

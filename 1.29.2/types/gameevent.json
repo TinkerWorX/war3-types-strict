@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "gameevent",
+  "extends": "eventid",
+  "source": "common.j"
+}

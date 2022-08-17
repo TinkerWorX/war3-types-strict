@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_GOLD_RECEIVED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(15)",
+  "isNullable": false,
+  "source": "common.j"
+}

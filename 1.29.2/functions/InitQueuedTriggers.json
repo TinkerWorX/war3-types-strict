@@ -1,0 +1,8 @@
+{
+  "name": "InitQueuedTriggers",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

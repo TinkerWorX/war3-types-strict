@@ -1,0 +1,10 @@
+{
+  "name": "CRYPT_FIEND",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "PIT_FIEND",
+  "isNullable": false,
+  "source": "common.ai"
+}

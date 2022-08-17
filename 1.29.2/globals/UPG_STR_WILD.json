@@ -1,0 +1,10 @@
+{
+  "name": "UPG_STR_WILD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Resw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

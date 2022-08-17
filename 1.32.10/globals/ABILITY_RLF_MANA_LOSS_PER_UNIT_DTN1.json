@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MANA_LOSS_PER_UNIT_DTN1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Dtn1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

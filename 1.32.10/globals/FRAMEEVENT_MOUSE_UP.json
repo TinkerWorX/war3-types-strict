@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_MOUSE_UP",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

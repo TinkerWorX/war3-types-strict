@@ -1,0 +1,10 @@
+{
+  "name": "TREE_LIFE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(etol)",
+  "isNullable": false,
+  "source": "common.ai"
+}

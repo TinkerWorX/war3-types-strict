@@ -1,0 +1,10 @@
+{
+  "name": "CAMERA_FIELD_ZOFFSET",
+  "description": null,
+  "isConstant": true,
+  "type": "camerafield",
+  "isArray": false,
+  "value": "ConvertCameraField(6)",
+  "isNullable": false,
+  "source": "common.j"
+}

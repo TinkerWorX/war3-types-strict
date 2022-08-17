@@ -1,0 +1,15 @@
+{
+  "name": "GetLightningColorRBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichBolt",
+      "type": "lightning",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

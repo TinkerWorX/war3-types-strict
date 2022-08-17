@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_CATEGORY_WARD",
+  "description": null,
+  "isConstant": true,
+  "type": "unitcategory",
+  "isArray": false,
+  "value": "ConvertUnitCategory(512)",
+  "isNullable": false,
+  "source": "common.j"
+}

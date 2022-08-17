@@ -1,0 +1,8 @@
+{
+  "name": "CaptainRetreating",
+  "description": null,
+  "takes": [],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

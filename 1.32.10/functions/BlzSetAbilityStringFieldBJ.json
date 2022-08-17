@@ -1,0 +1,27 @@
+{
+  "name": "BlzSetAbilityStringFieldBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichAbility",
+      "type": "ability",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "abilitystringfield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "GetUnitRace",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "race",
+  "isNullable": false,
+  "source": "common.j"
+}

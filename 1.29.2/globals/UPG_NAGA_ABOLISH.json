@@ -1,0 +1,10 @@
+{
+  "name": "UPG_NAGA_ABOLISH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rnsi)",
+  "isNullable": false,
+  "source": "common.ai"
+}

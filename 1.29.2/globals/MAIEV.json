@@ -1,0 +1,10 @@
+{
+  "name": "MAIEV",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ewrd)",
+  "isNullable": false,
+  "source": "common.ai"
+}

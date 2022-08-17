@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedGroup",
+  "description": null,
+  "takes": [],
+  "returns": "group",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

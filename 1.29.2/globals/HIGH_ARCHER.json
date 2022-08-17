@@ -1,0 +1,10 @@
+{
+  "name": "HIGH_ARCHER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nhea)",
+  "isNullable": false,
+  "source": "common.ai"
+}

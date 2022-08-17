@@ -1,0 +1,10 @@
+{
+  "name": "allow_signal_abort",
+  "description": null,
+  "isConstant": false,
+  "type": "boolean",
+  "isArray": false,
+  "value": "false",
+  "isNullable": false,
+  "source": "common.ai"
+}

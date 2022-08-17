@@ -1,0 +1,15 @@
+{
+  "name": "ClearTextMessagesBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "toForce",
+      "type": "force",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

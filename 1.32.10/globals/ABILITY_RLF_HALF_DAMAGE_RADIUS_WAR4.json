@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_HALF_DAMAGE_RADIUS_WAR4",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027War4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

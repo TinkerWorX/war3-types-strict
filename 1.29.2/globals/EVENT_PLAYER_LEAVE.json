@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_LEAVE",
+  "description": null,
+  "isConstant": true,
+  "type": "playerevent",
+  "isArray": false,
+  "value": "ConvertPlayerEvent(15)",
+  "isNullable": false,
+  "source": "common.j"
+}

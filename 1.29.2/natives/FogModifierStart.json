@@ -1,0 +1,15 @@
+{
+  "name": "FogModifierStart",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichFogModifier",
+      "type": "fogmodifier",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "WATCH_TOWER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hwtw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

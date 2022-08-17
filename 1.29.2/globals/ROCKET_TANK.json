@@ -1,0 +1,10 @@
+{
+  "name": "ROCKET_TANK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hrtt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

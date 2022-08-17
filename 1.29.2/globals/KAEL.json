@@ -1,0 +1,10 @@
+{
+  "name": "KAEL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Hkal)",
+  "isNullable": false,
+  "source": "common.ai"
+}

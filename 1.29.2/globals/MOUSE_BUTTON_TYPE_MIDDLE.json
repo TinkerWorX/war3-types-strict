@@ -1,0 +1,10 @@
+{
+  "name": "MOUSE_BUTTON_TYPE_MIDDLE",
+  "description": null,
+  "isConstant": true,
+  "type": "mousebuttontype",
+  "isArray": false,
+  "value": "ConvertMouseButtonType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

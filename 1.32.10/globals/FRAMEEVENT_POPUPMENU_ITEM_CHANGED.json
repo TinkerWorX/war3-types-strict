@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_POPUPMENU_ITEM_CHANGED",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(10)",
+  "isNullable": false,
+  "source": "common.j"
+}

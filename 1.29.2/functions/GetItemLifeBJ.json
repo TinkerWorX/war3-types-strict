@@ -1,0 +1,15 @@
+{
+  "name": "GetItemLifeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichWidget",
+      "type": "widget",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

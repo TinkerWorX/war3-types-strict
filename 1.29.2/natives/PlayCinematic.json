@@ -1,0 +1,15 @@
+{
+  "name": "PlayCinematic",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "movieName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

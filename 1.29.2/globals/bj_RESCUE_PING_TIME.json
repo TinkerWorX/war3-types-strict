@@ -1,0 +1,10 @@
+{
+  "name": "bj_RESCUE_PING_TIME",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "2.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "SleepInCombat",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_MULTIPLIER_HEROES",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Nde4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

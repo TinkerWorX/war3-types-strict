@@ -1,0 +1,27 @@
+{
+  "name": "TimerDialogDisplayForPlayerBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "show",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "td",
+      "type": "timerdialog",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

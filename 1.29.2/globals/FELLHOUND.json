@@ -1,0 +1,10 @@
+{
+  "name": "FELLHOUND",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nfel)",
+  "isNullable": false,
+  "source": "common.ai"
+}

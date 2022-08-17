@@ -1,0 +1,8 @@
+{
+  "name": "GetManipulatingUnit",
+  "description": null,
+  "takes": [],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "common.j"
+}

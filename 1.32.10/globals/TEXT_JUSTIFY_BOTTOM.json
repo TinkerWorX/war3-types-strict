@@ -1,0 +1,10 @@
+{
+  "name": "TEXT_JUSTIFY_BOTTOM",
+  "description": null,
+  "isConstant": true,
+  "type": "textaligntype",
+  "isArray": false,
+  "value": "ConvertTextAlignType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_dncSoundsNight",
+  "description": null,
+  "isConstant": false,
+  "type": "trigger",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

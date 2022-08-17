@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MAX_DAMAGE_NCS4",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ncs4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

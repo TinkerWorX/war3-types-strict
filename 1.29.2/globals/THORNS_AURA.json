@@ -1,0 +1,10 @@
+{
+  "name": "THORNS_AURA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEah)",
+  "isNullable": false,
+  "source": "common.ai"
+}

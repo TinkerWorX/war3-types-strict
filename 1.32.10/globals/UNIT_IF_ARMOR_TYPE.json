@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_ARMOR_TYPE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027uarm\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

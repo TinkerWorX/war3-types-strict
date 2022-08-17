@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_PA2",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($EC)",
+  "isNullable": false,
+  "source": "common.j"
+}

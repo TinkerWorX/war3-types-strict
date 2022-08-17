@@ -1,0 +1,10 @@
+{
+  "name": "M2",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "2*60",
+  "isNullable": false,
+  "source": "common.ai"
+}

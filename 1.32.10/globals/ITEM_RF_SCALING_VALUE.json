@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_RF_SCALING_VALUE",
+  "description": null,
+  "isConstant": true,
+  "type": "itemrealfield",
+  "isArray": false,
+  "value": "ConvertItemRealField(\u0027isca\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

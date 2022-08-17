@@ -1,0 +1,15 @@
+{
+  "name": "QuestCreateItem",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichQuest",
+      "type": "quest",
+      "isNullable": false
+    }
+  ],
+  "returns": "questitem",
+  "isNullable": true,
+  "source": "common.j"
+}

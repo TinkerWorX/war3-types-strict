@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "fgamestate",
+  "extends": "gamestate",
+  "source": "common.j"
+}

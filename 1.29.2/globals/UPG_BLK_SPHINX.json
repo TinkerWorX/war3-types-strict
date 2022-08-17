@@ -1,0 +1,10 @@
+{
+  "name": "UPG_BLK_SPHINX",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rusp)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "HELLCALLER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nsth)",
+  "isNullable": false,
+  "source": "common.ai"
+}

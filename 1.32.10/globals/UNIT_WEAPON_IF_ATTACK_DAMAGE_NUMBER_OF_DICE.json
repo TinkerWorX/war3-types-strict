@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_IF_ATTACK_DAMAGE_NUMBER_OF_DICE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponIntegerField(\u0027ua1d\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

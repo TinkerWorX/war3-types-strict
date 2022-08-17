@@ -1,0 +1,10 @@
+{
+  "name": "SOUND_VOLUMEGROUP_FIRE",
+  "description": null,
+  "isConstant": true,
+  "type": "volumegroup",
+  "isArray": false,
+  "value": "ConvertVolumeGroup(7)",
+  "isNullable": false,
+  "source": "common.j"
+}

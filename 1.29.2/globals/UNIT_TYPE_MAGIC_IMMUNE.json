@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_MAGIC_IMMUNE",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(26)",
+  "isNullable": false,
+  "source": "common.j"
+}

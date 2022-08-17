@@ -1,0 +1,10 @@
+{
+  "name": "UPG_WELL_SPRING",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rews)",
+  "isNullable": false,
+  "source": "common.ai"
+}

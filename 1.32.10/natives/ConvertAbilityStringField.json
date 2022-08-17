@@ -1,0 +1,15 @@
+{
+  "name": "ConvertAbilityStringField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "abilitystringfield",
+  "isNullable": true,
+  "source": "common.j"
+}

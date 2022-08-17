@@ -1,0 +1,15 @@
+{
+  "name": "Unsummon",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

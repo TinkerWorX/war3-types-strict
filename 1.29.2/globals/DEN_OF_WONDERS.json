@@ -1,0 +1,10 @@
+{
+  "name": "DEN_OF_WONDERS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(eden)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "OffsetRectBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "r",
+      "type": "rect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dx",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dy",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "rect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

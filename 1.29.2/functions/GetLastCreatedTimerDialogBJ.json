@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedTimerDialogBJ",
+  "description": null,
+  "takes": [],
+  "returns": "timerdialog",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

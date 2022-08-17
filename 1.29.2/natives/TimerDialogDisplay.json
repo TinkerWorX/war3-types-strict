@@ -1,0 +1,21 @@
+{
+  "name": "TimerDialogDisplay",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDialog",
+      "type": "timerdialog",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "display",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

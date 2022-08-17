@@ -1,0 +1,15 @@
+{
+  "name": "ConvertPlayerScore",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "playerscore",
+  "isNullable": true,
+  "source": "common.j"
+}

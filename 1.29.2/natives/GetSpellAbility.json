@@ -1,0 +1,8 @@
+{
+  "name": "GetSpellAbility",
+  "description": null,
+  "takes": [],
+  "returns": "ability",
+  "isNullable": true,
+  "source": "common.j"
+}

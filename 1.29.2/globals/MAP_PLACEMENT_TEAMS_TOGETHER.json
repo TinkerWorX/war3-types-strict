@@ -1,0 +1,10 @@
+{
+  "name": "MAP_PLACEMENT_TEAMS_TOGETHER",
+  "description": null,
+  "isConstant": true,
+  "type": "placement",
+  "isArray": false,
+  "value": "ConvertPlacement(3) ",
+  "isNullable": false,
+  "source": "common.j"
+}

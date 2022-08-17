@@ -1,0 +1,21 @@
+{
+  "name": "SuicidePlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "id",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "check_full",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

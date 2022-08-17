@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_KEY",
+  "description": null,
+  "isConstant": true,
+  "type": "playerevent",
+  "isArray": false,
+  "value": "ConvertPlayerEvent(311)",
+  "isNullable": false,
+  "source": "common.j"
+}

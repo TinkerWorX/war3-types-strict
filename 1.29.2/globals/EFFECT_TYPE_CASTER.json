@@ -1,0 +1,10 @@
+{
+  "name": "EFFECT_TYPE_CASTER",
+  "description": null,
+  "isConstant": true,
+  "type": "effecttype",
+  "isArray": false,
+  "value": "ConvertEffectType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

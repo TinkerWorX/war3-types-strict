@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_STRUCT_BUILT",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

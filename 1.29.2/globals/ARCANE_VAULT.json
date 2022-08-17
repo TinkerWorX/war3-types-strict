@@ -1,0 +1,10 @@
+{
+  "name": "ARCANE_VAULT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hvlt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

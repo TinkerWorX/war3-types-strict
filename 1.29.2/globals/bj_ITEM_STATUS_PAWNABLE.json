@@ -1,0 +1,10 @@
+{
+  "name": "bj_ITEM_STATUS_PAWNABLE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "5",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

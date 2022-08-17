@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastCreatedTerrainDeformation",
+  "description": null,
+  "isConstant": false,
+  "type": "terraindeformation",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

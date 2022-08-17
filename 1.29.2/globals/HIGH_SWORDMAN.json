@@ -1,0 +1,10 @@
+{
+  "name": "HIGH_SWORDMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hhes)",
+  "isNullable": false,
+  "source": "common.ai"
+}

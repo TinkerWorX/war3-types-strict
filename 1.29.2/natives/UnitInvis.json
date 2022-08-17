@@ -1,0 +1,15 @@
+{
+  "name": "UnitInvis",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "id",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UPG_UNHOLY_STR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rume)",
+  "isNullable": false,
+  "source": "common.ai"
+}

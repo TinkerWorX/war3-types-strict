@@ -1,0 +1,10 @@
+{
+  "name": "min_creeps",
+  "description": null,
+  "isConstant": false,
+  "type": "number",
+  "isArray": false,
+  "value": "-1",
+  "isNullable": false,
+  "source": "common.ai"
+}

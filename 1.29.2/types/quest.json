@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "quest",
+  "extends": "agent",
+  "source": "common.j"
+}

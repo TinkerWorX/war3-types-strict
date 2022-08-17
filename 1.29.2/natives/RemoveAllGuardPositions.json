@@ -1,0 +1,15 @@
+{
+  "name": "RemoveAllGuardPositions",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "num",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

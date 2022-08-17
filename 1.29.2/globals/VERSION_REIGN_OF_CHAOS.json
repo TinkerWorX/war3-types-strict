@@ -1,0 +1,10 @@
+{
+  "name": "VERSION_REIGN_OF_CHAOS",
+  "description": null,
+  "isConstant": true,
+  "type": "version",
+  "isArray": false,
+  "value": "ConvertVersion(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

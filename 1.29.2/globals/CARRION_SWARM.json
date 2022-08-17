@@ -1,0 +1,10 @@
+{
+  "name": "CARRION_SWARM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AUcs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

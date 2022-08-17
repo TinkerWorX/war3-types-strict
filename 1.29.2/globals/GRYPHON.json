@@ -1,0 +1,10 @@
+{
+  "name": "GRYPHON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hgry)",
+  "isNullable": false,
+  "source": "common.ai"
+}

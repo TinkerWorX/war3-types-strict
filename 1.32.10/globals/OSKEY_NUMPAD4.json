@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_NUMPAD4",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($64)",
+  "isNullable": false,
+  "source": "common.j"
+}

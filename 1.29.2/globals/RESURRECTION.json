@@ -1,0 +1,10 @@
+{
+  "name": "RESURRECTION",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHre)",
+  "isNullable": false,
+  "source": "common.ai"
+}

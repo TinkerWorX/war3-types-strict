@@ -1,0 +1,8 @@
+{
+  "name": "BlzGetTriggerPlayerKey",
+  "description": null,
+  "takes": [],
+  "returns": "oskeytype",
+  "isNullable": true,
+  "source": "common.j"
+}

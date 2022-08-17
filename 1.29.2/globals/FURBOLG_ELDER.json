@@ -1,0 +1,10 @@
+{
+  "name": "FURBOLG_ELDER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nfre)",
+  "isNullable": false,
+  "source": "common.ai"
+}

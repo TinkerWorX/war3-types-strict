@@ -1,0 +1,33 @@
+{
+  "name": "Rect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "minx",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "miny",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "maxx",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "maxy",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "rect",
+  "isNullable": false,
+  "source": "common.j"
+}

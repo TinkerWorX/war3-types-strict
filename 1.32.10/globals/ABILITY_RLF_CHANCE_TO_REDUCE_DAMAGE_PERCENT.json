@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_CHANCE_TO_REDUCE_DAMAGE_PERCENT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ssk1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

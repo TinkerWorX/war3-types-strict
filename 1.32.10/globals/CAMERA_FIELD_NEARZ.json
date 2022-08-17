@@ -1,0 +1,10 @@
+{
+  "name": "CAMERA_FIELD_NEARZ",
+  "description": null,
+  "isConstant": true,
+  "type": "camerafield",
+  "isArray": false,
+  "value": "ConvertCameraField(7)",
+  "isNullable": false,
+  "source": "common.j"
+}

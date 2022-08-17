@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_WORLD_FRAME",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(17)",
+  "isNullable": false,
+  "source": "common.j"
+}

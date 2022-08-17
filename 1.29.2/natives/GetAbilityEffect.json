@@ -1,0 +1,27 @@
+{
+  "name": "GetAbilityEffect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilityString",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "t",
+      "type": "effecttype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

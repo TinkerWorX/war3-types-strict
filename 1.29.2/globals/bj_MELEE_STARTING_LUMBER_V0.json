@@ -1,0 +1,10 @@
+{
+  "name": "bj_MELEE_STARTING_LUMBER_V0",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "200",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

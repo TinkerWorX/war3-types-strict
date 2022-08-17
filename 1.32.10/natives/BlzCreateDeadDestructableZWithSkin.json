@@ -1,0 +1,57 @@
+{
+  "name": "BlzCreateDeadDestructableZWithSkin",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "objectid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "z",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "face",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "scale",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "variation",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "skinId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "destructable",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "CreateUpgradeCommandButtonEffect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUprgade",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "commandbuttoneffect",
+  "isNullable": true,
+  "source": "common.j"
+}

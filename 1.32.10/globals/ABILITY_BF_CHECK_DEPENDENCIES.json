@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BF_CHECK_DEPENDENCIES",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanField(\u0027achd\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

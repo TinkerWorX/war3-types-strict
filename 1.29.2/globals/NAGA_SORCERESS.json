@@ -1,0 +1,10 @@
+{
+  "name": "NAGA_SORCERESS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Nngs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetPlayersAll",
+  "description": null,
+  "takes": [],
+  "returns": "force",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "GREAT_HALL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ogre)",
+  "isNullable": false,
+  "source": "common.ai"
+}

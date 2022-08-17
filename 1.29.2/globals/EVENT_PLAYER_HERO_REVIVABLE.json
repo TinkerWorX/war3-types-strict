@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_HERO_REVIVABLE",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(43)",
+  "isNullable": false,
+  "source": "common.j"
+}

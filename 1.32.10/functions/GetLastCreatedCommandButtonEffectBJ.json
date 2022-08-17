@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedCommandButtonEffectBJ",
+  "description": null,
+  "takes": [],
+  "returns": "commandbuttoneffect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

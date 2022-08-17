@@ -1,0 +1,33 @@
+{
+  "name": "TraceIII",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "message",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "v1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "v2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "v3",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

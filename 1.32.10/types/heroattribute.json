@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "heroattribute",
+  "extends": "handle",
+  "source": "common.j"
+}

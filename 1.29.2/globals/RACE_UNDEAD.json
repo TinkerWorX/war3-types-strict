@@ -1,0 +1,10 @@
+{
+  "name": "RACE_UNDEAD",
+  "description": null,
+  "isConstant": true,
+  "type": "race",
+  "isArray": false,
+  "value": "ConvertRace(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

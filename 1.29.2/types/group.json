@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "group",
+  "extends": "agent",
+  "source": "common.j"
+}

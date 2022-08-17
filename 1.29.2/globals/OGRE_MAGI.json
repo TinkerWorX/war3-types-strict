@@ -1,0 +1,10 @@
+{
+  "name": "OGRE_MAGI",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nomg)",
+  "isNullable": false,
+  "source": "common.ai"
+}

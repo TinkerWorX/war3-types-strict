@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_COLOR_PURPLE",
+  "description": null,
+  "isConstant": true,
+  "type": "playercolor",
+  "isArray": false,
+  "value": "ConvertPlayerColor(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

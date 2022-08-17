@@ -1,0 +1,10 @@
+{
+  "name": "SATYR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nsty)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BlzGetEventAttackType",
+  "description": null,
+  "takes": [],
+  "returns": "attacktype",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_BONUS_FAK1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027fak1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

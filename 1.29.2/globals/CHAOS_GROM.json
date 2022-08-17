@@ -1,0 +1,10 @@
+{
+  "name": "CHAOS_GROM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Opgh)",
+  "isNullable": false,
+  "source": "common.ai"
+}

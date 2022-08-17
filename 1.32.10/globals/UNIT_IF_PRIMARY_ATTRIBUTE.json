@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_PRIMARY_ATTRIBUTE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027upra\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

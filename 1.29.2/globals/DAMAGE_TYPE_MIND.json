@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_MIND",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(19)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "FORTRESS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ofrt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

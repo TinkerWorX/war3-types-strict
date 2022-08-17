@@ -1,0 +1,10 @@
+{
+  "name": "bj_TIMETYPE_ADD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "0",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "IssueHauntOrderAtLocBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPeon",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

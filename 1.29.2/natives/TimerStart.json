@@ -1,0 +1,33 @@
+{
+  "name": "TimerStart",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTimer",
+      "type": "timer",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeout",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "periodic",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "handlerFunc",
+      "type": "() =\u003E void",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

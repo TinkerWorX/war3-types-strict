@@ -1,0 +1,10 @@
+{
+  "name": "MAP_SPEED_NORMAL",
+  "description": null,
+  "isConstant": true,
+  "type": "gamespeed",
+  "isArray": false,
+  "value": "ConvertGameSpeed(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

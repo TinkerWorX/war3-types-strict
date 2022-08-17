@@ -1,0 +1,10 @@
+{
+  "name": "RIFLEMEN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "RIFLEMAN",
+  "isNullable": false,
+  "source": "common.ai"
+}

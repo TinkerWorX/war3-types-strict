@@ -1,0 +1,10 @@
+{
+  "name": "PATHING_FLAG_UNBUILDABLE",
+  "description": null,
+  "isConstant": true,
+  "type": "pathingflag",
+  "isArray": false,
+  "value": "ConvertPathingFlag(8)",
+  "isNullable": false,
+  "source": "common.j"
+}

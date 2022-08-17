@@ -1,0 +1,10 @@
+{
+  "name": "DEMON_GATE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ndmg)",
+  "isNullable": false,
+  "source": "common.ai"
+}

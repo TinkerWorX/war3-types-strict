@@ -1,0 +1,8 @@
+{
+  "name": "BlzGetTriggerFrame",
+  "description": null,
+  "takes": [],
+  "returns": "framehandle",
+  "isNullable": true,
+  "source": "common.j"
+}

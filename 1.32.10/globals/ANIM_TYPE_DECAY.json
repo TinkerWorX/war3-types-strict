@@ -1,0 +1,10 @@
+{
+  "name": "ANIM_TYPE_DECAY",
+  "description": null,
+  "isConstant": true,
+  "type": "animtype",
+  "isArray": false,
+  "value": "ConvertAnimType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

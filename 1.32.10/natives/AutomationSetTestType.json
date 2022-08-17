@@ -1,0 +1,15 @@
+{
+  "name": "AutomationSetTestType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "testType",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

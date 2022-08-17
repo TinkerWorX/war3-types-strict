@@ -1,0 +1,10 @@
+{
+  "name": "UPG_BLESSING",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Renb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

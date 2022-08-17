@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "itemintegerfield",
+  "extends": "handle",
+  "source": "common.j"
+}

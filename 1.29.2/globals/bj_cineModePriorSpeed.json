@@ -1,0 +1,10 @@
+{
+  "name": "bj_cineModePriorSpeed",
+  "description": null,
+  "isConstant": false,
+  "type": "gamespeed",
+  "isArray": false,
+  "value": "MAP_SPEED_NORMAL",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

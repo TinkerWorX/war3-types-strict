@@ -1,0 +1,10 @@
+{
+  "name": "WEAPON_TYPE_WOOD_HEAVY_BASH",
+  "description": null,
+  "isConstant": true,
+  "type": "weapontype",
+  "isArray": false,
+  "value": "ConvertWeaponType(16)",
+  "isNullable": false,
+  "source": "common.j"
+}

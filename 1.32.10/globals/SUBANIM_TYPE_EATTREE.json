@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_EATTREE",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(56)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "MeleeGetProjectedLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "src",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "targ",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "distance",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "deltaAngle",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "location",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

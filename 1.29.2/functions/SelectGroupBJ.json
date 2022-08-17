@@ -1,0 +1,15 @@
+{
+  "name": "SelectGroupBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "g",
+      "type": "group",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

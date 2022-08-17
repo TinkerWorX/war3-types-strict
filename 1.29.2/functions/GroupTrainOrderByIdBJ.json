@@ -1,0 +1,21 @@
+{
+  "name": "GroupTrainOrderByIdBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "g",
+      "type": "group",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

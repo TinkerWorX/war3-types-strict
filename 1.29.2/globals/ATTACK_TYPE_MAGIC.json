@@ -1,0 +1,10 @@
+{
+  "name": "ATTACK_TYPE_MAGIC",
+  "description": null,
+  "isConstant": true,
+  "type": "attacktype",
+  "isArray": false,
+  "value": "ConvertAttackType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

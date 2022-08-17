@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "itemstringfield",
+  "extends": "handle",
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "PIG_FARM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(npgf)",
+  "isNullable": false,
+  "source": "common.ai"
+}

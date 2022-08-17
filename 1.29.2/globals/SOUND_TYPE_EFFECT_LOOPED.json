@@ -1,0 +1,10 @@
+{
+  "name": "SOUND_TYPE_EFFECT_LOOPED",
+  "description": null,
+  "isConstant": true,
+  "type": "soundtype",
+  "isArray": false,
+  "value": "ConvertSoundType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

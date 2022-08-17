@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_FJ_TOUROKU",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($94)",
+  "isNullable": false,
+  "source": "common.j"
+}

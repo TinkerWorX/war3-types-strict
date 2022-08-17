@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastRemovedItem",
+  "description": null,
+  "isConstant": false,
+  "type": "item",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

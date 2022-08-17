@@ -1,0 +1,10 @@
+{
+  "name": "CHAIN_LIGHTNING",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOcl)",
+  "isNullable": false,
+  "source": "common.ai"
+}

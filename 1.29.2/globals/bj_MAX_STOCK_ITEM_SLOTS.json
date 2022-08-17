@@ -1,0 +1,10 @@
+{
+  "name": "bj_MAX_STOCK_ITEM_SLOTS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "11",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

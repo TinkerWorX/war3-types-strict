@@ -1,0 +1,10 @@
+{
+  "name": "MAP_PLACEMENT_USE_MAP_SETTINGS",
+  "description": null,
+  "isConstant": true,
+  "type": "placement",
+  "isArray": false,
+  "value": "ConvertPlacement(2) ",
+  "isNullable": false,
+  "source": "common.j"
+}

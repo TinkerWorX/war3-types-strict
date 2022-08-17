@@ -1,0 +1,10 @@
+{
+  "name": "CHAOS_GRUNT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nchg)",
+  "isNullable": false,
+  "source": "common.ai"
+}
