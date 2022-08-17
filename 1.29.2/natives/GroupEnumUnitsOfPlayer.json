@@ -1,0 +1,27 @@
+{
+  "name": "GroupEnumUnitsOfPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichGroup",
+      "type": "group",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "filter",
+      "type": "boolexpr",
+      "isNullable": true
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SuicideUnitEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "ct",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "uid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "pid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

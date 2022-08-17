@@ -1,0 +1,10 @@
+{
+  "name": "ORC_DRAGON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nrwm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

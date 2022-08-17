@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_BERSERK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Robs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

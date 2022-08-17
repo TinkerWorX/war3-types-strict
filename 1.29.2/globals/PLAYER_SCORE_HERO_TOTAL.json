@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_HERO_TOTAL",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(22)",
+  "isNullable": false,
+  "source": "common.j"
+}

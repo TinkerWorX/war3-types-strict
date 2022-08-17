@@ -1,0 +1,10 @@
+{
+  "name": "MAP_RESOURCE_TRADING_ALLIES_ONLY",
+  "description": null,
+  "isConstant": true,
+  "type": "mapflag",
+  "isArray": false,
+  "value": "ConvertMapFlag(512)",
+  "isNullable": false,
+  "source": "common.j"
+}

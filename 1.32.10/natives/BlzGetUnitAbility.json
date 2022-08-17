@@ -1,0 +1,21 @@
+{
+  "name": "BlzGetUnitAbility",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "abilId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "ability",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LoadTriggerConditionHandleBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "key",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "table",
+      "type": "hashtable",
+      "isNullable": false
+    }
+  ],
+  "returns": "triggercondition",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

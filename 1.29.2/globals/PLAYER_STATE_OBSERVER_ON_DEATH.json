@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_OBSERVER_ON_DEATH",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(10)",
+  "isNullable": false,
+  "source": "common.j"
+}

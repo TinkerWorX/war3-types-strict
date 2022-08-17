@@ -1,0 +1,21 @@
+{
+  "name": "StartExpansion",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "qty",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "hall",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

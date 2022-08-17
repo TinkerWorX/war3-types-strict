@@ -1,0 +1,15 @@
+{
+  "name": "PauseAllUnitsBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "pause",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

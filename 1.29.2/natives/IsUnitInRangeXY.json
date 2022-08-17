@@ -1,0 +1,33 @@
+{
+  "name": "IsUnitInRangeXY",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "distance",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

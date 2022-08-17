@@ -1,0 +1,10 @@
+{
+  "name": "UPG_SCATTER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhsr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

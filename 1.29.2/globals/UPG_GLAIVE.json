@@ -1,0 +1,10 @@
+{
+  "name": "UPG_GLAIVE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Remg)",
+  "isNullable": false,
+  "source": "common.ai"
+}

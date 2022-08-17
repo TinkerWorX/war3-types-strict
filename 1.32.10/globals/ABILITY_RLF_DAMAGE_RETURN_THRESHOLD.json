@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_RETURN_THRESHOLD",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Uls5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

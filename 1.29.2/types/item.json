@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "item",
+  "extends": "widget",
+  "source": "common.j"
+}

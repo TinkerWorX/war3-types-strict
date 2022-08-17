@@ -1,0 +1,21 @@
+{
+  "name": "IsLocationInRegion",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichRegion",
+      "type": "region",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

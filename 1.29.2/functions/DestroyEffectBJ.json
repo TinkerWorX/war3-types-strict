@@ -1,0 +1,15 @@
+{
+  "name": "DestroyEffectBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichEffect",
+      "type": "effect",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_ELEVATOR_WALL_TYPE_ALL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "0",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

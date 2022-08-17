@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_BF_CAN_BE_DROPPED",
+  "description": null,
+  "isConstant": true,
+  "type": "itembooleanfield",
+  "isArray": false,
+  "value": "ConvertItemBooleanField(\u0027idro\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

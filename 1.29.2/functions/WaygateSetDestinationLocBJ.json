@@ -1,0 +1,21 @@
+{
+  "name": "WaygateSetDestinationLocBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "waygate",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "CHAOS_PEON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ncpn)",
+  "isNullable": false,
+  "source": "common.ai"
+}

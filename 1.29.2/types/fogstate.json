@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "fogstate",
+  "extends": "handle",
+  "source": "common.j"
+}

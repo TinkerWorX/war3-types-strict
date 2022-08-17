@@ -1,0 +1,10 @@
+{
+  "name": "exp_seen",
+  "description": null,
+  "isConstant": false,
+  "type": "number",
+  "isArray": false,
+  "value": "0",
+  "isNullable": false,
+  "source": "common.ai"
+}

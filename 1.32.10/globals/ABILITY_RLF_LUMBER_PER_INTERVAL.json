@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_LUMBER_PER_INTERVAL",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Wha1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

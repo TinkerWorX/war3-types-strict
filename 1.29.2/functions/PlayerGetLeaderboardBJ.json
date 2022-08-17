@@ -1,0 +1,15 @@
+{
+  "name": "PlayerGetLeaderboardBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "leaderboard",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

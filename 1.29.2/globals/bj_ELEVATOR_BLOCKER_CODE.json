@@ -1,0 +1,10 @@
+{
+  "name": "bj_ELEVATOR_BLOCKER_CODE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(DTep)",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

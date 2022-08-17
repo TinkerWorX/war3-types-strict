@@ -1,0 +1,33 @@
+{
+  "name": "CreateFogModifierRectBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "enabled",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichFogState",
+      "type": "fogstate",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "r",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "fogmodifier",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

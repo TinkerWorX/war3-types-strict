@@ -1,0 +1,8 @@
+{
+  "name": "CreateTimer",
+  "description": null,
+  "takes": [],
+  "returns": "timer",
+  "isNullable": false,
+  "source": "common.j"
+}

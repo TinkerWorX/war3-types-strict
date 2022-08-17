@@ -1,0 +1,27 @@
+{
+  "name": "MeleeGetNearestValueWithin",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "val",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "minVal",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "maxVal",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

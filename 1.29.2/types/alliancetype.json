@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "alliancetype",
+  "extends": "handle",
+  "source": "common.j"
+}

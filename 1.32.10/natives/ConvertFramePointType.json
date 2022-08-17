@@ -1,0 +1,15 @@
+{
+  "name": "ConvertFramePointType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "framepointtype",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_HANDICAPDAMAGE_EASY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "50.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

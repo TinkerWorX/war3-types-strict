@@ -1,0 +1,10 @@
+{
+  "name": "bj_TEXT_DELAY_HINT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "12.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "TriggerRegisterPlayerStateEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichState",
+      "type": "playerstate",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "opcode",
+      "type": "limitop",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "limitval",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "IntegerTertiaryOp",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "flag",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "valueA",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "valueB",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

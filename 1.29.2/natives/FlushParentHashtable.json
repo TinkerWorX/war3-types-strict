@@ -1,0 +1,15 @@
+{
+  "name": "FlushParentHashtable",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "table",
+      "type": "hashtable",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

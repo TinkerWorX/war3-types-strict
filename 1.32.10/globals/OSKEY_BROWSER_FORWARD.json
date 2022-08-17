@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_BROWSER_FORWARD",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($A7)",
+  "isNullable": false,
+  "source": "common.j"
+}

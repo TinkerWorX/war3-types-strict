@@ -1,0 +1,45 @@
+{
+  "name": "MeleeRandomHeroLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "p",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "id1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "id2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "id3",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "id4",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

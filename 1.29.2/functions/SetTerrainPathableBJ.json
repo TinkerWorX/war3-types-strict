@@ -1,0 +1,27 @@
+{
+  "name": "SetTerrainPathableBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "t",
+      "type": "pathingtype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "flag",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

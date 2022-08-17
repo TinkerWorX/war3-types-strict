@@ -1,0 +1,10 @@
+{
+  "name": "GYRO",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "COPTER",
+  "isNullable": false,
+  "source": "common.ai"
+}

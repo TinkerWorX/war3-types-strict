@@ -1,0 +1,15 @@
+{
+  "name": "BlzSetEventAttackType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "attackType",
+      "type": "attacktype",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

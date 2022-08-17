@@ -1,0 +1,21 @@
+{
+  "name": "SetPlayerHandicapXPBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "handicapPercent",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

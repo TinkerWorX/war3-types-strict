@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_UNIVERSAL",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(26)",
+  "isNullable": false,
+  "source": "common.j"
+}

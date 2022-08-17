@@ -1,0 +1,15 @@
+{
+  "name": "DestroyBoolExpr",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "e",
+      "type": "boolexpr",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

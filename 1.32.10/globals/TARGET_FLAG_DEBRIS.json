@@ -1,0 +1,10 @@
+{
+  "name": "TARGET_FLAG_DEBRIS",
+  "description": null,
+  "isConstant": true,
+  "type": "targetflag",
+  "isArray": false,
+  "value": "ConvertTargetFlag(256)",
+  "isNullable": false,
+  "source": "common.j"
+}

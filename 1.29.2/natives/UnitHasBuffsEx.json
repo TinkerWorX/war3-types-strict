@@ -1,0 +1,57 @@
+{
+  "name": "UnitHasBuffsEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "removePositive",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "removeNegative",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "magic",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "physical",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timedLife",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "aura",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "autoDispel",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

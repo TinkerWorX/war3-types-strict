@@ -1,0 +1,10 @@
+{
+  "name": "WITCH_DOCTOR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(odoc)",
+  "isNullable": false,
+  "source": "common.ai"
+}

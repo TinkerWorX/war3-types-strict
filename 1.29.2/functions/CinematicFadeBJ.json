@@ -1,0 +1,51 @@
+{
+  "name": "CinematicFadeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "fadetype",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "duration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "tex",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "trans",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

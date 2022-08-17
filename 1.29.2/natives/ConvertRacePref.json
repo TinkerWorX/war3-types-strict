@@ -1,0 +1,15 @@
+{
+  "name": "ConvertRacePref",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "racepreference",
+  "isNullable": true,
+  "source": "common.j"
+}

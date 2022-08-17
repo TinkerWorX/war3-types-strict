@@ -1,0 +1,15 @@
+{
+  "name": "CreateCommonCommandButtonEffectBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "order",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "commandbuttoneffect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

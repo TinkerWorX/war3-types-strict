@@ -1,0 +1,10 @@
+{
+  "name": "UPG_BURROWING",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rubu)",
+  "isNullable": false,
+  "source": "common.ai"
+}

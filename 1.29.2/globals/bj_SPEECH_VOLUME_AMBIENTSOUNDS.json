@@ -1,0 +1,10 @@
+{
+  "name": "bj_SPEECH_VOLUME_AMBIENTSOUNDS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "1.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

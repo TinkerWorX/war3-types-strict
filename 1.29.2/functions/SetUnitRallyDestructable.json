@@ -1,0 +1,21 @@
+{
+  "name": "SetUnitRallyDestructable",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "targDest",
+      "type": "destructable",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

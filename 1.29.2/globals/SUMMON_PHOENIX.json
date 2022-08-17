@@ -1,0 +1,10 @@
+{
+  "name": "SUMMON_PHOENIX",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHpx)",
+  "isNullable": false,
+  "source": "common.ai"
+}

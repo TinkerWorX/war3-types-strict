@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_SONIC",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(15)",
+  "isNullable": false,
+  "source": "common.j"
+}

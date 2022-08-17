@@ -1,0 +1,15 @@
+{
+  "name": "SetRescueUnitColorChangeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "changeColor",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

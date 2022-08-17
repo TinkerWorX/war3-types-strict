@@ -1,0 +1,10 @@
+{
+  "name": "CANNON_TOWER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hctw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

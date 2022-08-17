@@ -1,0 +1,10 @@
+{
+  "name": "ANIM_TYPE_SLEEP",
+  "description": null,
+  "isConstant": true,
+  "type": "animtype",
+  "isArray": false,
+  "value": "ConvertAnimType(8)",
+  "isNullable": false,
+  "source": "common.j"
+}

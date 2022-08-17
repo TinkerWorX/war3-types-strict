@@ -1,0 +1,10 @@
+{
+  "name": "DEFENSE_CAPTAIN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "2",
+  "isNullable": false,
+  "source": "common.ai"
+}

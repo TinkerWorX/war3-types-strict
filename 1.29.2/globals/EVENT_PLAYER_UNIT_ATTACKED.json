@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_ATTACKED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(18)",
+  "isNullable": false,
+  "source": "common.j"
+}

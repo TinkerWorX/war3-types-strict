@@ -1,0 +1,10 @@
+{
+  "name": "MAP_LOC_PRIO_LOW",
+  "description": null,
+  "isConstant": true,
+  "type": "startlocprio",
+  "isArray": false,
+  "value": "ConvertStartLocPrio(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

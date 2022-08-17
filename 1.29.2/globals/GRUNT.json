@@ -1,0 +1,10 @@
+{
+  "name": "GRUNT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ogru)",
+  "isNullable": false,
+  "source": "common.ai"
+}

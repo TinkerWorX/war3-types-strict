@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_INTERVAL_DURATION_BGM2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Bgm2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

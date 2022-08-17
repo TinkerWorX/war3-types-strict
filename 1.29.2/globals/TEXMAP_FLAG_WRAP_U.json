@@ -1,0 +1,10 @@
+{
+  "name": "TEXMAP_FLAG_WRAP_U",
+  "description": null,
+  "isConstant": true,
+  "type": "texmapflags",
+  "isArray": false,
+  "value": "ConvertTexMapFlags(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

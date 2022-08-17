@@ -1,0 +1,10 @@
+{
+  "name": "PATHING_FLAG_BLIGHTED",
+  "description": null,
+  "isConstant": true,
+  "type": "pathingflag",
+  "isArray": false,
+  "value": "ConvertPathingFlag(32)",
+  "isNullable": false,
+  "source": "common.j"
+}

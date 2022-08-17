@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_STRENGTH_WITH_BONUS",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027ustb\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

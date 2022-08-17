@@ -1,0 +1,10 @@
+{
+  "name": "RACE_OTHER",
+  "description": null,
+  "isConstant": true,
+  "type": "race",
+  "isArray": false,
+  "value": "ConvertRace(7)",
+  "isNullable": false,
+  "source": "common.j"
+}

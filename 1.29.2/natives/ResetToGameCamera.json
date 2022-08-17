@@ -1,0 +1,15 @@
+{
+  "name": "ResetToGameCamera",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "duration",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

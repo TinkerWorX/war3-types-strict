@@ -1,0 +1,10 @@
+{
+  "name": "sleep_seconds",
+  "description": null,
+  "isConstant": false,
+  "type": "number",
+  "isArray": false,
+  "value": "",
+  "isNullable": false,
+  "source": "common.ai"
+}

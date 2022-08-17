@@ -1,0 +1,39 @@
+{
+  "name": "UnitCountBuffsExBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "polarity",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "resist",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "bTLife",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "bAura",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

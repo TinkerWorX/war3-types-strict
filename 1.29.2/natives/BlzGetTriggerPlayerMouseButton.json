@@ -1,0 +1,8 @@
+{
+  "name": "BlzGetTriggerPlayerMouseButton",
+  "description": null,
+  "takes": [],
+  "returns": "mousebuttontype",
+  "isNullable": true,
+  "source": "common.j"
+}

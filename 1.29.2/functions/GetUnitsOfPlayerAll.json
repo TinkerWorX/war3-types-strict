@@ -1,0 +1,15 @@
+{
+  "name": "GetUnitsOfPlayerAll",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "group",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

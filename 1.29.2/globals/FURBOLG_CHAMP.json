@@ -1,0 +1,10 @@
+{
+  "name": "FURBOLG_CHAMP",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nfrg)",
+  "isNullable": false,
+  "source": "common.ai"
+}

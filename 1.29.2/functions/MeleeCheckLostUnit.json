@@ -1,0 +1,15 @@
+{
+  "name": "MeleeCheckLostUnit",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lostUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetRevivingUnit",
+  "description": null,
+  "takes": [],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_INTELLIGENCE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027uinc\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

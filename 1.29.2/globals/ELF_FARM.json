@@ -1,0 +1,10 @@
+{
+  "name": "ELF_FARM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nefm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

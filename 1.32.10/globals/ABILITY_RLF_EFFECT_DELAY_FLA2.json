@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_EFFECT_DELAY_FLA2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Fla2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BlzGetAbsorbingItem",
+  "description": null,
+  "takes": [],
+  "returns": "item",
+  "isNullable": true,
+  "source": "common.j"
+}

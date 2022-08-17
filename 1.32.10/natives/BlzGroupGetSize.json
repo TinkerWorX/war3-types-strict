@@ -1,0 +1,15 @@
+{
+  "name": "BlzGroupGetSize",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichGroup",
+      "type": "group",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

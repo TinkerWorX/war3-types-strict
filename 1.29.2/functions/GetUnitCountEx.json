@@ -1,0 +1,27 @@
+{
+  "name": "GetUnitCountEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "only_done",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "townid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "GetUnitsOfPlayerAndTypeId",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "group",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_LOOPING",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(13)",
+  "isNullable": false,
+  "source": "common.j"
+}

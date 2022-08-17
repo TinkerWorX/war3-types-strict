@@ -1,0 +1,10 @@
+{
+  "name": "SHANDRIS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(eshd)",
+  "isNullable": false,
+  "source": "common.ai"
+}

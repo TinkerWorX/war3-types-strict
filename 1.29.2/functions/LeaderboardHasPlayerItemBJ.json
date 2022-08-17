@@ -1,0 +1,21 @@
+{
+  "name": "LeaderboardHasPlayerItemBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "leaderboard",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

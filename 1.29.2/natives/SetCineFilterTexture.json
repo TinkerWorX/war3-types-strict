@@ -1,0 +1,15 @@
+{
+  "name": "SetCineFilterTexture",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "filename",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

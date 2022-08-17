@@ -1,0 +1,21 @@
+{
+  "name": "GetUnitsInRangeOfLocAll",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "group",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

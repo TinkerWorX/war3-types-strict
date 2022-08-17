@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "effecttype",
+  "extends": "handle",
+  "source": "common.j"
+}

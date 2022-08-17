@@ -1,0 +1,10 @@
+{
+  "name": "bj_STOCK_RESTOCK_INITIAL_DELAY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "120",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

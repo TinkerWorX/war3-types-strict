@@ -1,0 +1,15 @@
+{
+  "name": "ConvertFrameEventType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "frameeventtype",
+  "isNullable": true,
+  "source": "common.j"
+}

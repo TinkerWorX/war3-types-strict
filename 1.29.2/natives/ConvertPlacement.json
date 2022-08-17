@@ -1,0 +1,15 @@
+{
+  "name": "ConvertPlacement",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "placement",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ConvertAbilityStringLevelArrayField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "abilitystringlevelarrayfield",
+  "isNullable": true,
+  "source": "common.j"
+}

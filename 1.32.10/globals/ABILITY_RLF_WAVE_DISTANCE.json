@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_WAVE_DISTANCE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Uim1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

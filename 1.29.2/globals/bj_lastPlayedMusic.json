@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastPlayedMusic",
+  "description": null,
+  "isConstant": false,
+  "type": "string",
+  "isArray": false,
+  "value": "\u0022\u0022",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

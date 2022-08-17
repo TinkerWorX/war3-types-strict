@@ -1,0 +1,10 @@
+{
+  "name": "KODO_BEAST",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(okod)",
+  "isNullable": false,
+  "source": "common.ai"
+}

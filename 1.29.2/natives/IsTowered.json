@@ -1,0 +1,15 @@
+{
+  "name": "IsTowered",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "target",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

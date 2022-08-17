@@ -1,0 +1,33 @@
+{
+  "name": "StoreRealBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "value",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "key",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "cache",
+      "type": "gamecache",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

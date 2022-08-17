@@ -1,0 +1,21 @@
+{
+  "name": "BlzSetSpecialEffectScale",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichEffect",
+      "type": "effect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "scale",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

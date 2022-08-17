@@ -1,0 +1,21 @@
+{
+  "name": "StopSoundBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fadeOut",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "HIGH_FOOTMEN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "HIGH_FOOTMAN",
+  "isNullable": false,
+  "source": "common.ai"
+}

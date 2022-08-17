@@ -1,0 +1,8 @@
+{
+  "name": "GetWorldBounds",
+  "description": null,
+  "takes": [],
+  "returns": "rect",
+  "isNullable": true,
+  "source": "common.j"
+}

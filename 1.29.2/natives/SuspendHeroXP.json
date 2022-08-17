@@ -1,0 +1,21 @@
+{
+  "name": "SuspendHeroXP",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichHero",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "flag",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

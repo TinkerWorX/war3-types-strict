@@ -1,0 +1,27 @@
+{
+  "name": "LoadItemHandleBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "key",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "table",
+      "type": "hashtable",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

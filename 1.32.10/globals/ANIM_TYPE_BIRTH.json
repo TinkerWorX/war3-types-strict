@@ -1,0 +1,10 @@
+{
+  "name": "ANIM_TYPE_BIRTH",
+  "description": null,
+  "isConstant": true,
+  "type": "animtype",
+  "isArray": false,
+  "value": "ConvertAnimType(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

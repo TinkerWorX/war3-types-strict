@@ -1,0 +1,10 @@
+{
+  "name": "BLADE_STORM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOww)",
+  "isNullable": false,
+  "source": "common.ai"
+}

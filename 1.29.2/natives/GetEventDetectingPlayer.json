@@ -1,0 +1,8 @@
+{
+  "name": "GetEventDetectingPlayer",
+  "description": null,
+  "takes": [],
+  "returns": "player",
+  "isNullable": true,
+  "source": "common.j"
+}

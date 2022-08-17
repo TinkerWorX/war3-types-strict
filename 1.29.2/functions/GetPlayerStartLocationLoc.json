@@ -1,0 +1,15 @@
+{
+  "name": "GetPlayerStartLocationLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "location",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

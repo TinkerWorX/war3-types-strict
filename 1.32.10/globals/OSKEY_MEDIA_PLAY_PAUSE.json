@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_MEDIA_PLAY_PAUSE",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($B3)",
+  "isNullable": false,
+  "source": "common.j"
+}

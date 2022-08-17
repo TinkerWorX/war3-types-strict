@@ -1,0 +1,10 @@
+{
+  "name": "bj_ELEVATOR_CODE01",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(DTrf)",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

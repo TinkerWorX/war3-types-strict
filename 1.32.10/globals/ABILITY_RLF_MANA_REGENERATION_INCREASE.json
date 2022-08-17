@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MANA_REGENERATION_INCREASE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Hab1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

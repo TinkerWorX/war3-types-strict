@@ -1,0 +1,10 @@
+{
+  "name": "HEX",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOhx)",
+  "isNullable": false,
+  "source": "common.ai"
+}

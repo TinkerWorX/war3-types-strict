@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_NAPTHA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Robf)",
+  "isNullable": false,
+  "source": "common.ai"
+}

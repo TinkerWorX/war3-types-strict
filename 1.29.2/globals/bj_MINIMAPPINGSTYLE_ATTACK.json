@@ -1,0 +1,10 @@
+{
+  "name": "bj_MINIMAPPINGSTYLE_ATTACK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "2",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

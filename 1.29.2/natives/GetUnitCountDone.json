@@ -1,0 +1,15 @@
+{
+  "name": "GetUnitCountDone",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.ai"
+}

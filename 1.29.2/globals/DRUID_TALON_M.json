@@ -1,0 +1,10 @@
+{
+  "name": "DRUID_TALON_M",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(edtm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

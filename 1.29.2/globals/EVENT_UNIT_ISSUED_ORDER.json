@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_UNIT_ISSUED_ORDER",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(75)",
+  "isNullable": false,
+  "source": "common.j"
+}

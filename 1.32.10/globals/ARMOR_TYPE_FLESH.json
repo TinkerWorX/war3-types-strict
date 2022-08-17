@@ -1,0 +1,10 @@
+{
+  "name": "ARMOR_TYPE_FLESH",
+  "description": null,
+  "isConstant": true,
+  "type": "armortype",
+  "isArray": false,
+  "value": "ConvertArmorType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

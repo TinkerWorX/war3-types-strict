@@ -1,0 +1,15 @@
+{
+  "name": "GetStartLocationX",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichStartLocation",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

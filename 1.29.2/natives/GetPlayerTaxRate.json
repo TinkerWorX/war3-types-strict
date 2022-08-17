@@ -1,0 +1,27 @@
+{
+  "name": "GetPlayerTaxRate",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "sourcePlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "otherPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichResource",
+      "type": "playerstate",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

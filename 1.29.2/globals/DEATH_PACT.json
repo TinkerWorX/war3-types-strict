@@ -1,0 +1,10 @@
+{
+  "name": "DEATH_PACT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AUdp)",
+  "isNullable": false,
+  "source": "common.ai"
+}

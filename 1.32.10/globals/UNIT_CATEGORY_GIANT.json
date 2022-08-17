@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_CATEGORY_GIANT",
+  "description": null,
+  "isConstant": true,
+  "type": "unitcategory",
+  "isArray": false,
+  "value": "ConvertUnitCategory(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

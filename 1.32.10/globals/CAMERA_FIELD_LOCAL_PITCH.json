@@ -1,0 +1,10 @@
+{
+  "name": "CAMERA_FIELD_LOCAL_PITCH",
+  "description": null,
+  "isConstant": true,
+  "type": "camerafield",
+  "isArray": false,
+  "value": "ConvertCameraField(8)",
+  "isNullable": false,
+  "source": "common.j"
+}

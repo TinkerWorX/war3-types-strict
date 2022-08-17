@@ -1,0 +1,15 @@
+{
+  "name": "IsUnitPausedBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

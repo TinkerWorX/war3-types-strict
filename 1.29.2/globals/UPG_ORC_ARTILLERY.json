@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_ARTILLERY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Roaa)",
+  "isNullable": false,
+  "source": "common.ai"
+}

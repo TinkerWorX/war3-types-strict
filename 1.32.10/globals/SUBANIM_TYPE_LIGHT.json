@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_LIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(30)",
+  "isNullable": false,
+  "source": "common.j"
+}

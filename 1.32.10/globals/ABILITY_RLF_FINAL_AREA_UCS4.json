@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_FINAL_AREA_UCS4",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ucs4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

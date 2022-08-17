@@ -1,0 +1,8 @@
+{
+  "name": "GetCurrentCameraSetup",
+  "description": null,
+  "takes": [],
+  "returns": "camerasetup",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ATTACK_DAMAGE_STOLEN_PERCENT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Uav1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

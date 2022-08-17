@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_GAME_LEAVE_REGION",
+  "description": null,
+  "isConstant": true,
+  "type": "gameevent",
+  "isArray": false,
+  "value": "ConvertGameEvent(6)",
+  "isNullable": false,
+  "source": "common.j"
+}

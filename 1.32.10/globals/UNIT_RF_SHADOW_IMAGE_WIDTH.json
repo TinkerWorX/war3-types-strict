@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_RF_SHADOW_IMAGE_WIDTH",
+  "description": null,
+  "isConstant": true,
+  "type": "unitrealfield",
+  "isArray": false,
+  "value": "ConvertUnitRealField(\u0027ushw\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

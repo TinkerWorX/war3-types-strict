@@ -1,0 +1,10 @@
+{
+  "name": "bj_STOCK_MAX_ITERATIONS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "20",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

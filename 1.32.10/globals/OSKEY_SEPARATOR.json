@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_SEPARATOR",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($6C)",
+  "isNullable": false,
+  "source": "common.j"
+}

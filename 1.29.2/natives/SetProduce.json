@@ -1,0 +1,27 @@
+{
+  "name": "SetProduce",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "qty",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "id",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "town",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

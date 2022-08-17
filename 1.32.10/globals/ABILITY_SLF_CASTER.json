@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SLF_CASTER",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringLevelField(\u0027acat\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

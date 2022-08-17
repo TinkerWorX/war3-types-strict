@@ -1,0 +1,10 @@
+{
+  "name": "bj_QUESTMESSAGE_WARNING",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "12",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

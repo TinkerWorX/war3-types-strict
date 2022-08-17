@@ -1,0 +1,8 @@
+{
+  "name": "GetClickedButton",
+  "description": null,
+  "takes": [],
+  "returns": "button",
+  "isNullable": true,
+  "source": "common.j"
+}

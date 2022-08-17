@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_GAME_RESULT_VICTORY",
+  "description": null,
+  "isConstant": true,
+  "type": "playergameresult",
+  "isArray": false,
+  "value": "ConvertPlayerGameResult(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_LUMBER_UPKEEP_RATE",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(14)",
+  "isNullable": false,
+  "source": "common.j"
+}

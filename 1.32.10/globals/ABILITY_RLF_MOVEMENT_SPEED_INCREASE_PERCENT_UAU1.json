@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MOVEMENT_SPEED_INCREASE_PERCENT_UAU1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Uau1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

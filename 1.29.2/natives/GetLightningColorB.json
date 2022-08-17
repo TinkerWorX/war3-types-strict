@@ -1,0 +1,15 @@
+{
+  "name": "GetLightningColorB",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichBolt",
+      "type": "lightning",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

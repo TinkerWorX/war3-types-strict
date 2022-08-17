@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SLF_PARTNER_UNIT_TYPE_TWO",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringLevelField(\u0027dcp2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

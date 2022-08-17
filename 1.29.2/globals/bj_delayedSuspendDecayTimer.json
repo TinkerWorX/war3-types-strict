@@ -1,0 +1,10 @@
+{
+  "name": "bj_delayedSuspendDecayTimer",
+  "description": null,
+  "isConstant": false,
+  "type": "timer",
+  "isArray": false,
+  "value": "CreateTimer()",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

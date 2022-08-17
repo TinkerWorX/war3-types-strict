@@ -1,0 +1,15 @@
+{
+  "name": "BlzGetLocalSpecialEffectX",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichEffect",
+      "type": "effect",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

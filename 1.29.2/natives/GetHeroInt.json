@@ -1,0 +1,21 @@
+{
+  "name": "GetHeroInt",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichHero",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "includeBonuses",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

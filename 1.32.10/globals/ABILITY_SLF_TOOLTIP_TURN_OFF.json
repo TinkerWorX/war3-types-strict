@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SLF_TOOLTIP_TURN_OFF",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringLevelField(\u0027aut1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

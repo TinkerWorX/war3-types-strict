@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastCreatedQuest",
+  "description": null,
+  "isConstant": false,
+  "type": "quest",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ConvertUnitState",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unitstate",
+  "isNullable": true,
+  "source": "common.j"
+}

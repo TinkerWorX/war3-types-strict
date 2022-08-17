@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_PLAGUED",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(12)",
+  "isNullable": false,
+  "source": "common.j"
+}

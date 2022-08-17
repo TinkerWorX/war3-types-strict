@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_NORMAL",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ART_ATTACHMENT_HEIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Wha3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

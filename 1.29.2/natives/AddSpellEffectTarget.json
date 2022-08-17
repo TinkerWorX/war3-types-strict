@@ -1,0 +1,33 @@
+{
+  "name": "AddSpellEffectTarget",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "modelName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "t",
+      "type": "effecttype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "targetWidget",
+      "type": "widget",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "attachPoint",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "effect",
+  "isNullable": true,
+  "source": "common.j"
+}

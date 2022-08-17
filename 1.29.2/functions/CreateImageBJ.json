@@ -1,0 +1,39 @@
+{
+  "name": "CreateImageBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "file",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "size",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "zOffset",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "imageType",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "image",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

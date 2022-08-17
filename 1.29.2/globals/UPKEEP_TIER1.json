@@ -1,0 +1,10 @@
+{
+  "name": "UPKEEP_TIER1",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "50",
+  "isNullable": false,
+  "source": "common.ai"
+}

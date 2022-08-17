@@ -1,0 +1,8 @@
+{
+  "name": "GetClickedDialogBJ",
+  "description": null,
+  "takes": [],
+  "returns": "dialog",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

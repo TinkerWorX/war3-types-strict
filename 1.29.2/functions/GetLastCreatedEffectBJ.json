@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedEffectBJ",
+  "description": null,
+  "takes": [],
+  "returns": "effect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_CAMERA_DEFAULT_FARZ",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "5000",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

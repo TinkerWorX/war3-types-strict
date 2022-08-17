@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_DEFENSIVE",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(21)",
+  "isNullable": false,
+  "source": "common.j"
+}

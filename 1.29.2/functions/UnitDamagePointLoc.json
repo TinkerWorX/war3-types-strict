@@ -1,0 +1,51 @@
+{
+  "name": "UnitDamagePointLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "delay",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "amount",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichAttack",
+      "type": "attacktype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichDamage",
+      "type": "damagetype",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

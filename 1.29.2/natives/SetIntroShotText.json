@@ -1,0 +1,15 @@
+{
+  "name": "SetIntroShotText",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "introText",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

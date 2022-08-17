@@ -1,0 +1,10 @@
+{
+  "name": "RACE_DEMON",
+  "description": null,
+  "isConstant": true,
+  "type": "race",
+  "isArray": false,
+  "value": "ConvertRace(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

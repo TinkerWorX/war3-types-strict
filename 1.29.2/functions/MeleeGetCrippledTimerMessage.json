@@ -1,0 +1,15 @@
+{
+  "name": "MeleeGetCrippledTimerMessage",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

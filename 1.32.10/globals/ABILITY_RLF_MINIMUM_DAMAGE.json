@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MINIMUM_DAMAGE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ssk2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

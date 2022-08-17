@@ -1,0 +1,21 @@
+{
+  "name": "DisplayTextToForce",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "toForce",
+      "type": "force",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "message",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

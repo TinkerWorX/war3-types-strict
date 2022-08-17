@@ -1,0 +1,27 @@
+{
+  "name": "SetPlayerAllianceStateBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "sourcePlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "otherPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "allianceState",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

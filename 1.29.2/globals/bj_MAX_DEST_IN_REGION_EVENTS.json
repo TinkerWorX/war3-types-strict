@@ -1,0 +1,10 @@
+{
+  "name": "bj_MAX_DEST_IN_REGION_EVENTS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "64",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

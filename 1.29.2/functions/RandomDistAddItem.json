@@ -1,0 +1,21 @@
+{
+  "name": "RandomDistAddItem",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "inID",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "inChance",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

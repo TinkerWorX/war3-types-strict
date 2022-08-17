@@ -1,0 +1,57 @@
+{
+  "name": "RequestExtraIntegerData",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "dataType",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "param1",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "param2",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "param3",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "param4",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "param5",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "param6",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

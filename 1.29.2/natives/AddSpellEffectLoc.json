@@ -1,0 +1,27 @@
+{
+  "name": "AddSpellEffectLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilityString",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "t",
+      "type": "effecttype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "effect",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "FOOTMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hfoo)",
+  "isNullable": false,
+  "source": "common.ai"
+}

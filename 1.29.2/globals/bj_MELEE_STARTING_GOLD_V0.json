@@ -1,0 +1,10 @@
+{
+  "name": "bj_MELEE_STARTING_GOLD_V0",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "750",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "TEXT_JUSTIFY_MIDDLE",
+  "description": null,
+  "isConstant": true,
+  "type": "textaligntype",
+  "isArray": false,
+  "value": "ConvertTextAlignType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

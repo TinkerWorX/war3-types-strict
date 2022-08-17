@@ -1,0 +1,10 @@
+{
+  "name": "SHADOWDANCER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nsts)",
+  "isNullable": false,
+  "source": "common.ai"
+}

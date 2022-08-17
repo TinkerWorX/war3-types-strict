@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_TOWNHALL",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(18)",
+  "isNullable": false,
+  "source": "common.j"
+}

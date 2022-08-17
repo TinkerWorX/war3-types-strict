@@ -1,0 +1,15 @@
+{
+  "name": "GetObjectName",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "objectId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

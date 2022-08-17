@@ -1,0 +1,15 @@
+{
+  "name": "BlzLoadTOCFile",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "TOCFile",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

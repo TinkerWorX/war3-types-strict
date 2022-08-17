@@ -1,0 +1,10 @@
+{
+  "name": "CORRUPT_WELL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ncmw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "GroupPointOrderLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichGroup",
+      "type": "group",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "order",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

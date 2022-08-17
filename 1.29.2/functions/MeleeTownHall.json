@@ -1,0 +1,21 @@
+{
+  "name": "MeleeTownHall",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "townid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

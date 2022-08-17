@@ -1,0 +1,10 @@
+{
+  "name": "SOUND_VOLUMEGROUP_UNITSOUNDS",
+  "description": null,
+  "isConstant": true,
+  "type": "volumegroup",
+  "isArray": false,
+  "value": "ConvertVolumeGroup(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

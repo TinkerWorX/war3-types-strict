@@ -1,0 +1,21 @@
+{
+  "name": "UnitPauseTimedLifeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "flag",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

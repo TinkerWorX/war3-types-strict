@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_ESCAPE",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($1B)",
+  "isNullable": false,
+  "source": "common.j"
+}

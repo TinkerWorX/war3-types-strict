@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastCreatedLeaderboard",
+  "description": null,
+  "isConstant": false,
+  "type": "leaderboard",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_RF_HP",
+  "description": null,
+  "isConstant": true,
+  "type": "unitrealfield",
+  "isArray": false,
+  "value": "ConvertUnitRealField(\u0027uhpc\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

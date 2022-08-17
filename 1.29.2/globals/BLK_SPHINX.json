@@ -1,0 +1,10 @@
+{
+  "name": "BLK_SPHINX",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ubsp)",
+  "isNullable": false,
+  "source": "common.ai"
+}

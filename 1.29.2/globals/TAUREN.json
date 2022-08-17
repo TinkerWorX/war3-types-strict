@@ -1,0 +1,10 @@
+{
+  "name": "TAUREN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(otau)",
+  "isNullable": false,
+  "source": "common.ai"
+}

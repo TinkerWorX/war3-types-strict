@@ -1,0 +1,10 @@
+{
+  "name": "MAP_CONTROL_CREEP",
+  "description": null,
+  "isConstant": true,
+  "type": "mapcontrol",
+  "isArray": false,
+  "value": "ConvertMapControl(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

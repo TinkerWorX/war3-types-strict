@@ -1,0 +1,8 @@
+{
+  "name": "GetChangingUnitPrevOwner",
+  "description": null,
+  "takes": [],
+  "returns": "player",
+  "isNullable": true,
+  "source": "common.j"
+}

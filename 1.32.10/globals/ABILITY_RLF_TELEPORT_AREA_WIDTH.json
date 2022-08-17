@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_TELEPORT_AREA_WIDTH",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Wrp1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

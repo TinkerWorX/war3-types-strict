@@ -1,0 +1,10 @@
+{
+  "name": "REINCARNATION",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOre)",
+  "isNullable": false,
+  "source": "common.ai"
+}

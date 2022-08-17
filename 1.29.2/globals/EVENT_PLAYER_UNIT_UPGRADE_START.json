@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_UPGRADE_START",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(29)",
+  "isNullable": false,
+  "source": "common.j"
+}

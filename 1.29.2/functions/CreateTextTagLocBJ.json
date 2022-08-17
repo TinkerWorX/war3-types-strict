@@ -1,0 +1,57 @@
+{
+  "name": "CreateTextTagLocBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "s",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "zOffset",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "size",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "transparency",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "texttag",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

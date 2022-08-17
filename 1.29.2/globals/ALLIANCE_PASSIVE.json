@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_PASSIVE",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

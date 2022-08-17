@@ -1,0 +1,21 @@
+{
+  "name": "AddSpecialEffectLocBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "modelName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "effect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

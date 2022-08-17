@@ -1,0 +1,10 @@
+{
+  "name": "UPG_NAGA_ENSNARE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rnen)",
+  "isNullable": false,
+  "source": "common.ai"
+}

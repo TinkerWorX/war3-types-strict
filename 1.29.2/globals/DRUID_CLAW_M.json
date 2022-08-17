@@ -1,0 +1,10 @@
+{
+  "name": "DRUID_CLAW_M",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(edcm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

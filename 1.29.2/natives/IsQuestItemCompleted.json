@@ -1,0 +1,15 @@
+{
+  "name": "IsQuestItemCompleted",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichQuestItem",
+      "type": "questitem",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

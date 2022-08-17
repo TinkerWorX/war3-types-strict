@@ -1,0 +1,27 @@
+{
+  "name": "SetImageConstantHeight",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichImage",
+      "type": "image",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "flag",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "height",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "IssueNeutralTargetOrder",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "forWhichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "neutralStructure",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitToBuild",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "target",
+      "type": "widget",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

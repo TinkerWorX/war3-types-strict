@@ -1,0 +1,15 @@
+{
+  "name": "GetPlayerRace",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "race",
+  "isNullable": true,
+  "source": "common.j"
+}

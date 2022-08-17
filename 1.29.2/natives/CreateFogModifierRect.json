@@ -1,0 +1,39 @@
+{
+  "name": "CreateFogModifierRect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "forWhichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichState",
+      "type": "fogstate",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where",
+      "type": "rect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "useSharedVision",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "afterUnits",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "fogmodifier",
+  "isNullable": true,
+  "source": "common.j"
+}

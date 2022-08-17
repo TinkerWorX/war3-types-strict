@@ -1,0 +1,10 @@
+{
+  "name": "CASTLE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hcas)",
+  "isNullable": false,
+  "source": "common.ai"
+}

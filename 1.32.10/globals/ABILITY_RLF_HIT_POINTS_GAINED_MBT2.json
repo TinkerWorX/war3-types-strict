@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_HIT_POINTS_GAINED_MBT2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Mbt2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

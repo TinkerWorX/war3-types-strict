@@ -1,0 +1,21 @@
+{
+  "name": "DialogSetMessageBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDialog",
+      "type": "dialog",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "message",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

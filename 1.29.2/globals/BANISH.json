@@ -1,0 +1,10 @@
+{
+  "name": "BANISH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHbn)",
+  "isNullable": false,
+  "source": "common.ai"
+}

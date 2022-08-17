@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_ALLOWED_UNIT_TYPE_BTL1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Btl1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

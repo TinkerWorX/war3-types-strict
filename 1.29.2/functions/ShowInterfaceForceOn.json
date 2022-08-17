@@ -1,0 +1,21 @@
+{
+  "name": "ShowInterfaceForceOn",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichForce",
+      "type": "force",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fadeDuration",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

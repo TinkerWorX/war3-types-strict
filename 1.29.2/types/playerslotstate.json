@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "playerslotstate",
+  "extends": "handle",
+  "source": "common.j"
+}

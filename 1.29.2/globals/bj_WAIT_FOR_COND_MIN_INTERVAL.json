@@ -1,0 +1,10 @@
+{
+  "name": "bj_WAIT_FOR_COND_MIN_INTERVAL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "0.10",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

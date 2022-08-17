@@ -1,0 +1,15 @@
+{
+  "name": "FoodAvail",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "base",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.ai"
+}

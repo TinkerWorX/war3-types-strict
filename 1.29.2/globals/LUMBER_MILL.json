@@ -1,0 +1,10 @@
+{
+  "name": "LUMBER_MILL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hlum)",
+  "isNullable": false,
+  "source": "common.ai"
+}

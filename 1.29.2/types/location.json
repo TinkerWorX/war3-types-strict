@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "location",
+  "extends": "agent",
+  "source": "common.j"
+}

@@ -1,0 +1,51 @@
+{
+  "name": "CreateSoundFilenameWithLabel",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "fileName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "looping",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "is3D",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "stopwhenoutofrange",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fadeInRate",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fadeOutRate",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "SLKEntryName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "sound",
+  "isNullable": true,
+  "source": "common.j"
+}

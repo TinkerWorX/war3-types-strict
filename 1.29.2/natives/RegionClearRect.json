@@ -1,0 +1,21 @@
+{
+  "name": "RegionClearRect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichRegion",
+      "type": "region",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "r",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "QuestSetTitleBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichQuest",
+      "type": "quest",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "title",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

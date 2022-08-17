@@ -1,0 +1,21 @@
+{
+  "name": "AddResourceAmountBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "delta",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

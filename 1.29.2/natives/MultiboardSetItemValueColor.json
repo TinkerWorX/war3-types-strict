@@ -1,0 +1,39 @@
+{
+  "name": "MultiboardSetItemValueColor",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "mbi",
+      "type": "multiboarditem",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "alpha",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

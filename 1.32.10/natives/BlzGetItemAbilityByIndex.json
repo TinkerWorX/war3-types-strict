@@ -1,0 +1,21 @@
+{
+  "name": "BlzGetItemAbilityByIndex",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItem",
+      "type": "item",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "ability",
+  "isNullable": true,
+  "source": "common.j"
+}

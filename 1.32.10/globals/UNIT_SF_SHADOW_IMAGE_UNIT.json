@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_SF_SHADOW_IMAGE_UNIT",
+  "description": null,
+  "isConstant": true,
+  "type": "unitstringfield",
+  "isArray": false,
+  "value": "ConvertUnitStringField(\u0027ushu\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MANA_PER_UNIT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027dvm2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

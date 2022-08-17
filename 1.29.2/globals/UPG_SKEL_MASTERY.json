@@ -1,0 +1,10 @@
+{
+  "name": "UPG_SKEL_MASTERY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rusm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

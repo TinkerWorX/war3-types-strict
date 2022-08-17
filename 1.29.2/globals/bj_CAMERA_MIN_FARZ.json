@@ -1,0 +1,10 @@
+{
+  "name": "bj_CAMERA_MIN_FARZ",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "100",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

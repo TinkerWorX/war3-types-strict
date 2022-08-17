@@ -1,0 +1,21 @@
+{
+  "name": "CreateTimerDialogBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "t",
+      "type": "timer",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "title",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "timerdialog",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

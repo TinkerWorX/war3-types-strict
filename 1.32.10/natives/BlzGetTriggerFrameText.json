@@ -1,0 +1,8 @@
+{
+  "name": "BlzGetTriggerFrameText",
+  "description": null,
+  "takes": [],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

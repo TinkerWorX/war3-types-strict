@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_EXTRA_DAMAGE_TO_TARGET",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ctc2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

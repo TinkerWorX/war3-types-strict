@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_MULTIPLY",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($6A)",
+  "isNullable": false,
+  "source": "common.j"
+}

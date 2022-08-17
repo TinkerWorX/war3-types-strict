@@ -1,0 +1,15 @@
+{
+  "name": "SetGameSpeed",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichspeed",
+      "type": "gamespeed",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_BF_ATTACK_PROJECTILE_HOMING_ENABLED",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponbooleanfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponBooleanField(\u0027umh1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

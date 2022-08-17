@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_SWALKER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rowt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

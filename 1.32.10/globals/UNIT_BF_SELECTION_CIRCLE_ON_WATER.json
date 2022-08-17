@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_BF_SELECTION_CIRCLE_ON_WATER",
+  "description": null,
+  "isConstant": true,
+  "type": "unitbooleanfield",
+  "isArray": false,
+  "value": "ConvertUnitBooleanField(\u0027usew\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

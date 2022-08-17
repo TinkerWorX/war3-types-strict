@@ -1,0 +1,8 @@
+{
+  "name": "MeleeRemoveObservers",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

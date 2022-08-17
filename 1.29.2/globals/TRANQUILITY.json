@@ -1,0 +1,10 @@
+{
+  "name": "TRANQUILITY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEtq)",
+  "isNullable": false,
+  "source": "common.ai"
+}

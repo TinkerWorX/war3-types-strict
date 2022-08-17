@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedDefeatConditionBJ",
+  "description": null,
+  "takes": [],
+  "returns": "defeatcondition",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

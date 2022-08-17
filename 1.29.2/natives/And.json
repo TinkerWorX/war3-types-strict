@@ -1,0 +1,21 @@
+{
+  "name": "And",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "operandA",
+      "type": "boolexpr",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "operandB",
+      "type": "boolexpr",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolexpr",
+  "isNullable": false,
+  "source": "common.j"
+}

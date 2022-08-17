@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_HIT_POINTS_GAINED_EAT3",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Eat3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

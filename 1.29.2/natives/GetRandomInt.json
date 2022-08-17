@@ -1,0 +1,21 @@
+{
+  "name": "GetRandomInt",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lowBound",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "highBound",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

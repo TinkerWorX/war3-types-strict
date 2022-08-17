@@ -1,0 +1,27 @@
+{
+  "name": "SaveAndChangeLevelBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "saveFileName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newLevel",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "doScoreScreen",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

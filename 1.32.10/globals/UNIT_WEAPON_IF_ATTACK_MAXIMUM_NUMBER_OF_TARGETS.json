@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_IF_ATTACK_MAXIMUM_NUMBER_OF_TARGETS",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponIntegerField(\u0027utc1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "SetCameraBounds",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "x1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x3",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y3",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x4",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y4",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SetMusicVolume",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "volume",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

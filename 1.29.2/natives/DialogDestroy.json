@@ -1,0 +1,15 @@
+{
+  "name": "DialogDestroy",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDialog",
+      "type": "dialog",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

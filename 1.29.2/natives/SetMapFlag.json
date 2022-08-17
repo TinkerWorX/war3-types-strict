@@ -1,0 +1,21 @@
+{
+  "name": "SetMapFlag",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichMapFlag",
+      "type": "mapflag",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

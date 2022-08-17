@@ -1,0 +1,21 @@
+{
+  "name": "GetRandomSubGroup",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "count",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "sourceGroup",
+      "type": "group",
+      "isNullable": false
+    }
+  ],
+  "returns": "group",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

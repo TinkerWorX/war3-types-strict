@@ -1,0 +1,15 @@
+{
+  "name": "GetCameraMargin",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichMargin",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "HERO_ATTRIBUTE_STR",
+  "description": null,
+  "isConstant": true,
+  "type": "heroattribute",
+  "isArray": false,
+  "value": "ConvertHeroAttribute(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

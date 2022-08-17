@@ -1,0 +1,10 @@
+{
+  "name": "HIGH_SKY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(negm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

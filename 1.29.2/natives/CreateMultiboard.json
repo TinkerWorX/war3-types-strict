@@ -1,0 +1,8 @@
+{
+  "name": "CreateMultiboard",
+  "description": null,
+  "takes": [],
+  "returns": "multiboard",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "GetDestructableX",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "d",
+      "type": "destructable",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_SPRITE_ANIM_UPDATE",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(12)",
+  "isNullable": false,
+  "source": "common.j"
+}

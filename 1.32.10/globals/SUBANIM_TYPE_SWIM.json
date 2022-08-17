@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_SWIM",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(60)",
+  "isNullable": false,
+  "source": "common.j"
+}

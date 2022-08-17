@@ -1,0 +1,21 @@
+{
+  "name": "GroupAddGroup",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "sourceGroup",
+      "type": "group",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "destGroup",
+      "type": "group",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_SHARED_CONTROL",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(6)",
+  "isNullable": false,
+  "source": "common.j"
+}

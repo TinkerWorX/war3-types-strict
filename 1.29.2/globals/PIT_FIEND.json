@@ -1,0 +1,10 @@
+{
+  "name": "PIT_FIEND",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ucry)",
+  "isNullable": false,
+  "source": "common.ai"
+}

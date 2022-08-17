@@ -1,0 +1,15 @@
+{
+  "name": "ConvertTextAlignType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "textaligntype",
+  "isNullable": true,
+  "source": "common.j"
+}

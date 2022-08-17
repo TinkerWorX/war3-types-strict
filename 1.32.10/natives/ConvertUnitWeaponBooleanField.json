@@ -1,0 +1,15 @@
+{
+  "name": "ConvertUnitWeaponBooleanField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unitweaponbooleanfield",
+  "isNullable": true,
+  "source": "common.j"
+}

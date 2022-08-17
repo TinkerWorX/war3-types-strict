@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_MANA_USED_PER_SECOND",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Icfm\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

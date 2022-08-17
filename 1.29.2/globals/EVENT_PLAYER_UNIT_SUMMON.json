@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_SUMMON",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(47)",
+  "isNullable": false,
+  "source": "common.j"
+}

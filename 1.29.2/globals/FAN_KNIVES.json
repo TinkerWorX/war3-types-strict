@@ -1,0 +1,10 @@
+{
+  "name": "FAN_KNIVES",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEfk)",
+  "isNullable": false,
+  "source": "common.ai"
+}

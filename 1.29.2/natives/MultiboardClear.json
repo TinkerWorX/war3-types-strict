@@ -1,0 +1,15 @@
+{
+  "name": "MultiboardClear",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "multiboard",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_DIVIDE",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($6F)",
+  "isNullable": false,
+  "source": "common.j"
+}

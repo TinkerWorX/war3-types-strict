@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_BF_CAN_BE_SOLD_TO_MERCHANTS",
+  "description": null,
+  "isConstant": true,
+  "type": "itembooleanfield",
+  "isArray": false,
+  "value": "ConvertItemBooleanField(\u0027ipaw\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_NO_TARGET_REQUIRED_IRL4",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027irl4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

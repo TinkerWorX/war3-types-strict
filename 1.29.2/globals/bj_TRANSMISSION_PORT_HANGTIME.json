@@ -1,0 +1,10 @@
+{
+  "name": "bj_TRANSMISSION_PORT_HANGTIME",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "1.50",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

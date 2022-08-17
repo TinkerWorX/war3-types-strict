@@ -1,0 +1,10 @@
+{
+  "name": "bj_PLAYER_NEUTRAL_EXTRA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "GetBJPlayerNeutralExtra()",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

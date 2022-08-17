@@ -1,0 +1,27 @@
+{
+  "name": "IssuePointOrderLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "order",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

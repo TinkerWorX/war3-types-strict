@@ -1,0 +1,45 @@
+{
+  "name": "CreateMinimapIconAtLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "pingPath",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fogVisibility",
+      "type": "fogstate",
+      "isNullable": false
+    }
+  ],
+  "returns": "minimapicon",
+  "isNullable": true,
+  "source": "common.j"
+}

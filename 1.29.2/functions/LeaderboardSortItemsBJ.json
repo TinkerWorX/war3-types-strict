@@ -1,0 +1,27 @@
+{
+  "name": "LeaderboardSortItemsBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "leaderboard",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "sortType",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "ascending",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

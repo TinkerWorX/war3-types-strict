@@ -1,0 +1,10 @@
+{
+  "name": "BLIZZARD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHbz)",
+  "isNullable": false,
+  "source": "common.ai"
+}

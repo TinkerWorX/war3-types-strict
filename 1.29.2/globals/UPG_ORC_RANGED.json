@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_RANGED",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rora)",
+  "isNullable": false,
+  "source": "common.ai"
+}

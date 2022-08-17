@@ -1,0 +1,15 @@
+{
+  "name": "ExecuteFunc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "funcName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

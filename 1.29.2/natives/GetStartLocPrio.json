@@ -1,0 +1,21 @@
+{
+  "name": "GetStartLocPrio",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichStartLoc",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "prioSlotIndex",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "startlocprio",
+  "isNullable": true,
+  "source": "common.j"
+}

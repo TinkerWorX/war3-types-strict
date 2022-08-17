@@ -1,0 +1,21 @@
+{
+  "name": "Atan2",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

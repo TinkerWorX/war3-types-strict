@@ -1,0 +1,10 @@
+{
+  "name": "UPG_CLOUD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhcd)",
+  "isNullable": false,
+  "source": "common.ai"
+}

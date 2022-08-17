@@ -1,0 +1,10 @@
+{
+  "name": "UNDEAD_MINE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ugol)",
+  "isNullable": false,
+  "source": "common.ai"
+}

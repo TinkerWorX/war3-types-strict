@@ -1,0 +1,10 @@
+{
+  "name": "NAGA_WITCH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nnsw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

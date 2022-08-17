@@ -1,0 +1,10 @@
+{
+  "name": "UPG_NECROS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rune)",
+  "isNullable": false,
+  "source": "common.ai"
+}

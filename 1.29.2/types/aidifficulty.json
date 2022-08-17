@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "aidifficulty",
+  "extends": "handle",
+  "source": "common.j"
+}

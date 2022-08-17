@@ -1,0 +1,27 @@
+{
+  "name": "BlzGetUnitWeaponRealField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "unitweaponrealfield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

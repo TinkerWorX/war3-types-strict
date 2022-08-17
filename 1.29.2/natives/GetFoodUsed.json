@@ -1,0 +1,15 @@
+{
+  "name": "GetFoodUsed",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

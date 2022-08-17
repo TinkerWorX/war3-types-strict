@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_MEDIA_PREV_TRACK",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($B1)",
+  "isNullable": false,
+  "source": "common.j"
+}

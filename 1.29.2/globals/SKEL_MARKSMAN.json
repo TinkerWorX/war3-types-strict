@@ -1,0 +1,10 @@
+{
+  "name": "SKEL_MARKSMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nskm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

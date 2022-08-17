@@ -1,0 +1,8 @@
+{
+  "name": "GetCreatureDensity",
+  "description": null,
+  "takes": [],
+  "returns": "mapdensity",
+  "isNullable": true,
+  "source": "common.j"
+}

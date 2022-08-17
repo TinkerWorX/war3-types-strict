@@ -1,0 +1,10 @@
+{
+  "name": "ENDURANE_AURA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOae)",
+  "isNullable": false,
+  "source": "common.ai"
+}

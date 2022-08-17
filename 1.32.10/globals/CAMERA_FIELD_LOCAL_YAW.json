@@ -1,0 +1,10 @@
+{
+  "name": "CAMERA_FIELD_LOCAL_YAW",
+  "description": null,
+  "isConstant": true,
+  "type": "camerafield",
+  "isArray": false,
+  "value": "ConvertCameraField(9)",
+  "isNullable": false,
+  "source": "common.j"
+}

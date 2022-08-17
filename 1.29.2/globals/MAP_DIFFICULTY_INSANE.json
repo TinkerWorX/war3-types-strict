@@ -1,0 +1,10 @@
+{
+  "name": "MAP_DIFFICULTY_INSANE",
+  "description": null,
+  "isConstant": true,
+  "type": "gamedifficulty",
+  "isArray": false,
+  "value": "ConvertGameDifficulty(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

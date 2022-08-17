@@ -1,0 +1,10 @@
+{
+  "name": "PATHING_TYPE_BUILDABILITY",
+  "description": null,
+  "isConstant": true,
+  "type": "pathingtype",
+  "isArray": false,
+  "value": "ConvertPathingType(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

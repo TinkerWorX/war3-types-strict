@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "destructable",
+  "extends": "widget",
+  "source": "common.j"
+}

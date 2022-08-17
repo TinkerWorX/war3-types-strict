@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_LSHIFT",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($A0)",
+  "isNullable": false,
+  "source": "common.j"
+}

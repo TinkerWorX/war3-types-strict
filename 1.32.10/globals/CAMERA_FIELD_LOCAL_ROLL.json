@@ -1,0 +1,10 @@
+{
+  "name": "CAMERA_FIELD_LOCAL_ROLL",
+  "description": null,
+  "isConstant": true,
+  "type": "camerafield",
+  "isArray": false,
+  "value": "ConvertCameraField(10)",
+  "isNullable": false,
+  "source": "common.j"
+}

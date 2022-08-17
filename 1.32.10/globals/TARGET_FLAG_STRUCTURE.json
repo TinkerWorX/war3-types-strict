@@ -1,0 +1,10 @@
+{
+  "name": "TARGET_FLAG_STRUCTURE",
+  "description": null,
+  "isConstant": true,
+  "type": "targetflag",
+  "isArray": false,
+  "value": "ConvertTargetFlag(8)",
+  "isNullable": false,
+  "source": "common.j"
+}

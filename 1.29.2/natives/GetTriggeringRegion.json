@@ -1,0 +1,8 @@
+{
+  "name": "GetTriggeringRegion",
+  "description": null,
+  "takes": [],
+  "returns": "region",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_POWERBUILD_COST",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Rep3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

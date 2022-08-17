@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_SPIN",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(18)",
+  "isNullable": false,
+  "source": "common.j"
+}

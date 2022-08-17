@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_RF_ACQUISITION_RANGE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitrealfield",
+  "isArray": false,
+  "value": "ConvertUnitRealField(\u0027uacq\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

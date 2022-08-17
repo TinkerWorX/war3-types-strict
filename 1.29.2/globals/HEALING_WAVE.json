@@ -1,0 +1,10 @@
+{
+  "name": "HEALING_WAVE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOhw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

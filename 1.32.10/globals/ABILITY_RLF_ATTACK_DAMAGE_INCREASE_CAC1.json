@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ATTACK_DAMAGE_INCREASE_CAC1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Cac1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "HUNTRESS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(esen)",
+  "isNullable": false,
+  "source": "common.ai"
+}

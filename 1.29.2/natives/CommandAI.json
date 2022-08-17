@@ -1,0 +1,27 @@
+{
+  "name": "CommandAI",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "num",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "command",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "data",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

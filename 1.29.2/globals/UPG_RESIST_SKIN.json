@@ -1,0 +1,10 @@
+{
+  "name": "UPG_RESIST_SKIN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rers)",
+  "isNullable": false,
+  "source": "common.ai"
+}

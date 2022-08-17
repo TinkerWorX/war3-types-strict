@@ -1,0 +1,27 @@
+{
+  "name": "ForceEnumPlayersCounted",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichForce",
+      "type": "force",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "filter",
+      "type": "boolexpr",
+      "isNullable": true
+    },
+    {
+      "description": null,
+      "name": "countLimit",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

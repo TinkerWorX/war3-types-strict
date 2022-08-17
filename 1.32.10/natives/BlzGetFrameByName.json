@@ -1,0 +1,21 @@
+{
+  "name": "BlzGetFrameByName",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "name",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "createContext",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "framehandle",
+  "isNullable": true,
+  "source": "common.j"
+}

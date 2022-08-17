@@ -1,0 +1,15 @@
+{
+  "name": "SetUpgrade",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "id",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

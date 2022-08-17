@@ -1,0 +1,45 @@
+{
+  "name": "AdjustCameraBoundsForPlayerBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "adjustMethod",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dxWest",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dxEast",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dyNorth",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dySouth",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

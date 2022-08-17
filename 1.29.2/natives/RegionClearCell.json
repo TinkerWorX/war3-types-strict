@@ -1,0 +1,27 @@
+{
+  "name": "RegionClearCell",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichRegion",
+      "type": "region",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

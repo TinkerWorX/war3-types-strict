@@ -1,0 +1,15 @@
+{
+  "name": "CreateTimerDialog",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "t",
+      "type": "timer",
+      "isNullable": false
+    }
+  ],
+  "returns": "timerdialog",
+  "isNullable": true,
+  "source": "common.j"
+}

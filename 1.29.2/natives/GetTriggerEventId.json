@@ -1,0 +1,8 @@
+{
+  "name": "GetTriggerEventId",
+  "description": null,
+  "takes": [],
+  "returns": "eventid",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_LEASH_RANGE_NFY2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Nfy2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_randomSubGroupGroup",
+  "description": null,
+  "isConstant": false,
+  "type": "group",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

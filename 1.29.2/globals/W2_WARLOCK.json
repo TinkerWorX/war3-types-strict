@@ -1,0 +1,10 @@
+{
+  "name": "W2_WARLOCK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nw2w)",
+  "isNullable": false,
+  "source": "common.ai"
+}

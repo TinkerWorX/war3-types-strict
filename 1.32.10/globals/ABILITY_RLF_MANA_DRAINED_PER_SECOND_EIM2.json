@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MANA_DRAINED_PER_SECOND_EIM2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Eim2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

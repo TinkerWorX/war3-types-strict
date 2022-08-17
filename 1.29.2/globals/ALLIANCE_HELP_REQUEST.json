@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_HELP_REQUEST",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

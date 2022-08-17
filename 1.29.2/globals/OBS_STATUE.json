@@ -1,0 +1,10 @@
+{
+  "name": "OBS_STATUE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "OBSIDIAN_STATUE",
+  "isNullable": false,
+  "source": "common.ai"
+}

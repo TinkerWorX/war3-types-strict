@@ -1,0 +1,10 @@
+{
+  "name": "MANA_BURN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEmb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

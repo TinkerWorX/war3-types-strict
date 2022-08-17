@@ -1,0 +1,21 @@
+{
+  "name": "IsLocationMaskedToPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

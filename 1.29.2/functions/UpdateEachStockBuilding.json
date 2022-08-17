@@ -1,0 +1,21 @@
+{
+  "name": "UpdateEachStockBuilding",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "iType",
+      "type": "itemtype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "iLevel",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

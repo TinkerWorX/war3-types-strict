@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedGameCacheBJ",
+  "description": null,
+  "takes": [],
+  "returns": "gamecache",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

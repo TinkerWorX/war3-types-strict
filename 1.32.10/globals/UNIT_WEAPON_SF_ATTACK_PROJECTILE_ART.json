@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_SF_ATTACK_PROJECTILE_ART",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponstringfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponStringField(\u0027ua1m\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_NEUTRAL_PASSIVE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "GetPlayerNeutralPassive()",
+  "isNullable": false,
+  "source": "common.j"
+}

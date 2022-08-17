@@ -1,0 +1,10 @@
+{
+  "name": "SHOCKWAVE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOsh)",
+  "isNullable": false,
+  "source": "common.ai"
+}

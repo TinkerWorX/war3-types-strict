@@ -1,0 +1,10 @@
+{
+  "name": "bj_cineFadeContinueRed",
+  "description": null,
+  "isConstant": false,
+  "type": "number",
+  "isArray": false,
+  "value": "0",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

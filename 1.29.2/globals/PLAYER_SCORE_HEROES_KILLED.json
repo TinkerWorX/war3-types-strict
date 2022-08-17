@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_HEROES_KILLED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(7)",
+  "isNullable": false,
+  "source": "common.j"
+}

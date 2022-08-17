@@ -1,0 +1,10 @@
+{
+  "name": "bj_CAMPAIGN_INDEX_XU",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "7",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

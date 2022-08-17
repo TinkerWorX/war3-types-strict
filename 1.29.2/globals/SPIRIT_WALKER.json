@@ -1,0 +1,10 @@
+{
+  "name": "SPIRIT_WALKER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ospw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

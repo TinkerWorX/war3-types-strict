@@ -1,0 +1,33 @@
+{
+  "name": "SaveFogModifierHandleBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichFogModifier",
+      "type": "fogmodifier",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "key",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionKey",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "table",
+      "type": "hashtable",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

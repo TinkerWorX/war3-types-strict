@@ -1,0 +1,15 @@
+{
+  "name": "FinishUbersplat",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichSplat",
+      "type": "ubersplat",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

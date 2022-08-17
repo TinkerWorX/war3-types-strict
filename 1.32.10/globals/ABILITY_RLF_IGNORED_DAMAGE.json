@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_IGNORED_DAMAGE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ssk3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UPG_PLAGUE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rupc)",
+  "isNullable": false,
+  "source": "common.ai"
+}

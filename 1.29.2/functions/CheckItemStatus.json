@@ -1,0 +1,21 @@
+{
+  "name": "CheckItemStatus",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItem",
+      "type": "item",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "status",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ATTACK_TYPE_PIERCE",
+  "description": null,
+  "isConstant": true,
+  "type": "attacktype",
+  "isArray": false,
+  "value": "ConvertAttackType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

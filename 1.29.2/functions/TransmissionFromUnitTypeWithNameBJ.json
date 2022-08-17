@@ -1,0 +1,69 @@
+{
+  "name": "TransmissionFromUnitTypeWithNameBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "toForce",
+      "type": "force",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fromPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "message",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeType",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeVal",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "wait",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

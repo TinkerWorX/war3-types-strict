@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_HOME",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($24)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UPG_SKEL_LIFE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rusl)",
+  "isNullable": false,
+  "source": "common.ai"
+}

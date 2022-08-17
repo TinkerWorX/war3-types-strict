@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "unitbooleanfield",
+  "extends": "handle",
+  "source": "common.j"
+}

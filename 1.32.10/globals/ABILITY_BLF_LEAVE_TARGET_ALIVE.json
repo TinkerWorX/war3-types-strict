@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_LEAVE_TARGET_ALIVE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Udp5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

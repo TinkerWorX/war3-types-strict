@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_CHANCE_TO_EVADE_EEV1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Eev1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "M7",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "7*60",
+  "isNullable": false,
+  "source": "common.ai"
+}

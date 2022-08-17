@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SLF_NORMAL_FORM_UNIT_EME1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringLevelField(\u0027Eme1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

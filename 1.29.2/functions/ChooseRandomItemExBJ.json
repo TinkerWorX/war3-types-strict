@@ -1,0 +1,21 @@
+{
+  "name": "ChooseRandomItemExBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichType",
+      "type": "itemtype",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

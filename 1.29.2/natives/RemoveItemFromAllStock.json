@@ -1,0 +1,15 @@
+{
+  "name": "RemoveItemFromAllStock",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "itemId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

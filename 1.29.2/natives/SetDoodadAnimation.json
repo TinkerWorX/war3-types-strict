@@ -1,0 +1,51 @@
+{
+  "name": "SetDoodadAnimation",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "doodadID",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "nearestOnly",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "animName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "animRandom",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

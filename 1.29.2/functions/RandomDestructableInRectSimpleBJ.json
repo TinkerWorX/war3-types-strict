@@ -1,0 +1,15 @@
+{
+  "name": "RandomDestructableInRectSimpleBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "r",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "destructable",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

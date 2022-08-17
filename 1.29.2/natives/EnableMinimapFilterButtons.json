@@ -1,0 +1,21 @@
+{
+  "name": "EnableMinimapFilterButtons",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "enableAlly",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "enableCreep",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

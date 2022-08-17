@@ -1,0 +1,10 @@
+{
+  "name": "UPG_MARK_TALON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Reec)",
+  "isNullable": false,
+  "source": "common.ai"
+}

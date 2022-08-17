@@ -1,0 +1,21 @@
+{
+  "name": "SetMissionAvailableBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "available",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "missionIndex",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

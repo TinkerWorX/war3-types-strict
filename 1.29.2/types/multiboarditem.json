@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "multiboarditem",
+  "extends": "agent",
+  "source": "common.j"
+}

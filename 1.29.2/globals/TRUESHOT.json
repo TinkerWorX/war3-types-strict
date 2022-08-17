@@ -1,0 +1,10 @@
+{
+  "name": "TRUESHOT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEar)",
+  "isNullable": false,
+  "source": "common.ai"
+}

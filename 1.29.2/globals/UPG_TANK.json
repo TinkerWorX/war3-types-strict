@@ -1,0 +1,10 @@
+{
+  "name": "UPG_TANK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhrt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

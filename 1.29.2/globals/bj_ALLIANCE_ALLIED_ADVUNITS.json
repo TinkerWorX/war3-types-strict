@@ -1,0 +1,10 @@
+{
+  "name": "bj_ALLIANCE_ALLIED_ADVUNITS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "5",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

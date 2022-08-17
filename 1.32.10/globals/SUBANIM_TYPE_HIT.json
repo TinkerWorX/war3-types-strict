@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_HIT",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(28)",
+  "isNullable": false,
+  "source": "common.j"
+}

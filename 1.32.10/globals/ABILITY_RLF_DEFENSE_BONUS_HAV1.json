@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DEFENSE_BONUS_HAV1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Hav1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

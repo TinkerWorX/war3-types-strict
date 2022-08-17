@@ -1,0 +1,45 @@
+{
+  "name": "GroupEnumUnitsInRangeCounted",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichGroup",
+      "type": "group",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "filter",
+      "type": "boolexpr",
+      "isNullable": true
+    },
+    {
+      "description": null,
+      "name": "countLimit",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

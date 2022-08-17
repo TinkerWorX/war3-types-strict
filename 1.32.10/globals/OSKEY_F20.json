@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_F20",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($83)",
+  "isNullable": false,
+  "source": "common.j"
+}

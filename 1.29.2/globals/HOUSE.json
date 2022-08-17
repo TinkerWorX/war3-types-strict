@@ -1,0 +1,10 @@
+{
+  "name": "HOUSE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hhou)",
+  "isNullable": false,
+  "source": "common.ai"
+}

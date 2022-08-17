@@ -1,0 +1,10 @@
+{
+  "name": "bj_QUEUE_DELAY_QUEST",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "5.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

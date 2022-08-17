@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_GAME_UI",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

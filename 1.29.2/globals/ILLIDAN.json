@@ -1,0 +1,10 @@
+{
+  "name": "ILLIDAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Eevi)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UPG_MEAT_WAGON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rump)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UPG_STONE_FORM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rusf)",
+  "isNullable": false,
+  "source": "common.ai"
+}

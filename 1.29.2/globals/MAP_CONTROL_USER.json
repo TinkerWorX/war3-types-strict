@@ -1,0 +1,10 @@
+{
+  "name": "MAP_CONTROL_USER",
+  "description": null,
+  "isConstant": true,
+  "type": "mapcontrol",
+  "isArray": false,
+  "value": "ConvertMapControl(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

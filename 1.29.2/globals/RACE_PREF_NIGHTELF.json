@@ -1,0 +1,10 @@
+{
+  "name": "RACE_PREF_NIGHTELF",
+  "description": null,
+  "isConstant": true,
+  "type": "racepreference",
+  "isArray": false,
+  "value": "ConvertRacePref(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

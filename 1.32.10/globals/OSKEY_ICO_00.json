@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_ICO_00",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($E4)",
+  "isNullable": false,
+  "source": "common.j"
+}

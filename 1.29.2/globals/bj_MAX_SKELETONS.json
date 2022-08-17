@@ -1,0 +1,10 @@
+{
+  "name": "bj_MAX_SKELETONS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "25",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

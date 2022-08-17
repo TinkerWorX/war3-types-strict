@@ -1,0 +1,10 @@
+{
+  "name": "DEATH_COIL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AUdc)",
+  "isNullable": false,
+  "source": "common.ai"
+}

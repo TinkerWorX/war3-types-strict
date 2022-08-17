@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_STRUCT_RAZED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

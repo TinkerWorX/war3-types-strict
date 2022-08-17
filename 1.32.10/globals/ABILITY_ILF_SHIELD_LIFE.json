@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_SHIELD_LIFE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Ams3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

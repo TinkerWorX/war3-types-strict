@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_IF_TINTING_COLOR_RED",
+  "description": null,
+  "isConstant": true,
+  "type": "unitintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitIntegerField(\u0027uclr\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

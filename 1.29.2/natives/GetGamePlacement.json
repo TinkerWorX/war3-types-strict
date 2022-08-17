@@ -1,0 +1,8 @@
+{
+  "name": "GetGamePlacement",
+  "description": null,
+  "takes": [],
+  "returns": "placement",
+  "isNullable": true,
+  "source": "common.j"
+}

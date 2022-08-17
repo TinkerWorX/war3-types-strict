@@ -1,0 +1,27 @@
+{
+  "name": "MoveRectTo",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichRect",
+      "type": "rect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newCenterX",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newCenterY",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

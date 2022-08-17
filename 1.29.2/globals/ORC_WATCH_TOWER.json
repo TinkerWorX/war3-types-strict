@@ -1,0 +1,10 @@
+{
+  "name": "ORC_WATCH_TOWER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(owtw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

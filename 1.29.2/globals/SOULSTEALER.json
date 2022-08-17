@@ -1,0 +1,10 @@
+{
+  "name": "SOULSTEALER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nstl)",
+  "isNullable": false,
+  "source": "common.ai"
+}

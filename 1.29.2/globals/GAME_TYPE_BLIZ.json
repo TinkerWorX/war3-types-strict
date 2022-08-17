@@ -1,0 +1,10 @@
+{
+  "name": "GAME_TYPE_BLIZ",
+  "description": null,
+  "isConstant": true,
+  "type": "gametype",
+  "isArray": false,
+  "value": "ConvertGameType(8)",
+  "isNullable": false,
+  "source": "common.j"
+}

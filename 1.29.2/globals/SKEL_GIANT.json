@@ -1,0 +1,10 @@
+{
+  "name": "SKEL_GIANT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nskg)",
+  "isNullable": false,
+  "source": "common.ai"
+}

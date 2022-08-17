@@ -1,0 +1,21 @@
+{
+  "name": "TriggerRegisterGameEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichGameEvent",
+      "type": "gameevent",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

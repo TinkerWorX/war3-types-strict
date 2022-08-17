@@ -1,0 +1,21 @@
+{
+  "name": "BlzGetItemIntegerField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItem",
+      "type": "item",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "itemintegerfield",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

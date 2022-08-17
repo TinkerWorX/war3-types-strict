@@ -1,0 +1,10 @@
+{
+  "name": "TRICKSTER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nsat)",
+  "isNullable": false,
+  "source": "common.ai"
+}

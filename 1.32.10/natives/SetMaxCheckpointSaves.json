@@ -1,0 +1,15 @@
+{
+  "name": "SetMaxCheckpointSaves",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "maxCheckpointSaves",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

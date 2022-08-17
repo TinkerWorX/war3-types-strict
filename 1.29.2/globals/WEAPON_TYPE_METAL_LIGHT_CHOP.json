@@ -1,0 +1,10 @@
+{
+  "name": "WEAPON_TYPE_METAL_LIGHT_CHOP",
+  "description": null,
+  "isConstant": true,
+  "type": "weapontype",
+  "isArray": false,
+  "value": "ConvertWeaponType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

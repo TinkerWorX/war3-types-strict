@@ -1,0 +1,8 @@
+{
+  "name": "IsNoVictoryCheat",
+  "description": null,
+  "takes": [],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

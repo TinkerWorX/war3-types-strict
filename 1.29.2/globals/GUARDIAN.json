@@ -1,0 +1,10 @@
+{
+  "name": "GUARDIAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(oang)",
+  "isNullable": false,
+  "source": "common.ai"
+}

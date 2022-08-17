@@ -1,0 +1,15 @@
+{
+  "name": "SkinManagerGetLocalPath",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "key",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

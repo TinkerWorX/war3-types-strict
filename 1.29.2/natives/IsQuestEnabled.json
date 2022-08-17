@@ -1,0 +1,15 @@
+{
+  "name": "IsQuestEnabled",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichQuest",
+      "type": "quest",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

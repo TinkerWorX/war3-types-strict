@@ -1,0 +1,15 @@
+{
+  "name": "FlushGameCacheBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "cache",
+      "type": "gamecache",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

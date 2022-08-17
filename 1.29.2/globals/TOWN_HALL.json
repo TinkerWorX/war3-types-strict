@@ -1,0 +1,10 @@
+{
+  "name": "TOWN_HALL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(htow)",
+  "isNullable": false,
+  "source": "common.ai"
+}

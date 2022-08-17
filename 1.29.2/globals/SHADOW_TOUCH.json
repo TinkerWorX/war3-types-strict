@@ -1,0 +1,10 @@
+{
+  "name": "SHADOW_TOUCH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEsh)",
+  "isNullable": false,
+  "source": "common.ai"
+}

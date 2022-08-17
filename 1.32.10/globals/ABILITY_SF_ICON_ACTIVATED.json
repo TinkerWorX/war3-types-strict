@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SF_ICON_ACTIVATED",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringField(\u0027auar\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

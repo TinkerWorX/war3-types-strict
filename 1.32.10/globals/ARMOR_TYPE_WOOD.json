@@ -1,0 +1,10 @@
+{
+  "name": "ARMOR_TYPE_WOOD",
+  "description": null,
+  "isConstant": true,
+  "type": "armortype",
+  "isArray": false,
+  "value": "ConvertArmorType(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

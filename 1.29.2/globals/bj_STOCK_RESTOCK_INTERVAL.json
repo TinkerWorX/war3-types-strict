@@ -1,0 +1,10 @@
+{
+  "name": "bj_STOCK_RESTOCK_INTERVAL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "30",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

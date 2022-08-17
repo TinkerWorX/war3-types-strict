@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_HERO_BAR",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

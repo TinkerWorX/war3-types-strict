@@ -1,0 +1,15 @@
+{
+  "name": "PickMeleeHero",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "raceid",
+      "type": "race",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.ai"
+}

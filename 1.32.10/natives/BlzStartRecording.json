@@ -1,0 +1,15 @@
+{
+  "name": "BlzStartRecording",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "fps",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

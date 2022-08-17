@@ -1,0 +1,10 @@
+{
+  "name": "DEFENSE_TYPE_NONE",
+  "description": null,
+  "isConstant": true,
+  "type": "defensetype",
+  "isArray": false,
+  "value": "ConvertDefenseType(7)",
+  "isNullable": false,
+  "source": "common.j"
+}

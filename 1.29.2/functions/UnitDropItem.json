@@ -1,0 +1,21 @@
+{
+  "name": "UnitDropItem",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "inUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "inItemID",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

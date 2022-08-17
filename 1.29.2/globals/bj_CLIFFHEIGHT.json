@@ -1,0 +1,10 @@
+{
+  "name": "bj_CLIFFHEIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "128.0",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

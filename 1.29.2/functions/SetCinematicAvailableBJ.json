@@ -1,0 +1,21 @@
+{
+  "name": "SetCinematicAvailableBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "available",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "cinematicIndex",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

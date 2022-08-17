@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_IF_ATTACK_ATTACK_TYPE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponIntegerField(\u0027ua1t\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

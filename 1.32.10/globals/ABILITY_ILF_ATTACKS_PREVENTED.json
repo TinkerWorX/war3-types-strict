@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_ATTACKS_PREVENTED",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Nsi1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

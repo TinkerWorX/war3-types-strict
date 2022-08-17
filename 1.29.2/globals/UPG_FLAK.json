@@ -1,0 +1,10 @@
+{
+  "name": "UPG_FLAK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhfc)",
+  "isNullable": false,
+  "source": "common.ai"
+}

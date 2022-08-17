@@ -1,0 +1,10 @@
+{
+  "name": "MASS_TELEPORT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHmt)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "STEAM_TANK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "TANK",
+  "isNullable": false,
+  "source": "common.ai"
+}

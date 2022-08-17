@@ -1,0 +1,21 @@
+{
+  "name": "MultiboardDisplayBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "show",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "mb",
+      "type": "multiboard",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

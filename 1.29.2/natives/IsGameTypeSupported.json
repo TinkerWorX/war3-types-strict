@@ -1,0 +1,15 @@
+{
+  "name": "IsGameTypeSupported",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichGameType",
+      "type": "gametype",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

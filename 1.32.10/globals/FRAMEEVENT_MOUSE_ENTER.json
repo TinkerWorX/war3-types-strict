@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_MOUSE_ENTER",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

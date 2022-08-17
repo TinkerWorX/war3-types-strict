@@ -1,0 +1,15 @@
+{
+  "name": "GetPlayersByMapControl",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichControl",
+      "type": "mapcontrol",
+      "isNullable": false
+    }
+  ],
+  "returns": "force",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

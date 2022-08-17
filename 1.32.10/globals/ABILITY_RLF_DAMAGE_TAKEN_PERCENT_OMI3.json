@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_TAKEN_PERCENT_OMI3",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Omi3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

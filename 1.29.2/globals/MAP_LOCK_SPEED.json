@@ -1,0 +1,10 @@
+{
+  "name": "MAP_LOCK_SPEED",
+  "description": null,
+  "isConstant": true,
+  "type": "mapflag",
+  "isArray": false,
+  "value": "ConvertMapFlag(8192*2)",
+  "isNullable": false,
+  "source": "common.j"
+}

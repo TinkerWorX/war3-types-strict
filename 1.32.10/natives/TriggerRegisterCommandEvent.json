@@ -1,0 +1,27 @@
+{
+  "name": "TriggerRegisterCommandEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichAbility",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "order",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

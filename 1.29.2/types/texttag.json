@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "texttag",
+  "extends": "handle",
+  "source": "common.j"
+}

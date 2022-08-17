@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_BROWSER_HOME",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($AC)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_NEC_EQUAL",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($92)",
+  "isNullable": false,
+  "source": "common.j"
+}

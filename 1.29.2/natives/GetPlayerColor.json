@@ -1,0 +1,15 @@
+{
+  "name": "GetPlayerColor",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "playercolor",
+  "isNullable": false,
+  "source": "common.j"
+}

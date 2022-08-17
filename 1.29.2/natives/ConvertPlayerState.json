@@ -1,0 +1,15 @@
+{
+  "name": "ConvertPlayerState",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "playerstate",
+  "isNullable": true,
+  "source": "common.j"
+}

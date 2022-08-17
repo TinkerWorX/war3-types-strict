@@ -1,0 +1,15 @@
+{
+  "name": "SaveGameCacheBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "cache",
+      "type": "gamecache",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

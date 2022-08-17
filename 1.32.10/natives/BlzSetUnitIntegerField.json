@@ -1,0 +1,27 @@
+{
+  "name": "BlzSetUnitIntegerField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "unitintegerfield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "BESTIARY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(obea)",
+  "isNullable": false,
+  "source": "common.ai"
+}

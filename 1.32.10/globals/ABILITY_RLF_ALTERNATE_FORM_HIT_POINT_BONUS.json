@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ALTERNATE_FORM_HIT_POINT_BONUS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Eme5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

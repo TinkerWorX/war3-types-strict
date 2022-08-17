@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_ANCIENT",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(19)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "CHAOS_WARLOCK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nchw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

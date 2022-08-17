@@ -1,0 +1,10 @@
+{
+  "name": "RAIDER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(orai)",
+  "isNullable": false,
+  "source": "common.ai"
+}

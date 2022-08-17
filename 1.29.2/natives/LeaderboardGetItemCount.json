@@ -1,0 +1,15 @@
+{
+  "name": "LeaderboardGetItemCount",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "leaderboard",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

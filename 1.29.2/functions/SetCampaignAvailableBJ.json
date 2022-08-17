@@ -1,0 +1,21 @@
+{
+  "name": "SetCampaignAvailableBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "available",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "campaignNumber",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

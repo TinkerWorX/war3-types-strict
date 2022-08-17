@@ -1,0 +1,15 @@
+{
+  "name": "GetHandleId",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "h",
+      "type": "handle",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

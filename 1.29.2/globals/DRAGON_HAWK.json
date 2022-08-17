@@ -1,0 +1,10 @@
+{
+  "name": "DRAGON_HAWK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nws1)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "THRALL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Othr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

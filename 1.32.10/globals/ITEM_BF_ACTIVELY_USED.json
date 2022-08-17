@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_BF_ACTIVELY_USED",
+  "description": null,
+  "isConstant": true,
+  "type": "itembooleanfield",
+  "isArray": false,
+  "value": "ConvertItemBooleanField(\u0027iusa\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

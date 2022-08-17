@@ -1,0 +1,10 @@
+{
+  "name": "EQUAL",
+  "description": null,
+  "isConstant": true,
+  "type": "limitop",
+  "isArray": false,
+  "value": "ConvertLimitOp(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

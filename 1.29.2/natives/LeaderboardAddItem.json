@@ -1,0 +1,33 @@
+{
+  "name": "LeaderboardAddItem",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "leaderboard",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "label",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "p",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

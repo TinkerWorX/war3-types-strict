@@ -1,0 +1,10 @@
+{
+  "name": "ANIM_TYPE_SPELL",
+  "description": null,
+  "isConstant": true,
+  "type": "animtype",
+  "isArray": false,
+  "value": "ConvertAnimType(9)",
+  "isNullable": false,
+  "source": "common.j"
+}

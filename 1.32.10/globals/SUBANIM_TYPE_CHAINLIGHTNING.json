@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_CHAINLIGHTNING",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(55)",
+  "isNullable": false,
+  "source": "common.j"
+}

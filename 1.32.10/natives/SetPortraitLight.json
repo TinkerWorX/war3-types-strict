@@ -1,0 +1,15 @@
+{
+  "name": "SetPortraitLight",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "portraitDNCFile",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

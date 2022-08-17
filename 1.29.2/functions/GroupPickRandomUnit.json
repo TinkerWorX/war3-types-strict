@@ -1,0 +1,15 @@
+{
+  "name": "GroupPickRandomUnit",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichGroup",
+      "type": "group",
+      "isNullable": false
+    }
+  ],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

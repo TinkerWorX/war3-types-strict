@@ -1,0 +1,10 @@
+{
+  "name": "ANIM_TYPE_STAND",
+  "description": null,
+  "isConstant": true,
+  "type": "animtype",
+  "isArray": false,
+  "value": "ConvertAnimType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

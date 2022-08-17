@@ -1,0 +1,10 @@
+{
+  "name": "MTN_KING",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Hmkg)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ConvertIGameState",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "igamestate",
+  "isNullable": true,
+  "source": "common.j"
+}

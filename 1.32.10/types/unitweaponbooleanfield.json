@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "unitweaponbooleanfield",
+  "extends": "handle",
+  "source": "common.j"
+}

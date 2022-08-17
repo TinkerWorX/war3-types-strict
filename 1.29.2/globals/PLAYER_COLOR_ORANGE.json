@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_COLOR_ORANGE",
+  "description": null,
+  "isConstant": true,
+  "type": "playercolor",
+  "isArray": false,
+  "value": "ConvertPlayerColor(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "BlzChangeMinimapTerrainTex",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "texFile",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

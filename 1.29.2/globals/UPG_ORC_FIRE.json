@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_FIRE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rolf)",
+  "isNullable": false,
+  "source": "common.ai"
+}

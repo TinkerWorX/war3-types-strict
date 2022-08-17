@@ -1,0 +1,33 @@
+{
+  "name": "MergeUnits",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "qty",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "a",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "b",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "make",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

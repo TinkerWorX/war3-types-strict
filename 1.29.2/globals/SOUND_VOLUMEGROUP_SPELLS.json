@@ -1,0 +1,10 @@
+{
+  "name": "SOUND_VOLUMEGROUP_SPELLS",
+  "description": null,
+  "isConstant": true,
+  "type": "volumegroup",
+  "isArray": false,
+  "value": "ConvertVolumeGroup(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

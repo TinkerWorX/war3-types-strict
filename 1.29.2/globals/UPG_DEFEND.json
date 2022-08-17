@@ -1,0 +1,10 @@
+{
+  "name": "UPG_DEFEND",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhde)",
+  "isNullable": false,
+  "source": "common.ai"
+}

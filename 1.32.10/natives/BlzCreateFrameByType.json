@@ -1,0 +1,39 @@
+{
+  "name": "BlzCreateFrameByType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "typeName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "name",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "owner",
+      "type": "framehandle",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "inherits",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "createContext",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "framehandle",
+  "isNullable": true,
+  "source": "common.j"
+}

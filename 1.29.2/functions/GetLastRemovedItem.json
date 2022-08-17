@@ -1,0 +1,8 @@
+{
+  "name": "GetLastRemovedItem",
+  "description": null,
+  "takes": [],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

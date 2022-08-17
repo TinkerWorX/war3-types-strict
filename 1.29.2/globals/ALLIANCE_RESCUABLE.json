@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_RESCUABLE",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(8)",
+  "isNullable": false,
+  "source": "common.j"
+}

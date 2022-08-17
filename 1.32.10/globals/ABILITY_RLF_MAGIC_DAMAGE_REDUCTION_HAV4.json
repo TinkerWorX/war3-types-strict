@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MAGIC_DAMAGE_REDUCTION_HAV4",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Hav4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

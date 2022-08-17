@@ -1,0 +1,21 @@
+{
+  "name": "UnitAddItemByIdSwapped",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "itemId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichHero",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_GAME_CUSTOM_UI_FRAME",
+  "description": null,
+  "isConstant": true,
+  "type": "gameevent",
+  "isArray": false,
+  "value": "ConvertGameEvent(310)",
+  "isNullable": false,
+  "source": "common.j"
+}

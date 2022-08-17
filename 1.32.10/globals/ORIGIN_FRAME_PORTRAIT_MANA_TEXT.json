@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_PORTRAIT_MANA_TEXT",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(20)",
+  "isNullable": false,
+  "source": "common.j"
+}

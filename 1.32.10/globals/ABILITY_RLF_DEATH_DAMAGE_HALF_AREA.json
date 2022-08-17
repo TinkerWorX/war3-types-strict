@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DEATH_DAMAGE_HALF_AREA",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Nic5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

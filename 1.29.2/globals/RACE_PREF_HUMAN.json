@@ -1,0 +1,10 @@
+{
+  "name": "RACE_PREF_HUMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "racepreference",
+  "isArray": false,
+  "value": "ConvertRacePref(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

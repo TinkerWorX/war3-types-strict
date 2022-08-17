@@ -1,0 +1,10 @@
+{
+  "name": "bj_SMARTPAN_TRESHOLD_SNAP",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "3500",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "LeaderboardSetValueColorBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "leaderboard",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "transparency",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

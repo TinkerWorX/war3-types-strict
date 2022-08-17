@@ -1,0 +1,8 @@
+{
+  "name": "CreateUnitPool",
+  "description": null,
+  "takes": [],
+  "returns": "unitpool",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "BlzSetAbilityRealLevelArrayFieldBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichAbility",
+      "type": "ability",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "abilityreallevelarrayfield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

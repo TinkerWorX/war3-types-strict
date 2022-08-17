@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_COLOR_LIGHT_BLUE",
+  "description": null,
+  "isConstant": true,
+  "type": "playercolor",
+  "isArray": false,
+  "value": "ConvertPlayerColor(9)",
+  "isNullable": false,
+  "source": "common.j"
+}

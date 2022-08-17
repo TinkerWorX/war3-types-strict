@@ -1,0 +1,21 @@
+{
+  "name": "TriggerRegisterTrackableHitEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "t",
+      "type": "trackable",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

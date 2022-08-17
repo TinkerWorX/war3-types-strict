@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_NEVER_MISS_HBH5",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Hbh5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

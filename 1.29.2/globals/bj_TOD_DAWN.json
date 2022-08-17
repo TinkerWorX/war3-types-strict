@@ -1,0 +1,10 @@
+{
+  "name": "bj_TOD_DAWN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "6.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

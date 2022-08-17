@@ -1,0 +1,10 @@
+{
+  "name": "MAP_FOG_HIDE_TERRAIN",
+  "description": null,
+  "isConstant": true,
+  "type": "mapflag",
+  "isArray": false,
+  "value": "ConvertMapFlag(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

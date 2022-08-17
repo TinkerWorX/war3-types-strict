@@ -1,0 +1,15 @@
+{
+  "name": "IsUnitPaused",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichHero",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

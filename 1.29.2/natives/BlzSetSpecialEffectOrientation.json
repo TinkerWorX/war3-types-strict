@@ -1,0 +1,33 @@
+{
+  "name": "BlzSetSpecialEffectOrientation",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichEffect",
+      "type": "effect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "yaw",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "pitch",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "roll",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PlaceRandomItem",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItemPool",
+      "type": "itempool",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "common.j"
+}

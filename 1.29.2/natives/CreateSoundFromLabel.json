@@ -1,0 +1,45 @@
+{
+  "name": "CreateSoundFromLabel",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundLabel",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "looping",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "is3D",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "stopwhenoutofrange",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fadeInRate",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fadeOutRate",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "sound",
+  "isNullable": true,
+  "source": "common.j"
+}

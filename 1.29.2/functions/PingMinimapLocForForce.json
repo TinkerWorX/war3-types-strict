@@ -1,0 +1,27 @@
+{
+  "name": "PingMinimapLocForForce",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichForce",
+      "type": "force",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "duration",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

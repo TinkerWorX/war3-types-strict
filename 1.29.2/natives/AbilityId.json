@@ -1,0 +1,15 @@
+{
+  "name": "AbilityId",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilityIdString",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_FIRE",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(8)",
+  "isNullable": false,
+  "source": "common.j"
+}

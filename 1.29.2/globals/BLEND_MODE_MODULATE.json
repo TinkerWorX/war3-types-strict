@@ -1,0 +1,10 @@
+{
+  "name": "BLEND_MODE_MODULATE",
+  "description": null,
+  "isConstant": true,
+  "type": "blendmode",
+  "isArray": false,
+  "value": "ConvertBlendMode(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

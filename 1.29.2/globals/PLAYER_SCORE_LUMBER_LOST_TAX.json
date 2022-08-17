@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_LUMBER_LOST_TAX",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(18)",
+  "isNullable": false,
+  "source": "common.j"
+}

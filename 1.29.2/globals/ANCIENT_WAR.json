@@ -1,0 +1,10 @@
+{
+  "name": "ANCIENT_WAR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(eaom)",
+  "isNullable": false,
+  "source": "common.ai"
+}

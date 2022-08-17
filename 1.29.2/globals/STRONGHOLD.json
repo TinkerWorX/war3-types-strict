@@ -1,0 +1,10 @@
+{
+  "name": "STRONGHOLD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ostr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

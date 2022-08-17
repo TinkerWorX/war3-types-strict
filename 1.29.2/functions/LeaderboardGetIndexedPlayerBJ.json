@@ -1,0 +1,21 @@
+{
+  "name": "LeaderboardGetIndexedPlayerBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "position",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "lb",
+      "type": "leaderboard",
+      "isNullable": false
+    }
+  ],
+  "returns": "player",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

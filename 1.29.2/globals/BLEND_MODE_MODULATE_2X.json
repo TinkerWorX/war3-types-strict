@@ -1,0 +1,10 @@
+{
+  "name": "BLEND_MODE_MODULATE_2X",
+  "description": null,
+  "isConstant": true,
+  "type": "blendmode",
+  "isArray": false,
+  "value": "ConvertBlendMode(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

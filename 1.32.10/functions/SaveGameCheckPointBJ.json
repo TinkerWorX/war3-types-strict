@@ -1,0 +1,21 @@
+{
+  "name": "SaveGameCheckPointBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "mapSaveName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "doCheckpointHint",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

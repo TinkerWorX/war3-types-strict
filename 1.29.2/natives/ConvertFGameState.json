@@ -1,0 +1,15 @@
+{
+  "name": "ConvertFGameState",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "fgamestate",
+  "isNullable": true,
+  "source": "common.j"
+}

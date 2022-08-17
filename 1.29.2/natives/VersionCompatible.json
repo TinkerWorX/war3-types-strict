@@ -1,0 +1,15 @@
+{
+  "name": "VersionCompatible",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichVersion",
+      "type": "version",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

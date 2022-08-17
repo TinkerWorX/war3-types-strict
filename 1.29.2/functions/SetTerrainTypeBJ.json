@@ -1,0 +1,39 @@
+{
+  "name": "SetTerrainTypeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "terrainType",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "variation",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "area",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "shape",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

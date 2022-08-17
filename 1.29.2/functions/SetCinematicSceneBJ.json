@@ -1,0 +1,51 @@
+{
+  "name": "SetCinematicSceneBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "portraitUnitId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "color",
+      "type": "playercolor",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "speakerTitle",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "text",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "sceneDuration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "voiceoverDuration",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

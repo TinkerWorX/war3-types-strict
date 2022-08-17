@@ -1,0 +1,10 @@
+{
+  "name": "MAP_DENSITY_LIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "mapdensity",
+  "isArray": false,
+  "value": "ConvertMapDensity(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

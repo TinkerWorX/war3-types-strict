@@ -1,0 +1,27 @@
+{
+  "name": "GroupEnumUnitsOfType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichGroup",
+      "type": "group",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitname",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "filter",
+      "type": "boolexpr",
+      "isNullable": true
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

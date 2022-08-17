@@ -1,0 +1,21 @@
+{
+  "name": "UnitStripHeroLevel",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichHero",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "howManyLevels",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

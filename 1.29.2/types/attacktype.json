@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "attacktype",
+  "extends": "handle",
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_mapInitialCameraBounds",
+  "description": null,
+  "isConstant": false,
+  "type": "rect",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

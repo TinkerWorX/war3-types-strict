@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_DEFEAT",
+  "description": null,
+  "isConstant": true,
+  "type": "playerevent",
+  "isArray": false,
+  "value": "ConvertPlayerEvent(13)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "LeaderboardRemoveItem",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "leaderboard",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

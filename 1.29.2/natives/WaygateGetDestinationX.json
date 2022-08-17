@@ -1,0 +1,15 @@
+{
+  "name": "WaygateGetDestinationX",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "waygate",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

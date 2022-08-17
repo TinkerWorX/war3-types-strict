@@ -1,0 +1,15 @@
+{
+  "name": "ConvertAbilityRealLevelArrayField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "abilityreallevelarrayfield",
+  "isNullable": true,
+  "source": "common.j"
+}

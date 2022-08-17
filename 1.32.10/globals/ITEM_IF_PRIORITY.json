@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_IF_PRIORITY",
+  "description": null,
+  "isConstant": true,
+  "type": "itemintegerfield",
+  "isArray": false,
+  "value": "ConvertItemIntegerField(\u0027ipri\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "REGENERATION_TYPE_NONE",
+  "description": null,
+  "isConstant": true,
+  "type": "regentype",
+  "isArray": false,
+  "value": "ConvertRegenType(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MANA_PER_BUFF",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027dvm4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

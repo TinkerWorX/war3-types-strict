@@ -1,0 +1,15 @@
+{
+  "name": "TextTagSpeed2Velocity",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "speed",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

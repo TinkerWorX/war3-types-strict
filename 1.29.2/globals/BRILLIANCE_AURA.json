@@ -1,0 +1,10 @@
+{
+  "name": "BRILLIANCE_AURA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHab)",
+  "isNullable": false,
+  "source": "common.ai"
+}

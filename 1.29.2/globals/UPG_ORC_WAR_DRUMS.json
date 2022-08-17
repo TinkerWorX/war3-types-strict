@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ORC_WAR_DRUMS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rwdm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

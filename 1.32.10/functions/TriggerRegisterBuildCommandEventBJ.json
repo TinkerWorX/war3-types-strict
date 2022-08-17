@@ -1,0 +1,21 @@
+{
+  "name": "TriggerRegisterBuildCommandEventBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "trig",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

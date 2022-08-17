@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_ARMOR_BONUS_UFA2",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ufa2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

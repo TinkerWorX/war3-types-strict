@@ -1,0 +1,10 @@
+{
+  "name": "bj_RADTODEG",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "180.0/bj_PI",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

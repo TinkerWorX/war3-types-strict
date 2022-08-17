@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "triggeraction",
+  "extends": "handle",
+  "source": "common.j"
+}

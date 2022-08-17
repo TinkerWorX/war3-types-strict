@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SF_EFFECT_SOUND",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringField(\u0027aefs\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_IF_ATTACK_AREA_OF_EFFECT_TARGETS",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponIntegerField(\u0027ua1p\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

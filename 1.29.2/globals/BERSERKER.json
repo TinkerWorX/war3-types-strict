@@ -1,0 +1,10 @@
+{
+  "name": "BERSERKER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(otbk)",
+  "isNullable": false,
+  "source": "common.ai"
+}

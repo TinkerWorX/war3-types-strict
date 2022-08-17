@@ -1,0 +1,27 @@
+{
+  "name": "BlzSetAbilityIntegerField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichAbility",
+      "type": "ability",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "abilityintegerfield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "value",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

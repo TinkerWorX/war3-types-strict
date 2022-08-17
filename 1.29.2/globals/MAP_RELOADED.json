@@ -1,0 +1,10 @@
+{
+  "name": "MAP_RELOADED",
+  "description": null,
+  "isConstant": true,
+  "type": "mapflag",
+  "isArray": false,
+  "value": "ConvertMapFlag(8192*64)",
+  "isNullable": false,
+  "source": "common.j"
+}

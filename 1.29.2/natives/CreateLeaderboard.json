@@ -1,0 +1,8 @@
+{
+  "name": "CreateLeaderboard",
+  "description": null,
+  "takes": [],
+  "returns": "leaderboard",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_RETURN",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($0D)",
+  "isNullable": false,
+  "source": "common.j"
+}

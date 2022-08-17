@@ -1,0 +1,21 @@
+{
+  "name": "QuestSetFailedBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichQuest",
+      "type": "quest",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "failed",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

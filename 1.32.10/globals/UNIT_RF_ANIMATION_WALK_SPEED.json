@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_RF_ANIMATION_WALK_SPEED",
+  "description": null,
+  "isConstant": true,
+  "type": "unitrealfield",
+  "isArray": false,
+  "value": "ConvertUnitRealField(\u0027uwal\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

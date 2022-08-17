@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_UNIT_TOTAL",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(21)",
+  "isNullable": false,
+  "source": "common.j"
+}

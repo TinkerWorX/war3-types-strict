@@ -1,0 +1,10 @@
+{
+  "name": "DAMAGE_TYPE_LIGHTNING",
+  "description": null,
+  "isConstant": true,
+  "type": "damagetype",
+  "isArray": false,
+  "value": "ConvertDamageType(10)",
+  "isNullable": false,
+  "source": "common.j"
+}

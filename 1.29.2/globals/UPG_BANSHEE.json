@@ -1,0 +1,10 @@
+{
+  "name": "UPG_BANSHEE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ruba)",
+  "isNullable": false,
+  "source": "common.ai"
+}

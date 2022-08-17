@@ -1,0 +1,15 @@
+{
+  "name": "BlzSetEventWeaponType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "weaponType",
+      "type": "weapontype",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

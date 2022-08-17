@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MEDIUM_DAMAGE_PER_SECOND",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Tdg3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

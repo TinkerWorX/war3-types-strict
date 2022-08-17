@@ -1,0 +1,10 @@
+{
+  "name": "THUNDER_CLAP",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHtc)",
+  "isNullable": false,
+  "source": "common.ai"
+}

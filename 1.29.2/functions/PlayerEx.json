@@ -1,0 +1,15 @@
+{
+  "name": "PlayerEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "slot",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "player",
+  "isNullable": true,
+  "source": "common.ai"
+}

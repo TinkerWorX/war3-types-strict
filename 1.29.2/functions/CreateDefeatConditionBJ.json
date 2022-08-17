@@ -1,0 +1,15 @@
+{
+  "name": "CreateDefeatConditionBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "description",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "defeatcondition",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

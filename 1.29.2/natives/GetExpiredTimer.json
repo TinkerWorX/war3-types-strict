@@ -1,0 +1,8 @@
+{
+  "name": "GetExpiredTimer",
+  "description": null,
+  "takes": [],
+  "returns": "timer",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "CreateUbersplatBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "name",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "alpha",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "forcePaused",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "noBirthTime",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "ubersplat",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

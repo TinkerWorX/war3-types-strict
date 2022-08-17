@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_HEAL_INTERVAL",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Etq2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

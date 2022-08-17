@@ -1,0 +1,10 @@
+{
+  "name": "bj_PLAYER_NEUTRAL_VICTIM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "GetBJPlayerNeutralVictim()",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "SetStartLocPrio",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichStartLoc",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "prioSlotIndex",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "otherStartLocIndex",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "priority",
+      "type": "startlocprio",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

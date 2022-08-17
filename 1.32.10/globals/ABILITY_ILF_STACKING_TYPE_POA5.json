@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_STACKING_TYPE_POA5",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Poa5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

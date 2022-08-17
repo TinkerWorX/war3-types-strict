@@ -1,0 +1,15 @@
+{
+  "name": "MultiboardReleaseItem",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "mbi",
+      "type": "multiboarditem",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

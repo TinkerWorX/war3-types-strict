@@ -1,0 +1,10 @@
+{
+  "name": "BALLISTA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ebal)",
+  "isNullable": false,
+  "source": "common.ai"
+}

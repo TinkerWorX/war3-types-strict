@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_DEALT_TO_ATTACKERS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Eah1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "BlzGetEventDamageType",
+  "description": null,
+  "takes": [],
+  "returns": "damagetype",
+  "isNullable": true,
+  "source": "common.j"
+}

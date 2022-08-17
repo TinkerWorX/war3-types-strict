@@ -1,0 +1,15 @@
+{
+  "name": "GetPlayersMatching",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "filter",
+      "type": "boolexpr",
+      "isNullable": false
+    }
+  ],
+  "returns": "force",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

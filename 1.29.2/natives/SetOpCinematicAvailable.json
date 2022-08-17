@@ -1,0 +1,21 @@
+{
+  "name": "SetOpCinematicAvailable",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "campaignNumber",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "available",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

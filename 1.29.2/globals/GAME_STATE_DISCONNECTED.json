@@ -1,0 +1,10 @@
+{
+  "name": "GAME_STATE_DISCONNECTED",
+  "description": null,
+  "isConstant": true,
+  "type": "igamestate",
+  "isArray": false,
+  "value": "ConvertIGameState(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SetSoundDistances",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "minDist",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "maxDist",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_FLESH",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(27)",
+  "isNullable": false,
+  "source": "common.j"
+}

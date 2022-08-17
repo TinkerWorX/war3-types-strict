@@ -1,0 +1,10 @@
+{
+  "name": "KNIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hkni)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LoadTriggerHandle",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "table",
+      "type": "hashtable",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "parentKey",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "childKey",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "trigger",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,57 @@
+{
+  "name": "AddLightningEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "codeName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "checkVisibility",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "z1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "z2",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "lightning",
+  "isNullable": true,
+  "source": "common.j"
+}

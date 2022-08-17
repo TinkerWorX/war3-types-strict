@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "placement",
+  "extends": "handle",
+  "source": "common.j"
+}

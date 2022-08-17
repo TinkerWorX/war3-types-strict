@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_FJ_LOYA",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($95)",
+  "isNullable": false,
+  "source": "common.j"
+}

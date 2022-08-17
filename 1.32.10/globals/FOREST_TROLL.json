@@ -1,0 +1,10 @@
+{
+  "name": "FOREST_TROLL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nftr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

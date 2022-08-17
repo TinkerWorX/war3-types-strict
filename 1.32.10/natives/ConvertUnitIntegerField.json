@@ -1,0 +1,15 @@
+{
+  "name": "ConvertUnitIntegerField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unitintegerfield",
+  "isNullable": true,
+  "source": "common.j"
+}

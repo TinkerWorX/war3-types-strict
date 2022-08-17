@@ -1,0 +1,8 @@
+{
+  "name": "CreateTextTag",
+  "description": null,
+  "takes": [],
+  "returns": "texttag",
+  "isNullable": true,
+  "source": "common.j"
+}

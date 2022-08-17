@@ -1,0 +1,15 @@
+{
+  "name": "GetSoundDurationBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "StringCase",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "source",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "upper",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

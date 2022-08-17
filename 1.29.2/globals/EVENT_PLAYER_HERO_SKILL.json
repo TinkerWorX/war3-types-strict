@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_HERO_SKILL",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(42)",
+  "isNullable": false,
+  "source": "common.j"
+}

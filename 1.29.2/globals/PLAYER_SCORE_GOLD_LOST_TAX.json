@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_GOLD_LOST_TAX",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(13)",
+  "isNullable": false,
+  "source": "common.j"
+}

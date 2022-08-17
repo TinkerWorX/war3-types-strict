@@ -1,0 +1,10 @@
+{
+  "name": "SOUND_VOLUMEGROUP_MUSIC",
+  "description": null,
+  "isConstant": true,
+  "type": "volumegroup",
+  "isArray": false,
+  "value": "ConvertVolumeGroup(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

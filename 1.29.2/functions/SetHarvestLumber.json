@@ -1,0 +1,15 @@
+{
+  "name": "SetHarvestLumber",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "harvest",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

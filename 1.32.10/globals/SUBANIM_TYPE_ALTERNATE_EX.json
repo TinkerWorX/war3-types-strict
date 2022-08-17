@@ -1,0 +1,10 @@
+{
+  "name": "SUBANIM_TYPE_ALTERNATE_EX",
+  "description": null,
+  "isConstant": true,
+  "type": "subanimtype",
+  "isArray": false,
+  "value": "ConvertSubAnimType(12)",
+  "isNullable": false,
+  "source": "common.j"
+}

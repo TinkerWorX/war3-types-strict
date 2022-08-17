@@ -1,0 +1,21 @@
+{
+  "name": "StartUpgrade",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "upgid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

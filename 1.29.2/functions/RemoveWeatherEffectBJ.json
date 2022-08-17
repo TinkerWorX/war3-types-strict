@@ -1,0 +1,15 @@
+{
+  "name": "RemoveWeatherEffectBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichWeatherEffect",
+      "type": "weathereffect",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "BARRACKS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hbar)",
+  "isNullable": false,
+  "source": "common.ai"
+}

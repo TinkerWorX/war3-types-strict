@@ -1,0 +1,10 @@
+{
+  "name": "ANIM_TYPE_DISSIPATE",
+  "description": null,
+  "isConstant": true,
+  "type": "animtype",
+  "isArray": false,
+  "value": "ConvertAnimType(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

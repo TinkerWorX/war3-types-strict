@@ -1,0 +1,8 @@
+{
+  "name": "InitHashtableBJ",
+  "description": null,
+  "takes": [],
+  "returns": "hashtable",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

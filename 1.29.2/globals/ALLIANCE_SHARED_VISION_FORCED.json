@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_SHARED_VISION_FORCED",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(9)",
+  "isNullable": false,
+  "source": "common.j"
+}

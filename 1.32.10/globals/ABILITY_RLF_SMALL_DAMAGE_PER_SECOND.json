@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_SMALL_DAMAGE_PER_SECOND",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Tdg5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

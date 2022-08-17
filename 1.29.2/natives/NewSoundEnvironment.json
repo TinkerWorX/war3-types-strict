@@ -1,0 +1,15 @@
+{
+  "name": "NewSoundEnvironment",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "environmentName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

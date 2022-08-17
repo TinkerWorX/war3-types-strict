@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastCreatedMinimapIcon",
+  "description": null,
+  "isConstant": false,
+  "type": "minimapicon",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_CHANCE_TO_HIT_UNITS_PERCENT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Iob2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

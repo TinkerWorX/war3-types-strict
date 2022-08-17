@@ -1,0 +1,10 @@
+{
+  "name": "bj_MELEE_CRIPPLE_TIMEOUT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "120.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

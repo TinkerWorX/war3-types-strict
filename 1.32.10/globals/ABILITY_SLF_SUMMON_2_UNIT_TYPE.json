@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SLF_SUMMON_2_UNIT_TYPE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringLevelField(\u0027Ist2\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

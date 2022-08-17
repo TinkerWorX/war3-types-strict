@@ -1,0 +1,15 @@
+{
+  "name": "ConvertArmorType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "armortype",
+  "isNullable": true,
+  "source": "common.j"
+}

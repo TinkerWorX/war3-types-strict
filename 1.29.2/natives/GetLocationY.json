@@ -1,0 +1,15 @@
+{
+  "name": "GetLocationY",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

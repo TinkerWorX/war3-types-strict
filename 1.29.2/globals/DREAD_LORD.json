@@ -1,0 +1,10 @@
+{
+  "name": "DREAD_LORD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Udre)",
+  "isNullable": false,
+  "source": "common.ai"
+}

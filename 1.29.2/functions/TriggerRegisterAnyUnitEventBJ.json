@@ -1,0 +1,21 @@
+{
+  "name": "TriggerRegisterAnyUnitEventBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "trig",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichEvent",
+      "type": "playerunitevent",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

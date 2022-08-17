@@ -1,0 +1,10 @@
+{
+  "name": "SIPHON_MANA",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AHdr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_SPEECH_VOLUME_COMBAT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "0.25",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

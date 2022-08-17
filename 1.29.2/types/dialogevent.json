@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "dialogevent",
+  "extends": "eventid",
+  "source": "common.j"
+}

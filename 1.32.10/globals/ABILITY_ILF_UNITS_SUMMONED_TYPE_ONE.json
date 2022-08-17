@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_ILF_UNITS_SUMMONED_TYPE_ONE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerLevelField(\u0027Rai1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

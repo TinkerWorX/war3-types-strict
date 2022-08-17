@@ -1,0 +1,10 @@
+{
+  "name": "HIGH_FOOTMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hcth)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "CreateRegion",
+  "description": null,
+  "takes": [],
+  "returns": "region",
+  "isNullable": false,
+  "source": "common.j"
+}

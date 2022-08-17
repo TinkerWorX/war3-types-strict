@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_GOLD_UPKEEP_RATE",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(13)",
+  "isNullable": false,
+  "source": "common.j"
+}

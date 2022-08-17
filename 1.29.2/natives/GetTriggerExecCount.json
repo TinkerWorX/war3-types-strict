@@ -1,0 +1,15 @@
+{
+  "name": "GetTriggerExecCount",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

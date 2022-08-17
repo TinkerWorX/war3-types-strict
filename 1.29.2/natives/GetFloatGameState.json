@@ -1,0 +1,15 @@
+{
+  "name": "GetFloatGameState",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichFloatGameState",
+      "type": "fgamestate",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

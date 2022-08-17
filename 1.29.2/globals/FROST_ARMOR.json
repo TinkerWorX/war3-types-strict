@@ -1,0 +1,10 @@
+{
+  "name": "FROST_ARMOR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AUfu)",
+  "isNullable": false,
+  "source": "common.ai"
+}

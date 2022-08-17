@@ -1,0 +1,33 @@
+{
+  "name": "PickMeleeAI",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "num",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "s1",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "s2",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "s3",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

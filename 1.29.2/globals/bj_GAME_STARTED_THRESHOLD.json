@@ -1,0 +1,10 @@
+{
+  "name": "bj_GAME_STARTED_THRESHOLD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "0.01",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

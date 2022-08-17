@@ -1,0 +1,10 @@
+{
+  "name": "bj_MAX_ITEM_LEVEL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "10",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

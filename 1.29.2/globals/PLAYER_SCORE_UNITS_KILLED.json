@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_UNITS_KILLED",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

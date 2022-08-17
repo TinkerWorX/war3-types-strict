@@ -1,0 +1,15 @@
+{
+  "name": "GetAIDifficulty",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "num",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "aidifficulty",
+  "isNullable": true,
+  "source": "common.j"
+}

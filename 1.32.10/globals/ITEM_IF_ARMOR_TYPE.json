@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_IF_ARMOR_TYPE",
+  "description": null,
+  "isConstant": true,
+  "type": "itemintegerfield",
+  "isArray": false,
+  "value": "ConvertItemIntegerField(\u0027iarm\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

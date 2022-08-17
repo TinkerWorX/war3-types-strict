@@ -1,0 +1,10 @@
+{
+  "name": "TOMB_OF_RELICS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(utom)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "PlayerGetLeaderboard",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "toPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "leaderboard",
+  "isNullable": true,
+  "source": "common.j"
+}

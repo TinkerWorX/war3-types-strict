@@ -1,0 +1,15 @@
+{
+  "name": "InitGameCache",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "campaignFile",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "gamecache",
+  "isNullable": true,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ULTRAVISION",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Reuv)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "IsItemSellable",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItem",
+      "type": "item",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

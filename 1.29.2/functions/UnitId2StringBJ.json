@@ -1,0 +1,15 @@
+{
+  "name": "UnitId2StringBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitId",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

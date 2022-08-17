@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_PLAYER_UNIT_CHANGE_OWNER",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(270)",
+  "isNullable": false,
+  "source": "common.j"
+}

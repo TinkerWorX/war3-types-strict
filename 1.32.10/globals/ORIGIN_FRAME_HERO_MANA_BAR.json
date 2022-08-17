@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_HERO_MANA_BAR",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(5)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DestroyLightning",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichBolt",
+      "type": "lightning",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

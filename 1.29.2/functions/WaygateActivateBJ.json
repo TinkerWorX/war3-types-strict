@@ -1,0 +1,21 @@
+{
+  "name": "WaygateActivateBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "activate",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "waygate",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

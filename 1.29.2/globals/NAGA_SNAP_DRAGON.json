@@ -1,0 +1,10 @@
+{
+  "name": "NAGA_SNAP_DRAGON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "NAGA_DRAGON ",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetUnitsInRectOfPlayerFilter",
+  "description": null,
+  "takes": [],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

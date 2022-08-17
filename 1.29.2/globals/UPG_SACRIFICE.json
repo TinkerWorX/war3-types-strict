@@ -1,0 +1,10 @@
+{
+  "name": "UPG_SACRIFICE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rurs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

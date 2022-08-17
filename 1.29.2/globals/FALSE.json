@@ -1,0 +1,10 @@
+{
+  "name": "FALSE",
+  "description": null,
+  "isConstant": true,
+  "type": "boolean",
+  "isArray": false,
+  "value": "false",
+  "isNullable": false,
+  "source": "common.j"
+}

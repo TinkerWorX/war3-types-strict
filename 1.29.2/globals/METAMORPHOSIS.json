@@ -1,0 +1,10 @@
+{
+  "name": "METAMORPHOSIS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEme)",
+  "isNullable": false,
+  "source": "common.ai"
+}

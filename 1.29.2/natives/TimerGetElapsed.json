@@ -1,0 +1,15 @@
+{
+  "name": "TimerGetElapsed",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTimer",
+      "type": "timer",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

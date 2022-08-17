@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedLeaderboard",
+  "description": null,
+  "takes": [],
+  "returns": "leaderboard",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetPlayerNeutralAggressive",
+  "description": null,
+  "takes": [],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

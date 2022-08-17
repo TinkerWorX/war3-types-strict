@@ -1,0 +1,10 @@
+{
+  "name": "BURROW",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(otrb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

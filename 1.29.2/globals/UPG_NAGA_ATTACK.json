@@ -1,0 +1,10 @@
+{
+  "name": "UPG_NAGA_ATTACK",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rnat)",
+  "isNullable": false,
+  "source": "common.ai"
+}

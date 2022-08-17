@@ -1,0 +1,15 @@
+{
+  "name": "GetCustomCampaignButtonVisible",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichButton",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

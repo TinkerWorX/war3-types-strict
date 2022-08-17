@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_BROWSER_BACK",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($A6)",
+  "isNullable": false,
+  "source": "common.j"
+}

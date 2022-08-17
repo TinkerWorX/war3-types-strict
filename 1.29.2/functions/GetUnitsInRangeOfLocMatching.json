@@ -1,0 +1,27 @@
+{
+  "name": "GetUnitsInRangeOfLocMatching",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "filter",
+      "type": "boolexpr",
+      "isNullable": false
+    }
+  ],
+  "returns": "group",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

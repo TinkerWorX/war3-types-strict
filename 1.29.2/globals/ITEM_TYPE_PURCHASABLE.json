@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_TYPE_PURCHASABLE",
+  "description": null,
+  "isConstant": true,
+  "type": "itemtype",
+  "isArray": false,
+  "value": "ConvertItemType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

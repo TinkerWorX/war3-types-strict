@@ -1,0 +1,15 @@
+{
+  "name": "GetPlayerSlotState",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "playerslotstate",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "TriggerRegisterUpgradeCommandEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichUpgrade",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

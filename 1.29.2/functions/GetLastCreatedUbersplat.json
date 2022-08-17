@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedUbersplat",
+  "description": null,
+  "takes": [],
+  "returns": "ubersplat",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

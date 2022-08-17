@@ -1,0 +1,27 @@
+{
+  "name": "GetTownUnitCount",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "id",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "tn",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dn",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "AddLightningLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "codeName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where1",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where2",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "lightning",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "DestroyImage",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichImage",
+      "type": "image",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

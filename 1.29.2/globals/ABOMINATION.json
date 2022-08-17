@@ -1,0 +1,10 @@
+{
+  "name": "ABOMINATION",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(uabo)",
+  "isNullable": false,
+  "source": "common.ai"
+}

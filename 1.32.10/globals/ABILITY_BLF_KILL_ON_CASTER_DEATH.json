@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_KILL_ON_CASTER_DEATH",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Ucb6\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ShowImageBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "flag",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichImage",
+      "type": "image",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

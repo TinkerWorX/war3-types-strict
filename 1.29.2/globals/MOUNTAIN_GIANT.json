@@ -1,0 +1,10 @@
+{
+  "name": "MOUNTAIN_GIANT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(emtg)",
+  "isNullable": false,
+  "source": "common.ai"
+}

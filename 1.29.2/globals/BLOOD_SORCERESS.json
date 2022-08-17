@@ -1,0 +1,10 @@
+{
+  "name": "BLOOD_SORCERESS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hbes)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_WSCTRL",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($EE)",
+  "isNullable": false,
+  "source": "common.j"
+}

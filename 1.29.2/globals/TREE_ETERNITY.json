@@ -1,0 +1,10 @@
+{
+  "name": "TREE_ETERNITY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(etoe)",
+  "isNullable": false,
+  "source": "common.ai"
+}

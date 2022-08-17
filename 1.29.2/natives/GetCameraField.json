@@ -1,0 +1,15 @@
+{
+  "name": "GetCameraField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "camerafield",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

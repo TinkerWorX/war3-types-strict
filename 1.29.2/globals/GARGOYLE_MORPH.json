@@ -1,0 +1,10 @@
+{
+  "name": "GARGOYLE_MORPH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ugrm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

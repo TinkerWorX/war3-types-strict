@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_SF_MODEL_USED",
+  "description": null,
+  "isConstant": true,
+  "type": "itemstringfield",
+  "isArray": false,
+  "value": "ConvertItemStringField(\u0027ifil\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "BlzTriggerRegisterFrameEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "frame",
+      "type": "framehandle",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "eventId",
+      "type": "frameeventtype",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

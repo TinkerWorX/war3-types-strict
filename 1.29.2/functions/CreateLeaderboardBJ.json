@@ -1,0 +1,21 @@
+{
+  "name": "CreateLeaderboardBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "toForce",
+      "type": "force",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "label",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "leaderboard",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

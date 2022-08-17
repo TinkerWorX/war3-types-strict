@@ -1,0 +1,21 @@
+{
+  "name": "MeleePlayerIsOpponent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "playerIndex",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "opponentIndex",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "SetMusicVolumeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "volumePercent",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

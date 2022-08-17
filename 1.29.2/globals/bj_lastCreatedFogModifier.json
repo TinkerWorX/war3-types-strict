@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastCreatedFogModifier",
+  "description": null,
+  "isConstant": false,
+  "type": "fogmodifier",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

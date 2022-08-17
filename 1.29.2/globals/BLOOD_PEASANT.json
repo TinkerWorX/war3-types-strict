@@ -1,0 +1,10 @@
+{
+  "name": "BLOOD_PEASANT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nhew)",
+  "isNullable": false,
+  "source": "common.ai"
+}

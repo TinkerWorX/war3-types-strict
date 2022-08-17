@@ -1,0 +1,15 @@
+{
+  "name": "MultiboardGetTitleText",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "lb",
+      "type": "multiboard",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

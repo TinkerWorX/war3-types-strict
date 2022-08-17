@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_DIALOG_ACCEPT",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(15)",
+  "isNullable": false,
+  "source": "common.j"
+}

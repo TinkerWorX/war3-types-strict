@@ -1,0 +1,10 @@
+{
+  "name": "bj_lastCreatedDefeatCondition",
+  "description": null,
+  "isConstant": false,
+  "type": "defeatcondition",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

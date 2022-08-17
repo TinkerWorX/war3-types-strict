@@ -1,0 +1,33 @@
+{
+  "name": "SetBuildUnitEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "easy",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "med",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "hard",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitid",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

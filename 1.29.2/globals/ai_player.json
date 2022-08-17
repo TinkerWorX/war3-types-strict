@@ -1,0 +1,10 @@
+{
+  "name": "ai_player",
+  "description": null,
+  "isConstant": false,
+  "type": "player",
+  "isArray": false,
+  "value": "",
+  "isNullable": true,
+  "source": "common.ai"
+}

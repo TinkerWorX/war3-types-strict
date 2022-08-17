@@ -1,0 +1,15 @@
+{
+  "name": "ConvertGameEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "gameevent",
+  "isNullable": true,
+  "source": "common.j"
+}

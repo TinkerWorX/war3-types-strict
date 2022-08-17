@@ -1,0 +1,10 @@
+{
+  "name": "GAME_STATE_TIME_OF_DAY",
+  "description": null,
+  "isConstant": true,
+  "type": "fgamestate",
+  "isArray": false,
+  "value": "ConvertFGameState(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

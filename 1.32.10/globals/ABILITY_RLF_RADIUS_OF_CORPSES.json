@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_RADIUS_OF_CORPSES",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Gyd3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

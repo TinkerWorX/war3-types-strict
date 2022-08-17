@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_CLEAR",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($FE)",
+  "isNullable": false,
+  "source": "common.j"
+}

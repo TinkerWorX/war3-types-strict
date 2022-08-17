@@ -1,0 +1,10 @@
+{
+  "name": "NAGA_SERPENT",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nwgs)",
+  "isNullable": false,
+  "source": "common.ai"
+}

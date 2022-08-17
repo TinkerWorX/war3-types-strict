@@ -1,0 +1,10 @@
+{
+  "name": "GARITHOS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Hlgr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

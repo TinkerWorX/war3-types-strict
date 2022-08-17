@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedFogModifier",
+  "description": null,
+  "takes": [],
+  "returns": "fogmodifier",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

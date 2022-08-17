@@ -1,0 +1,10 @@
+{
+  "name": "bj_REMOVEBUFFS_NEGATIVE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "1",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

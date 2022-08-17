@@ -1,0 +1,10 @@
+{
+  "name": "UPG_STR_MOON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Resm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

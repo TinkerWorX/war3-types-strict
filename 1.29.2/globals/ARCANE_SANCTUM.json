@@ -1,0 +1,10 @@
+{
+  "name": "ARCANE_SANCTUM",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "SANCTUM",
+  "isNullable": false,
+  "source": "common.ai"
+}

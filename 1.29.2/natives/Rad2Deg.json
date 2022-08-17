@@ -1,0 +1,15 @@
+{
+  "name": "Rad2Deg",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "radians",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

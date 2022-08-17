@@ -1,0 +1,10 @@
+{
+  "name": "FOG_OF_WAR_MASKED",
+  "description": null,
+  "isConstant": true,
+  "type": "fogstate",
+  "isArray": false,
+  "value": "ConvertFogState(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

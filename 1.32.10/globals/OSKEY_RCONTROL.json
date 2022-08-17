@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_RCONTROL",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($A3)",
+  "isNullable": false,
+  "source": "common.j"
+}

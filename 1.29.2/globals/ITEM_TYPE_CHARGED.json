@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_TYPE_CHARGED",
+  "description": null,
+  "isConstant": true,
+  "type": "itemtype",
+  "isArray": false,
+  "value": "ConvertItemType(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

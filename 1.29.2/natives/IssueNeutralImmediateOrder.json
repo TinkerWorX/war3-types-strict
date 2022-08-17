@@ -1,0 +1,27 @@
+{
+  "name": "IssueNeutralImmediateOrder",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "forWhichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "neutralStructure",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitToBuild",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

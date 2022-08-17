@@ -1,0 +1,15 @@
+{
+  "name": "ConvertRegenType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "regentype",
+  "isNullable": true,
+  "source": "common.j"
+}

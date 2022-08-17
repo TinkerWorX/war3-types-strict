@@ -1,0 +1,21 @@
+{
+  "name": "BlzSendSyncData",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "prefix",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "data",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

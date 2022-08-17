@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "player",
+  "extends": "agent",
+  "source": "common.j"
+}

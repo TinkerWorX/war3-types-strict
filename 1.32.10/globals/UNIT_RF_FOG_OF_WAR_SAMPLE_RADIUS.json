@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_RF_FOG_OF_WAR_SAMPLE_RADIUS",
+  "description": null,
+  "isConstant": true,
+  "type": "unitrealfield",
+  "isArray": false,
+  "value": "ConvertUnitRealField(\u0027ufrd\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

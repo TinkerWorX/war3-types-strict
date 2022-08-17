@@ -1,0 +1,10 @@
+{
+  "name": "PIT_LORD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Npld)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "M6",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "6*60",
+  "isNullable": false,
+  "source": "common.ai"
+}

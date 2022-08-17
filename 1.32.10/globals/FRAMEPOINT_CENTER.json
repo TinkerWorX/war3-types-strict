@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEPOINT_CENTER",
+  "description": null,
+  "isConstant": true,
+  "type": "framepointtype",
+  "isArray": false,
+  "value": "ConvertFramePointType(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

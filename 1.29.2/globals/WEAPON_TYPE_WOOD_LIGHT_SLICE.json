@@ -1,0 +1,10 @@
+{
+  "name": "WEAPON_TYPE_WOOD_LIGHT_SLICE",
+  "description": null,
+  "isConstant": true,
+  "type": "weapontype",
+  "isArray": false,
+  "value": "ConvertWeaponType(11)",
+  "isNullable": false,
+  "source": "common.j"
+}

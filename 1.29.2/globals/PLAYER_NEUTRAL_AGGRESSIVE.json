@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_NEUTRAL_AGGRESSIVE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "GetPlayerNeutralAggressive()",
+  "isNullable": false,
+  "source": "common.j"
+}

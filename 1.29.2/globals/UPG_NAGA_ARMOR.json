@@ -1,0 +1,10 @@
+{
+  "name": "UPG_NAGA_ARMOR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rnam)",
+  "isNullable": false,
+  "source": "common.ai"
+}

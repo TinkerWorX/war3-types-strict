@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_GAME_TOURNAMENT_FINISH_SOON",
+  "description": null,
+  "isConstant": true,
+  "type": "gameevent",
+  "isArray": false,
+  "value": "ConvertGameEvent(257)",
+  "isNullable": false,
+  "source": "common.j"
+}

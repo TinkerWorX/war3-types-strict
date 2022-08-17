@@ -1,0 +1,10 @@
+{
+  "name": "bj_DEGTORAD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "bj_PI/180.0",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

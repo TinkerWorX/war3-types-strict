@@ -1,0 +1,10 @@
+{
+  "name": "AVIARY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(hgra)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "abilityintegerfield",
+  "extends": "handle",
+  "source": "common.j"
+}

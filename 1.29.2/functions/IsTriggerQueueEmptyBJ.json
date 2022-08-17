@@ -1,0 +1,8 @@
+{
+  "name": "IsTriggerQueueEmptyBJ",
+  "description": null,
+  "takes": [],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

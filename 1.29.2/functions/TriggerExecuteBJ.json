@@ -1,0 +1,21 @@
+{
+  "name": "TriggerExecuteBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "trig",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "checkConditions",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

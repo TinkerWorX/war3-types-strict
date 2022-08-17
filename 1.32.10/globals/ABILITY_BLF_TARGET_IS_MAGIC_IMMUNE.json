@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_TARGET_IS_MAGIC_IMMUNE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Pos4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

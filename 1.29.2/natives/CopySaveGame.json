@@ -1,0 +1,21 @@
+{
+  "name": "CopySaveGame",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "sourceSaveName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "destSaveName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "PATHING_FLAG_UNITEMPLACABLE",
+  "description": null,
+  "isConstant": true,
+  "type": "pathingflag",
+  "isArray": false,
+  "value": "ConvertPathingFlag(256)",
+  "isNullable": false,
+  "source": "common.j"
+}

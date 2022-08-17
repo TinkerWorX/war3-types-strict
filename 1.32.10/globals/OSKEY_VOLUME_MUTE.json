@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_VOLUME_MUTE",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($AD)",
+  "isNullable": false,
+  "source": "common.j"
+}

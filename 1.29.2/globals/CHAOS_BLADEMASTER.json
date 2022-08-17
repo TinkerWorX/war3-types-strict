@@ -1,0 +1,10 @@
+{
+  "name": "CHAOS_BLADEMASTER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Nbbc)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_GAME_SAVE",
+  "description": null,
+  "isConstant": true,
+  "type": "gameevent",
+  "isArray": false,
+  "value": "ConvertGameEvent(259)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "UPG_ARTILLERY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhaa)",
+  "isNullable": false,
+  "source": "common.ai"
+}

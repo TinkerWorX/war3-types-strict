@@ -1,0 +1,10 @@
+{
+  "name": "SAPPER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ngsp)",
+  "isNullable": false,
+  "source": "common.ai"
+}

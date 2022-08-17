@@ -1,0 +1,21 @@
+{
+  "name": "ModuloInteger",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "dividend",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "divisor",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

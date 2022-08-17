@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_SF_GROUND_TEXTURE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitstringfield",
+  "isArray": false,
+  "value": "ConvertUnitStringField(\u0027uubs\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

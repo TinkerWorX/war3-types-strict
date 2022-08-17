@@ -1,0 +1,45 @@
+{
+  "name": "CommonSuicideOnPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "standard",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "bldgs",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "seconds",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "p",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

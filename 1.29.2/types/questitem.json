@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "questitem",
+  "extends": "agent",
+  "source": "common.j"
+}

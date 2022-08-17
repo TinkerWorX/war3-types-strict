@@ -1,0 +1,27 @@
+{
+  "name": "CreateMIDISound",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundLabel",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fadeInRate",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "fadeOutRate",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "sound",
+  "isNullable": true,
+  "source": "common.j"
+}

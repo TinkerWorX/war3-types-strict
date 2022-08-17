@@ -1,0 +1,10 @@
+{
+  "name": "ALLIANCE_SHARED_XP",
+  "description": null,
+  "isConstant": true,
+  "type": "alliancetype",
+  "isArray": false,
+  "value": "ConvertAllianceType(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

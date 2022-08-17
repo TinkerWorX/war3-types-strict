@@ -1,0 +1,10 @@
+{
+  "name": "bj_CORPSE_MAX_DEATH_TIME",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "8.00",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

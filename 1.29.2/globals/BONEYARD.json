@@ -1,0 +1,10 @@
+{
+  "name": "BONEYARD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ubon)",
+  "isNullable": false,
+  "source": "common.ai"
+}

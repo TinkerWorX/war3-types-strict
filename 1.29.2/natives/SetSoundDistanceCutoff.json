@@ -1,0 +1,21 @@
+{
+  "name": "SetSoundDistanceCutoff",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "soundHandle",
+      "type": "sound",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "cutoff",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

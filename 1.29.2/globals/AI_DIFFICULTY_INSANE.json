@@ -1,0 +1,10 @@
+{
+  "name": "AI_DIFFICULTY_INSANE",
+  "description": null,
+  "isConstant": true,
+  "type": "aidifficulty",
+  "isArray": false,
+  "value": "ConvertAIDifficulty(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

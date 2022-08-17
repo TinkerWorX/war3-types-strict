@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedTerrainDeformation",
+  "description": null,
+  "takes": [],
+  "returns": "terraindeformation",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "MAP_DIFFICULTY_NORMAL",
+  "description": null,
+  "isConstant": true,
+  "type": "gamedifficulty",
+  "isArray": false,
+  "value": "ConvertGameDifficulty(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

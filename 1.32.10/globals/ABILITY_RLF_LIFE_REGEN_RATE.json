@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_LIFE_REGEN_RATE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Inf4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

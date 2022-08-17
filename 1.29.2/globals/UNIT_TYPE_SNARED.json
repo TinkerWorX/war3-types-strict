@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_TYPE_SNARED",
+  "description": null,
+  "isConstant": true,
+  "type": "unittype",
+  "isArray": false,
+  "value": "ConvertUnitType(13)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SetUnitAbilityLevelSwapped",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "abilcode",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

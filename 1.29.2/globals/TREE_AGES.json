@@ -1,0 +1,10 @@
+{
+  "name": "TREE_AGES",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(etoa)",
+  "isNullable": false,
+  "source": "common.ai"
+}

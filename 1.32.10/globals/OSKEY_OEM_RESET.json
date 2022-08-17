@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_RESET",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($E9)",
+  "isNullable": false,
+  "source": "common.j"
+}

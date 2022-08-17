@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_OEM_5",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($DC)",
+  "isNullable": false,
+  "source": "common.j"
+}

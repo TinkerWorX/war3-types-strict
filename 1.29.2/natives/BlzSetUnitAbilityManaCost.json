@@ -1,0 +1,33 @@
+{
+  "name": "BlzSetUnitAbilityManaCost",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "abilId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "manaCost",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

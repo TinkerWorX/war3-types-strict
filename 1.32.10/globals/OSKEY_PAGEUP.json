@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_PAGEUP",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($21)",
+  "isNullable": false,
+  "source": "common.j"
+}

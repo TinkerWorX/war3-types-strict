@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_F12",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($7B)",
+  "isNullable": false,
+  "source": "common.j"
+}

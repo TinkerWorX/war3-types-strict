@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_RETURNED_DAMAGE_FACTOR",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Uts1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

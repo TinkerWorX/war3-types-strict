@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_WEAPON_IF_ATTACK_DAMAGE_SIDES_PER_DIE",
+  "description": null,
+  "isConstant": true,
+  "type": "unitweaponintegerfield",
+  "isArray": false,
+  "value": "ConvertUnitWeaponIntegerField(\u0027ua1s\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "EARTHQUAKE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AOeq)",
+  "isNullable": false,
+  "source": "common.ai"
+}

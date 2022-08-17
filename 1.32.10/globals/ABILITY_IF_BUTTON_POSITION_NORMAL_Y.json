@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_IF_BUTTON_POSITION_NORMAL_Y",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityintegerfield",
+  "isArray": false,
+  "value": "ConvertAbilityIntegerField(\u0027abpy\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

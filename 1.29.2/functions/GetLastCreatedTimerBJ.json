@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedTimerBJ",
+  "description": null,
+  "takes": [],
+  "returns": "timer",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

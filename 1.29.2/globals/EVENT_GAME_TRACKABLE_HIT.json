@@ -1,0 +1,10 @@
+{
+  "name": "EVENT_GAME_TRACKABLE_HIT",
+  "description": null,
+  "isConstant": true,
+  "type": "gameevent",
+  "isArray": false,
+  "value": "ConvertGameEvent(7)",
+  "isNullable": false,
+  "source": "common.j"
+}

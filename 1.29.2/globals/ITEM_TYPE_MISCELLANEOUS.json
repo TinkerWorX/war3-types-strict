@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_TYPE_MISCELLANEOUS",
+  "description": null,
+  "isConstant": true,
+  "type": "itemtype",
+  "isArray": false,
+  "value": "ConvertItemType(6)",
+  "isNullable": false,
+  "source": "common.j"
+}

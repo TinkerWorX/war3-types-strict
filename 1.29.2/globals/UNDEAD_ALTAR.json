@@ -1,0 +1,10 @@
+{
+  "name": "UNDEAD_ALTAR",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(uaod)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "WEAPON_TYPE_WHOKNOWS",
+  "description": null,
+  "isConstant": true,
+  "type": "weapontype",
+  "isArray": false,
+  "value": "ConvertWeaponType(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

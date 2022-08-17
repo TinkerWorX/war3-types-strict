@@ -1,0 +1,27 @@
+{
+  "name": "TriggerRegisterPlayerSelectionEventBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "trig",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "selected",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

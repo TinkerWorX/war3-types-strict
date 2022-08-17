@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DAMAGE_WRS1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Wrs1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

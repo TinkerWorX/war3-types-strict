@@ -1,0 +1,15 @@
+{
+  "name": "ConvertUnitWeaponRealField",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unitweaponrealfield",
+  "isNullable": true,
+  "source": "common.j"
+}

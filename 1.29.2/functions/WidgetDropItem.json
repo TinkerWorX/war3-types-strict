@@ -1,0 +1,21 @@
+{
+  "name": "WidgetDropItem",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "inWidget",
+      "type": "widget",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "inItemID",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

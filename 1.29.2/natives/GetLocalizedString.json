@@ -1,0 +1,15 @@
+{
+  "name": "GetLocalizedString",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "source",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "common.j"
+}

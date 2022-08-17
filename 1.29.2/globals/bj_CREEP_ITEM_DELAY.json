@@ -1,0 +1,10 @@
+{
+  "name": "bj_CREEP_ITEM_DELAY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "0.50",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_SYSTEM_BUTTON",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(10)",
+  "isNullable": false,
+  "source": "common.j"
+}

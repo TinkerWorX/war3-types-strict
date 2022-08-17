@@ -1,0 +1,10 @@
+{
+  "name": "RACE_HUMAN",
+  "description": null,
+  "isConstant": true,
+  "type": "race",
+  "isArray": false,
+  "value": "ConvertRace(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

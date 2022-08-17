@@ -1,0 +1,15 @@
+{
+  "name": "GetSoundFileDurationBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "musicFileName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

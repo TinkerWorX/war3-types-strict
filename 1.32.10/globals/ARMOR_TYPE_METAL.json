@@ -1,0 +1,10 @@
+{
+  "name": "ARMOR_TYPE_METAL",
+  "description": null,
+  "isConstant": true,
+  "type": "armortype",
+  "isArray": false,
+  "value": "ConvertArmorType(2)",
+  "isNullable": false,
+  "source": "common.j"
+}

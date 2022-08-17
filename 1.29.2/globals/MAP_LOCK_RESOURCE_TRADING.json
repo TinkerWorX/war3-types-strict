@@ -1,0 +1,10 @@
+{
+  "name": "MAP_LOCK_RESOURCE_TRADING",
+  "description": null,
+  "isConstant": true,
+  "type": "mapflag",
+  "isArray": false,
+  "value": "ConvertMapFlag(256)",
+  "isNullable": false,
+  "source": "common.j"
+}

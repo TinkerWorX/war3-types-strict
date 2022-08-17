@@ -1,0 +1,27 @@
+{
+  "name": "SetHeroLevel",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichHero",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "showEyeCandy",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

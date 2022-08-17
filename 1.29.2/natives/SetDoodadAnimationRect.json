@@ -1,0 +1,33 @@
+{
+  "name": "SetDoodadAnimationRect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "r",
+      "type": "rect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "doodadID",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "animName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "animRandom",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

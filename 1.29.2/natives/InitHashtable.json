@@ -1,0 +1,8 @@
+{
+  "name": "InitHashtable",
+  "description": null,
+  "takes": [],
+  "returns": "hashtable",
+  "isNullable": true,
+  "source": "common.j"
+}

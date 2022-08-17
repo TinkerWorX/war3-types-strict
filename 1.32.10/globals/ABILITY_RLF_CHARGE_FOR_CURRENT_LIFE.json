@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_CHARGE_FOR_CURRENT_LIFE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Cmg3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

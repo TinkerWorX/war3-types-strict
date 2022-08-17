@@ -1,0 +1,27 @@
+{
+  "name": "ReplaceUnitBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "newUnitId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitStateMethod",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

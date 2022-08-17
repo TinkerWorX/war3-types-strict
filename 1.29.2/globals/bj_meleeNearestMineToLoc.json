@@ -1,0 +1,10 @@
+{
+  "name": "bj_meleeNearestMineToLoc",
+  "description": null,
+  "isConstant": false,
+  "type": "location",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

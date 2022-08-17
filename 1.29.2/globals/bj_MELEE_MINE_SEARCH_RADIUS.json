@@ -1,0 +1,10 @@
+{
+  "name": "bj_MELEE_MINE_SEARCH_RADIUS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "2000",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

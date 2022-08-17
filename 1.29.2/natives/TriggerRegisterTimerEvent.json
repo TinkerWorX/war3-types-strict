@@ -1,0 +1,27 @@
+{
+  "name": "TriggerRegisterTimerEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "timeout",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "periodic",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

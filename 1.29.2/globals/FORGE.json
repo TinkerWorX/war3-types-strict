@@ -1,0 +1,10 @@
+{
+  "name": "FORGE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ofor)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ITEM_BF_DROPPED_WHEN_CARRIER_DIES",
+  "description": null,
+  "isConstant": true,
+  "type": "itembooleanfield",
+  "isArray": false,
+  "value": "ConvertItemBooleanField(\u0027idrp\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

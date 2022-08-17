@@ -1,0 +1,15 @@
+{
+  "name": "TeamInitPlayerSlots",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "teamCount",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

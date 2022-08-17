@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "buff",
+  "extends": "ability",
+  "source": "common.j"
+}

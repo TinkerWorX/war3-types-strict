@@ -1,0 +1,27 @@
+{
+  "name": "PolarProjectionBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "source",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "dist",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "angle",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "location",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

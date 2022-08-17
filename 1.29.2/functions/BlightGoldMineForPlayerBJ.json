@@ -1,0 +1,21 @@
+{
+  "name": "BlightGoldMineForPlayerBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "goldMine",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "EnumDestructablesInRect",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "r",
+      "type": "rect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "filter",
+      "type": "boolexpr",
+      "isNullable": true
+    },
+    {
+      "description": null,
+      "name": "actionFunc",
+      "type": "() =\u003E void",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

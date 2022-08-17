@@ -1,0 +1,10 @@
+{
+  "name": "FURBOLG_TRACKER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(nfrb)",
+  "isNullable": false,
+  "source": "common.ai"
+}

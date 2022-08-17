@@ -1,0 +1,39 @@
+{
+  "name": "CreateNUnitsAtLocFacingLocBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "count",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "unitId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "loc",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "lookAt",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "group",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

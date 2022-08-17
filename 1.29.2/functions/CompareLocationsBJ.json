@@ -1,0 +1,21 @@
+{
+  "name": "CompareLocationsBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "A",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "B",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

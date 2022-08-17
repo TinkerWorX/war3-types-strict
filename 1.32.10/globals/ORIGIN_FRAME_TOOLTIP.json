@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_TOOLTIP",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(11)",
+  "isNullable": false,
+  "source": "common.j"
+}

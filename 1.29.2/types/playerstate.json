@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "playerstate",
+  "extends": "handle",
+  "source": "common.j"
+}

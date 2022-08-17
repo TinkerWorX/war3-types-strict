@@ -1,0 +1,10 @@
+{
+  "name": "SOUND_TYPE_EFFECT",
+  "description": null,
+  "isConstant": true,
+  "type": "soundtype",
+  "isArray": false,
+  "value": "ConvertSoundType(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

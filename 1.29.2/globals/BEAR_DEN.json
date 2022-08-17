@@ -1,0 +1,10 @@
+{
+  "name": "BEAR_DEN",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(edol)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "BlzSetSpecialEffectColorByPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichEffect",
+      "type": "effect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

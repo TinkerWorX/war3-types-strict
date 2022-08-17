@@ -1,0 +1,15 @@
+{
+  "name": "RecycleGuardPosition",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "hUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

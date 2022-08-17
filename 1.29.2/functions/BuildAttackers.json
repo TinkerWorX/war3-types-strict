@@ -1,0 +1,8 @@
+{
+  "name": "BuildAttackers",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

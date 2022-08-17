@@ -1,0 +1,15 @@
+{
+  "name": "ForcePickRandomPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichForce",
+      "type": "force",
+      "isNullable": false
+    }
+  ],
+  "returns": "player",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

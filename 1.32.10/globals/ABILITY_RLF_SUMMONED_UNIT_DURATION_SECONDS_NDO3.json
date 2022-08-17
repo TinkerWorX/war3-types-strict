@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_SUMMONED_UNIT_DURATION_SECONDS_NDO3",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Ndo3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

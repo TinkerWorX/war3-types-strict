@@ -1,0 +1,10 @@
+{
+  "name": "ILLIDAN_DEMON",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Eevm)",
+  "isNullable": false,
+  "source": "common.ai"
+}

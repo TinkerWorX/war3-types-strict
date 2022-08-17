@@ -1,0 +1,8 @@
+{
+  "name": "CreateQuest",
+  "description": null,
+  "takes": [],
+  "returns": "quest",
+  "isNullable": true,
+  "source": "common.j"
+}

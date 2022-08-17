@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_BLF_AUTO_ACQUIRE_ATTACK_TARGETS",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitybooleanlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityBooleanLevelField(\u0027Gho1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

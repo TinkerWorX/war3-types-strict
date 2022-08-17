@@ -1,0 +1,15 @@
+{
+  "name": "CameraSetupGetDestPositionLoc",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichSetup",
+      "type": "camerasetup",
+      "isNullable": false
+    }
+  ],
+  "returns": "location",
+  "isNullable": false,
+  "source": "common.j"
+}

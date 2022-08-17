@@ -1,0 +1,15 @@
+{
+  "name": "SetSkyModel",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "skyModelFile",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "ConvertMapFlag",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "mapflag",
+  "isNullable": true,
+  "source": "common.j"
+}

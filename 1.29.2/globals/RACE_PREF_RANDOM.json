@@ -1,0 +1,10 @@
+{
+  "name": "RACE_PREF_RANDOM",
+  "description": null,
+  "isConstant": true,
+  "type": "racepreference",
+  "isArray": false,
+  "value": "ConvertRacePref(32)",
+  "isNullable": false,
+  "source": "common.j"
+}

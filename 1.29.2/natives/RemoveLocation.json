@@ -1,0 +1,15 @@
+{
+  "name": "RemoveLocation",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichLocation",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_ALLIANCE_ALLIED_VISION",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "3",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,8 @@
+{
+  "name": "GetEventPlayerState",
+  "description": null,
+  "takes": [],
+  "returns": "playerstate",
+  "isNullable": true,
+  "source": "common.j"
+}

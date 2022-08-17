@@ -1,0 +1,10 @@
+{
+  "name": "UPG_MASONRY",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhac)",
+  "isNullable": false,
+  "source": "common.ai"
+}

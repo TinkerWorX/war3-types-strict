@@ -1,0 +1,27 @@
+{
+  "name": "CreateMultiboardBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "cols",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "rows",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "title",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "multiboard",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

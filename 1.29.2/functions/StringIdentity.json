@@ -1,0 +1,15 @@
+{
+  "name": "StringIdentity",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "theString",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "string",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

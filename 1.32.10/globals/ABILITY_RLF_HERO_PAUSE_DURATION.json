@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_HERO_PAUSE_DURATION",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Prg5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

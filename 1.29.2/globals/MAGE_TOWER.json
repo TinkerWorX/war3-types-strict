@@ -1,0 +1,10 @@
+{
+  "name": "MAGE_TOWER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "CHURCH",
+  "isNullable": false,
+  "source": "common.ai"
+}

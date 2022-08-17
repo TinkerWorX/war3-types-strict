@@ -1,0 +1,21 @@
+{
+  "name": "CameraSetupGetFieldSwap",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "camerafield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichSetup",
+      "type": "camerasetup",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

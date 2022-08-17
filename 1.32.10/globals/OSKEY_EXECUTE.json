@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_EXECUTE",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($2B)",
+  "isNullable": false,
+  "source": "common.j"
+}

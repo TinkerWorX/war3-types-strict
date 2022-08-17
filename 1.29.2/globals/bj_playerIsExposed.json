@@ -1,0 +1,10 @@
+{
+  "name": "bj_playerIsExposed",
+  "description": null,
+  "isConstant": false,
+  "type": "boolean",
+  "isArray": true,
+  "value": "",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

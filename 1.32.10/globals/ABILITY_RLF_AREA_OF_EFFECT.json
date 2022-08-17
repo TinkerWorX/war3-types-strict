@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_AREA_OF_EFFECT",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027aare\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

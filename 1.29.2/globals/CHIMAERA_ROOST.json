@@ -1,0 +1,10 @@
+{
+  "name": "CHIMAERA_ROOST",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(edos)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,15 @@
+{
+  "name": "TextTagSize2Height",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "size",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

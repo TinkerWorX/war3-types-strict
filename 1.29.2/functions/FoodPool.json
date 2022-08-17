@@ -1,0 +1,51 @@
+{
+  "name": "FoodPool",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "food",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "weak",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "id1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "use1",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "strong",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "id2",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "use2",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.ai"
+}

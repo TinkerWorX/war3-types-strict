@@ -1,0 +1,10 @@
+{
+  "name": "UPG_CANNIBALIZE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ruac)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,39 @@
+{
+  "name": "TerrainDeformationCraterBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "duration",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "permanent",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "where",
+      "type": "location",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "depth",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "terraindeformation",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

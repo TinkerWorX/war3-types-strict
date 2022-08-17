@@ -1,0 +1,10 @@
+{
+  "name": "ARMOR_TYPE_WHOKNOWS",
+  "description": null,
+  "isConstant": true,
+  "type": "armortype",
+  "isArray": false,
+  "value": "ConvertArmorType(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

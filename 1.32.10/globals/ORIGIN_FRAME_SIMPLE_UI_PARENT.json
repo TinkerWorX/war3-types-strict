@@ -1,0 +1,10 @@
+{
+  "name": "ORIGIN_FRAME_SIMPLE_UI_PARENT",
+  "description": null,
+  "isConstant": true,
+  "type": "originframetype",
+  "isArray": false,
+  "value": "ConvertOriginFrameType(18)",
+  "isNullable": false,
+  "source": "common.j"
+}

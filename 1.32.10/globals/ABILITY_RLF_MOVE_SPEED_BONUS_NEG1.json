@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_MOVE_SPEED_BONUS_NEG1",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Neg1\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

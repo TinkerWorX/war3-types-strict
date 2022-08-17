@@ -1,0 +1,21 @@
+{
+  "name": "SetExpansion",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "peon",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "id",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.ai"
+}

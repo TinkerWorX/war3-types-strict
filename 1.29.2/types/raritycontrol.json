@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "raritycontrol",
+  "extends": "handle",
+  "source": "common.j"
+}

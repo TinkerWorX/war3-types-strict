@@ -1,0 +1,10 @@
+{
+  "name": "CHAOS_BURROW",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ocbw)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_DURATION_OF_PLAGUE_WARD",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Apl3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

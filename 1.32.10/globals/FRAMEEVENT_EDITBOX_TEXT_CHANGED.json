@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_EDITBOX_TEXT_CHANGED",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(9)",
+  "isNullable": false,
+  "source": "common.j"
+}

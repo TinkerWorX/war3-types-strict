@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_AUTOCAST_RANGE",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Inf3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

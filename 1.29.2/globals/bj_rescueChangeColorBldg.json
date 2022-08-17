@@ -1,0 +1,10 @@
+{
+  "name": "bj_rescueChangeColorBldg",
+  "description": null,
+  "isConstant": false,
+  "type": "boolean",
+  "isArray": false,
+  "value": "true",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

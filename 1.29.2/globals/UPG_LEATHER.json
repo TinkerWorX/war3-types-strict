@@ -1,0 +1,10 @@
+{
+  "name": "UPG_LEATHER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Rhla)",
+  "isNullable": false,
+  "source": "common.ai"
+}

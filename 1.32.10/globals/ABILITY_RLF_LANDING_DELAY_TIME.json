@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_LANDING_DELAY_TIME",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Eme4\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

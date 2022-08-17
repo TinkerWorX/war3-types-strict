@@ -1,0 +1,10 @@
+{
+  "name": "FRAMEEVENT_EDITBOX_ENTER",
+  "description": null,
+  "isConstant": true,
+  "type": "frameeventtype",
+  "isArray": false,
+  "value": "ConvertFrameEventType(16)",
+  "isNullable": false,
+  "source": "common.j"
+}

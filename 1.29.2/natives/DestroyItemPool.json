@@ -1,0 +1,15 @@
+{
+  "name": "DestroyItemPool",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItemPool",
+      "type": "itempool",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

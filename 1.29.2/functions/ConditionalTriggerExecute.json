@@ -1,0 +1,15 @@
+{
+  "name": "ConditionalTriggerExecute",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "trig",
+      "type": "trigger",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

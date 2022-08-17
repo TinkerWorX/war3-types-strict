@@ -1,0 +1,33 @@
+{
+  "name": "TriggerRegisterPlayerChatEvent",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichTrigger",
+      "type": "trigger",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "chatMessageToDetect",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "exactMatchOnly",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "event",
+  "isNullable": true,
+  "source": "common.j"
+}

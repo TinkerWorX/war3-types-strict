@@ -1,0 +1,21 @@
+{
+  "name": "AddWeatherEffectSaveLast",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "where",
+      "type": "rect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "effectID",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "weathereffect",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

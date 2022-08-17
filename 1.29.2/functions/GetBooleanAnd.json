@@ -1,0 +1,21 @@
+{
+  "name": "GetBooleanAnd",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "valueA",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "valueB",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

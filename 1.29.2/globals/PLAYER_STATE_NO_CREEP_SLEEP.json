@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_STATE_NO_CREEP_SLEEP",
+  "description": null,
+  "isConstant": true,
+  "type": "playerstate",
+  "isArray": false,
+  "value": "ConvertPlayerState(25)",
+  "isNullable": false,
+  "source": "common.j"
+}

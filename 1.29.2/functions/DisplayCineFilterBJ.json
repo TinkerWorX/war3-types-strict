@@ -1,0 +1,15 @@
+{
+  "name": "DisplayCineFilterBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "flag",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

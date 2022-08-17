@@ -1,0 +1,8 @@
+{
+  "name": "CreateDefeatCondition",
+  "description": null,
+  "takes": [],
+  "returns": "defeatcondition",
+  "isNullable": true,
+  "source": "common.j"
+}

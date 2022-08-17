@@ -1,0 +1,15 @@
+{
+  "name": "GetOwningPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "player",
+  "isNullable": false,
+  "source": "common.j"
+}

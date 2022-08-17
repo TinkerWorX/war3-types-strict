@@ -1,0 +1,15 @@
+{
+  "name": "PercentTo255",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "percentage",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

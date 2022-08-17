@@ -1,0 +1,27 @@
+{
+  "name": "IssueTargetOrderBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "order",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "targetWidget",
+      "type": "widget",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

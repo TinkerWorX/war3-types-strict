@@ -1,0 +1,10 @@
+{
+  "name": "VENGEANCE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(AEsv)",
+  "isNullable": false,
+  "source": "common.ai"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "GREATER_THAN",
+  "description": null,
+  "isConstant": true,
+  "type": "limitop",
+  "isArray": false,
+  "value": "ConvertLimitOp(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

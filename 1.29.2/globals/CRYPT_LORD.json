@@ -1,0 +1,10 @@
+{
+  "name": "CRYPT_LORD",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(Ucrl)",
+  "isNullable": false,
+  "source": "common.ai"
+}

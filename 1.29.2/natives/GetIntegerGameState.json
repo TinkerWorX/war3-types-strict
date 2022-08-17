@@ -1,0 +1,15 @@
+{
+  "name": "GetIntegerGameState",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichIntegerGameState",
+      "type": "igamestate",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

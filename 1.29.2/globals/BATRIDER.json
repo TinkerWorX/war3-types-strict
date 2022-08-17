@@ -1,0 +1,10 @@
+{
+  "name": "BATRIDER",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(otbr)",
+  "isNullable": false,
+  "source": "common.ai"
+}

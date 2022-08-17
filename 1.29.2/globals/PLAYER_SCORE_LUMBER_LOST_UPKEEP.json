@@ -1,0 +1,10 @@
+{
+  "name": "PLAYER_SCORE_LUMBER_LOST_UPKEEP",
+  "description": null,
+  "isConstant": true,
+  "type": "playerscore",
+  "isArray": false,
+  "value": "ConvertPlayerScore(17)",
+  "isNullable": false,
+  "source": "common.j"
+}

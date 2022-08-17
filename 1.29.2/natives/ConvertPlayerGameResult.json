@@ -1,0 +1,15 @@
+{
+  "name": "ConvertPlayerGameResult",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "playergameresult",
+  "isNullable": true,
+  "source": "common.j"
+}

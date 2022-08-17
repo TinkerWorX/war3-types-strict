@@ -1,0 +1,8 @@
+{
+  "name": "GetKillingUnitBJ",
+  "description": null,
+  "takes": [],
+  "returns": "unit",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

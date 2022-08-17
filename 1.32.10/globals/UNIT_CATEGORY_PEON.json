@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_CATEGORY_PEON",
+  "description": null,
+  "isConstant": true,
+  "type": "unitcategory",
+  "isArray": false,
+  "value": "ConvertUnitCategory(16)",
+  "isNullable": false,
+  "source": "common.j"
+}

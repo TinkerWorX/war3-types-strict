@@ -1,0 +1,15 @@
+{
+  "name": "GetUnitPointValueByType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "unitType",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}

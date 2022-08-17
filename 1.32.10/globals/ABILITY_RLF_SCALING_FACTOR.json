@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_RLF_SCALING_FACTOR",
+  "description": null,
+  "isConstant": true,
+  "type": "abilityreallevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityRealLevelField(\u0027Blo3\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

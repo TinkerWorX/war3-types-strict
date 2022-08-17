@@ -1,0 +1,10 @@
+{
+  "name": "OSKEY_SLEEP",
+  "description": null,
+  "isConstant": true,
+  "type": "oskeytype",
+  "isArray": false,
+  "value": "ConvertOsKeyType($5F)",
+  "isNullable": false,
+  "source": "common.j"
+}

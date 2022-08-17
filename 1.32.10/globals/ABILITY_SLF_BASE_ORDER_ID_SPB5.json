@@ -1,0 +1,10 @@
+{
+  "name": "ABILITY_SLF_BASE_ORDER_ID_SPB5",
+  "description": null,
+  "isConstant": true,
+  "type": "abilitystringlevelfield",
+  "isArray": false,
+  "value": "ConvertAbilityStringLevelField(\u0027spb5\u0027)",
+  "isNullable": false,
+  "source": "common.j"
+}

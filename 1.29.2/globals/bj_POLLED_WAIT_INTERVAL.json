@@ -1,0 +1,10 @@
+{
+  "name": "bj_POLLED_WAIT_INTERVAL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "0.10",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

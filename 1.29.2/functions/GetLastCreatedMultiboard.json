@@ -1,0 +1,8 @@
+{
+  "name": "GetLastCreatedMultiboard",
+  "description": null,
+  "takes": [],
+  "returns": "multiboard",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

@@ -1,0 +1,10 @@
+{
+  "name": "bj_forceRandomCurrentPick",
+  "description": null,
+  "isConstant": false,
+  "type": "player",
+  "isArray": false,
+  "value": "null",
+  "isNullable": true,
+  "source": "blizzard.j"
+}

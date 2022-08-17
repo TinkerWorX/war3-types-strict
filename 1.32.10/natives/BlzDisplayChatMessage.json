@@ -1,0 +1,27 @@
+{
+  "name": "BlzDisplayChatMessage",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "recipient",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "message",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}
