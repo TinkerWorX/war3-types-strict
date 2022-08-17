@@ -18317,7 +18317,7 @@
         }
       ],
       "returns": "boolexpr",
-      "isNullable": true
+      "isNullable": false
     },
     "Or": {
       "description": null,
@@ -18336,7 +18336,7 @@
         }
       ],
       "returns": "boolexpr",
-      "isNullable": true
+      "isNullable": false
     },
     "Not": {
       "description": null,
@@ -18349,7 +18349,7 @@
         }
       ],
       "returns": "boolexpr",
-      "isNullable": true
+      "isNullable": false
     },
     "Condition": {
       "description": null,
@@ -18362,7 +18362,7 @@
         }
       ],
       "returns": "conditionfunc",
-      "isNullable": true
+      "isNullable": false
     },
     "DestroyCondition": {
       "description": null,
@@ -18388,7 +18388,7 @@
         }
       ],
       "returns": "filterfunc",
-      "isNullable": true
+      "isNullable": false
     },
     "DestroyFilter": {
       "description": null,
@@ -22676,7 +22676,7 @@
         }
       ],
       "returns": "location",
-      "isNullable": true
+      "isNullable": false
     },
     "GetUnitFacing": {
       "description": null,
@@ -22747,7 +22747,7 @@
         }
       ],
       "returns": "player",
-      "isNullable": true
+      "isNullable": false
     },
     "GetUnitTypeId": {
       "description": null,
@@ -22773,7 +22773,7 @@
         }
       ],
       "returns": "race",
-      "isNullable": true
+      "isNullable": false
     },
     "GetUnitName": {
       "description": null,
@@ -25054,7 +25054,7 @@
       "description": null,
       "takes": [],
       "returns": "player",
-      "isNullable": true
+      "isNullable": false
     },
     "IsPlayerAlly": {
       "description": null,
@@ -33804,7 +33804,7 @@
       "description": null,
       "takes": [],
       "returns": "camerasetup",
-      "isNullable": true
+      "isNullable": false
     },
     "CameraSetupSetField": {
       "description": null,
@@ -33898,7 +33898,7 @@
         }
       ],
       "returns": "location",
-      "isNullable": true
+      "isNullable": false
     },
     "CameraSetupGetDestPositionX": {
       "description": null,
@@ -40781,7 +40781,7 @@
         }
       ],
       "returns": "framehandle",
-      "isNullable": true
+      "isNullable": false
     },
     "BlzFrameGetHeight": {
       "description": null,
