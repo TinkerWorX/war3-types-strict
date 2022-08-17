@@ -9,7 +9,7 @@
     "postinstall": "ts-node build.ts common.j.json common.ai.json blizzard.j.json"
   },
   "dependencies": {
-    "node-ts": "^5.1.1",
+    "ts-node": "^10.2.1",
     "typescript": "^4.2.4"
   }
 }
