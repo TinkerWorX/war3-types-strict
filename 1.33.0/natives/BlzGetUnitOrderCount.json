@@ -1,0 +1,15 @@
+{
+  "name": "BlzGetUnitOrderCount",
+  "description": "returns the number of orders the unit currently has queued up",
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
+}
