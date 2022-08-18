@@ -59,10 +59,14 @@ for (let i = 2; i < process.argv.length; i++) {
 
 for (const version of versions) {
     // Read the version directories passed in, in order, overwriting any previous keys if relevant.
-    fs.readdirSync(path.join(version, "types")).forEach(file => { types.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "types", file)).toString())) });
-    fs.readdirSync(path.join(version, "globals")).forEach(file => { globals.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "globals", file)).toString())) });
-    fs.readdirSync(path.join(version, "natives")).forEach(file => { natives.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "natives", file)).toString())) });
-    fs.readdirSync(path.join(version, "functions")).forEach(file => { functions.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "functions", file)).toString())) });
+    if (fs.existsSync(path.join(version, "types")))
+        fs.readdirSync(path.join(version, "types")).forEach(file => { types.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "types", file)).toString())) });
+    if (fs.existsSync(path.join(version, "globals")))
+        fs.readdirSync(path.join(version, "globals")).forEach(file => { globals.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "globals", file)).toString())) });
+    if (fs.existsSync(path.join(version, "natives")))
+        fs.readdirSync(path.join(version, "natives")).forEach(file => { natives.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "natives", file)).toString())) });
+    if (fs.existsSync(path.join(version, "functions")))
+        fs.readdirSync(path.join(version, "functions")).forEach(file => { functions.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "functions", file)).toString())) });
 
     const stream = fs.createWriteStream(version + ".d.ts");
     stream.write(`/// <reference path="./compat.d.ts" />\n`);
