@@ -1,5 +1,5 @@
 {
-  "name": "BlzQueueNeutralImmediateOrderById",
+  "name": "BlzQueueNeutralPointOrderById",
   "description": null,
   "takes": [
     {

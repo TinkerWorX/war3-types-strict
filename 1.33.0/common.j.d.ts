@@ -4892,6 +4892,8 @@ declare function TriggerRegisterCommandEvent(whichTrigger: trigger, whichAbility
 
 declare function TriggerRegisterUpgradeCommandEvent(whichTrigger: trigger, whichUpgrade: number): event | undefined;
 
+declare function BlzGetAbilityId(whichAbility: ability): number;
+
 declare function BlzGetUnitOrderCount(whichUnit: unit): number;
 
 declare function BlzQueueBuildOrderById(whichUnit: unit, unitId: number, x: number, y: number): boolean;
@@ -4904,7 +4906,7 @@ declare function BlzQueueInstantTargetOrderById(whichUnit: unit, order: number, 
 
 declare function BlzQueueNeutralImmediateOrderById(forWhichPlayer: player, neutralStructure: unit, unitId: number): boolean;
 
-declare function BlzQueueNeutralImmediateOrderById(forWhichPlayer: player, neutralStructure: unit, unitId: number, x: number, y: number): boolean;
+declare function BlzQueueNeutralPointOrderById(forWhichPlayer: player, neutralStructure: unit, unitId: number, x: number, y: number): boolean;
 
 declare function BlzQueueNeutralTargetOrderById(forWhichPlayer: player, neutralStructure: unit, unitId: number, target: widget): boolean;
 
