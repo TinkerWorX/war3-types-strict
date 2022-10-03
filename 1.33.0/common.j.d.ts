@@ -2060,14 +2060,6 @@ declare function BlzSetUnitMaxMana(whichUnit: unit, mana: number): void;
 
 declare function BlzSetUnitName(whichUnit: unit, name: string): void;
 
-declare function BlzSetUnitWeaponBooleanField(whichUnit: unit, whichField: unitweaponbooleanfield, index: number, value: boolean): boolean;
-
-declare function BlzSetUnitWeaponIntegerField(whichUnit: unit, whichField: unitweaponintegerfield, index: number, value: number): boolean;
-
-declare function BlzSetUnitWeaponRealField(whichUnit: unit, whichField: unitweaponrealfield, index: number, value: number): boolean;
-
-declare function BlzSetUnitWeaponStringField(whichUnit: unit, whichField: unitweaponstringfield, index: number, value: string): boolean;
-
 declare function BlzUnitCancelTimedLife(whichUnit: unit): void;
 
 declare function BlzUnitDisableAbility(whichUnit: unit, abilId: number, flag: boolean, hideUI: boolean): void;
@@ -2209,8 +2201,6 @@ declare function ConvertTexMapFlags(i: number): texmapflags | undefined;
 declare function ConvertUnitEvent(i: number): unitevent | undefined;
 
 declare function ConvertUnitState(i: number): unitstate | undefined;
-
-declare function ConvertUnitStringField(i: number): unitstringfield | undefined;
 
 declare function ConvertUnitType(i: number): unittype | undefined;
 
@@ -4712,6 +4702,14 @@ declare function BlzSetUnitSkin(whichUnit: unit, skinId: number): void;
 
 declare function BlzSetUnitStringField(whichUnit: unit, whichField: unitstringfield, value: string): boolean;
 
+declare function BlzSetUnitWeaponBooleanField(whichUnit: unit, whichField: unitweaponbooleanfield, index: number, value: boolean): boolean;
+
+declare function BlzSetUnitWeaponIntegerField(whichUnit: unit, whichField: unitweaponintegerfield, index: number, value: number): boolean;
+
+declare function BlzSetUnitWeaponRealField(whichUnit: unit, whichField: unitweaponrealfield, index: number, value: number): boolean;
+
+declare function BlzSetUnitWeaponStringField(whichUnit: unit, whichField: unitweaponstringfield, index: number, value: string): boolean;
+
 declare function BlzShowSkyBox(show: boolean): void;
 
 declare function BlzShowTerrain(show: boolean): void;
@@ -4805,6 +4803,8 @@ declare function ConvertUnitCategory(i: number): unitcategory | undefined;
 declare function ConvertUnitIntegerField(i: number): unitintegerfield | undefined;
 
 declare function ConvertUnitRealField(i: number): unitrealfield | undefined;
+
+declare function ConvertUnitStringField(i: number): unitstringfield | undefined;
 
 declare function ConvertUnitWeaponBooleanField(i: number): unitweaponbooleanfield | undefined;
 
