@@ -1,3 +1,5 @@
+.vscode
+
 1.29.2/functions
 1.29.2/globals
 1.29.2/natives
@@ -9,3 +11,6 @@
 1.32.10/types
 
 1.33.0/natives
+
+build.ts
+tsconfig.json
