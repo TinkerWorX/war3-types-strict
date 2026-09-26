@@ -1,21 +1,21 @@
 {
-    "name":  "UnitItemInEquipmentSlotBJ",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichUnit",
-                      "type":  "unit",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "slot",
-                      "type":  "loadoutslot",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "item",
-    "isNullable":  true,
-    "source":  "blizzard.j"
+  "name": "UnitItemInEquipmentSlotBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "slot",
+      "type": "loadoutslot",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
 }

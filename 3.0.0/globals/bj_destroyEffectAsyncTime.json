@@ -1,10 +1,10 @@
 {
-    "name":  "bj_destroyEffectAsyncTime",
-    "description":  null,
-    "isConstant":  false,
-    "type":  "number",
-    "isArray":  false,
-    "value":  "0",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "bj_destroyEffectAsyncTime",
+  "description": null,
+  "isConstant": false,
+  "type": "number",
+  "isArray": false,
+  "value": "0",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

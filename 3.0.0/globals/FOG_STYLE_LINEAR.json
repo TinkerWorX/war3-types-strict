@@ -1,10 +1,10 @@
 {
-    "name":  "FOG_STYLE_LINEAR",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "fogstyle",
-    "isArray":  false,
-    "value":  "ConvertFogStyle(0)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "FOG_STYLE_LINEAR",
+  "description": null,
+  "isConstant": true,
+  "type": "fogstyle",
+  "isArray": false,
+  "value": "ConvertFogStyle(0)",
+  "isNullable": false,
+  "source": "common.j"
 }

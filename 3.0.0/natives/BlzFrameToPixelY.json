@@ -1,15 +1,15 @@
 {
-    "name":  "BlzFrameToPixelY",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "frameY",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "number",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzFrameToPixelY",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "frameY",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
 }

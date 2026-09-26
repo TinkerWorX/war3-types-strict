@@ -1,10 +1,10 @@
 {
-    "name":  "CAMERA_FIELD_DEPTH_OF_FIELD_DISTANCE",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "camerafield",
-    "isArray":  false,
-    "value":  "ConvertCameraField(11)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "CAMERA_FIELD_DEPTH_OF_FIELD_DISTANCE",
+  "description": null,
+  "isConstant": true,
+  "type": "camerafield",
+  "isArray": false,
+  "value": "ConvertCameraField(11)",
+  "isNullable": false,
+  "source": "common.j"
 }

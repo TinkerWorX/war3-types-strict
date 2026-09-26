@@ -1,10 +1,10 @@
 {
-    "name":  "EQUIPMENT_LOADOUT_SLOT_OFFHAND",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "loadoutslot",
-    "isArray":  false,
-    "value":  "ConvertLoadoutSlot(7)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "EQUIPMENT_LOADOUT_SLOT_OFFHAND",
+  "description": null,
+  "isConstant": true,
+  "type": "loadoutslot",
+  "isArray": false,
+  "value": "ConvertLoadoutSlot(7)",
+  "isNullable": false,
+  "source": "common.j"
 }

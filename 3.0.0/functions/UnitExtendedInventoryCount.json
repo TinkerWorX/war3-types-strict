@@ -1,15 +1,15 @@
 {
-    "name":  "UnitExtendedInventoryCount",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichUnit",
-                      "type":  "unit",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "number",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "UnitExtendedInventoryCount",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

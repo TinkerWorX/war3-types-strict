@@ -1,81 +1,81 @@
 {
-    "name":  "SetHDWaterParamsEx",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "red",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "green",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "blue",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "override",
-                      "type":  "boolean",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "vertexDisplacement",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "minOpacity",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "maxOpacity",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "reflectivity",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "emissivity",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "edgeSoftness",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "waveStrength",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "envMapStrength",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "SetHDWaterParamsEx",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "override",
+      "type": "boolean",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "vertexDisplacement",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "minOpacity",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "maxOpacity",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "reflectivity",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "emissivity",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "edgeSoftness",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "waveStrength",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "envMapStrength",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

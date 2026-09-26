@@ -1,10 +1,10 @@
 {
-    "name":  "ITEMTAG_TYPE_DROPPABLE",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "itemTag",
-    "isArray":  false,
-    "value":  "ConvertItemTag(1)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "ITEMTAG_TYPE_DROPPABLE",
+  "description": null,
+  "isConstant": true,
+  "type": "itemTag",
+  "isArray": false,
+  "value": "ConvertItemTag(1)",
+  "isNullable": false,
+  "source": "common.j"
 }

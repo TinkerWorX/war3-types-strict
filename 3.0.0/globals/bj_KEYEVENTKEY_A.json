@@ -1,10 +1,10 @@
 {
-    "name":  "bj_KEYEVENTKEY_A",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "number",
-    "isArray":  false,
-    "value":  "4",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "bj_KEYEVENTKEY_A",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "4",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

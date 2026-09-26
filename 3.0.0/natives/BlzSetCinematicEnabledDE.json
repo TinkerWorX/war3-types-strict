@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetCinematicEnabledDE",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "enable",
-                      "type":  "boolean",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzSetCinematicEnabledDE",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "enable",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

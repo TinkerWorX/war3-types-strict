@@ -1,57 +1,57 @@
 {
-    "name":  "BlzCreateDeadDestructableZWithColor",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "objectid",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "x",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "y",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "z",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "face",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "scale",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "variation",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "color",
-                      "type":  "playercolor",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "destructable",
-    "isNullable":  true,
-    "source":  "common.j"
+  "name": "BlzCreateDeadDestructableZWithColor",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "objectid",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "x",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "y",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "z",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "face",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "scale",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "variation",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "color",
+      "type": "playercolor",
+      "isNullable": false
+    }
+  ],
+  "returns": "destructable",
+  "isNullable": true,
+  "source": "common.j"
 }

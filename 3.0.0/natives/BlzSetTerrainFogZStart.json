@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetTerrainFogZStart",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "zStart",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzSetTerrainFogZStart",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "zStart",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

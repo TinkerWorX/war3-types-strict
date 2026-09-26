@@ -1,10 +1,10 @@
 {
-    "name":  "METAKEY_CTRL",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "number",
-    "isArray":  false,
-    "value":  "2",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "METAKEY_CTRL",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "2",
+  "isNullable": false,
+  "source": "common.j"
 }

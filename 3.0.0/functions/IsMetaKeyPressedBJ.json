@@ -1,15 +1,15 @@
 {
-    "name":  "IsMetaKeyPressedBJ",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "metakey",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "boolean",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "IsMetaKeyPressedBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "metakey",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

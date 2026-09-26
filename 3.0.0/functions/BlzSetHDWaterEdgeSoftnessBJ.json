@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetHDWaterEdgeSoftnessBJ",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "edgeSoftness",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "BlzSetHDWaterEdgeSoftnessBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "edgeSoftness",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

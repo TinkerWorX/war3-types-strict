@@ -1,10 +1,10 @@
 {
-    "name":  "FOG_STYLE_EXP2",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "fogstyle",
-    "isArray":  false,
-    "value":  "ConvertFogStyle(2)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "FOG_STYLE_EXP2",
+  "description": null,
+  "isConstant": true,
+  "type": "fogstyle",
+  "isArray": false,
+  "value": "ConvertFogStyle(2)",
+  "isNullable": false,
+  "source": "common.j"
 }

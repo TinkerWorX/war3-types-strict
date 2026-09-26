@@ -1,21 +1,21 @@
 {
-    "name":  "BlzGetUnitAnimationDuration",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichUnit",
-                      "type":  "unit",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "whichAnimation",
-                      "type":  "string",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "number",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzGetUnitAnimationDuration",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichAnimation",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
 }

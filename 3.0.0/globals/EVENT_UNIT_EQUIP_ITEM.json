@@ -1,10 +1,10 @@
 {
-    "name":  "EVENT_UNIT_EQUIP_ITEM",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "unitevent",
-    "isArray":  false,
-    "value":  "ConvertUnitEvent(320)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "EVENT_UNIT_EQUIP_ITEM",
+  "description": null,
+  "isConstant": true,
+  "type": "unitevent",
+  "isArray": false,
+  "value": "ConvertUnitEvent(320)",
+  "isNullable": false,
+  "source": "common.j"
 }

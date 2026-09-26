@@ -1,10 +1,10 @@
 {
-    "name":  "SOUND_VOLUMEGROUP_CINEMATIC_MUSIC",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "volumegroup",
-    "isArray":  false,
-    "value":  "ConvertVolumeGroup(10)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "SOUND_VOLUMEGROUP_CINEMATIC_MUSIC",
+  "description": null,
+  "isConstant": true,
+  "type": "volumegroup",
+  "isArray": false,
+  "value": "ConvertVolumeGroup(10)",
+  "isNullable": false,
+  "source": "common.j"
 }

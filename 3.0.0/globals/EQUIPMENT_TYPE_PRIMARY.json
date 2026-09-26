@@ -1,10 +1,10 @@
 {
-    "name":  "EQUIPMENT_TYPE_PRIMARY",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "equipmentType",
-    "isArray":  false,
-    "value":  "ConvertEquipmentType(6)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "EQUIPMENT_TYPE_PRIMARY",
+  "description": null,
+  "isConstant": true,
+  "type": "equipmentType",
+  "isArray": false,
+  "value": "ConvertEquipmentType(6)",
+  "isNullable": false,
+  "source": "common.j"
 }

@@ -1,21 +1,21 @@
 {
-    "name":  "GetItemEquippedByHeroOfEquipmentTypeBJ",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichUnit",
-                      "type":  "unit",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "whichEquipmentType",
-                      "type":  "equipmentType",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "item",
-    "isNullable":  true,
-    "source":  "blizzard.j"
+  "name": "GetItemEquippedByHeroOfEquipmentTypeBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichEquipmentType",
+      "type": "equipmentType",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
 }

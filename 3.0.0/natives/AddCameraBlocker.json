@@ -1,15 +1,15 @@
 {
-    "name":  "AddCameraBlocker",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "where",
-                      "type":  "rect",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "AddCameraBlocker",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "where",
+      "type": "rect",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

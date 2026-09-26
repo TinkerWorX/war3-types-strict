@@ -1,27 +1,27 @@
 {
-    "name":  "BlzAdjustUnitAbilityCooldownRemaining",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichUnit",
-                      "type":  "unit",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "abilId",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "duration",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzAdjustUnitAbilityCooldownRemaining",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "abilId",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "duration",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

@@ -1,15 +1,15 @@
 {
-    "name":  "BlzFrameToPixelX",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "frameX",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "number",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzFrameToPixelX",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "frameX",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
 }

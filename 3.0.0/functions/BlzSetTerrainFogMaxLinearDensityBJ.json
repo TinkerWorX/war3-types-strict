@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetTerrainFogMaxLinearDensityBJ",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "maxLinearDensity",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "BlzSetTerrainFogMaxLinearDensityBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "maxLinearDensity",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

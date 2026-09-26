@@ -1,21 +1,21 @@
 {
-    "name":  "BlzCameraSetupSetCameraType",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichSetup",
-                      "type":  "camerasetup",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "cameraType",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzCameraSetupSetCameraType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichSetup",
+      "type": "camerasetup",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "cameraType",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

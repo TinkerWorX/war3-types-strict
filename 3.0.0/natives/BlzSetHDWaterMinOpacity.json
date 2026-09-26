@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetHDWaterMinOpacity",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "minOpacity",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzSetHDWaterMinOpacity",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "minOpacity",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

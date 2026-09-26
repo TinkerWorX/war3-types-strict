@@ -1,15 +1,15 @@
 {
-    "name":  "GetCameraFieldControlledByInput",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichField",
-                      "type":  "camerafield",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "boolean",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "GetCameraFieldControlledByInput",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "camerafield",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
 }

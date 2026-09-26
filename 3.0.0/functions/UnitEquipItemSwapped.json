@@ -1,21 +1,21 @@
 {
-    "name":  "UnitEquipItemSwapped",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichItem",
-                      "type":  "item",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "whichHero",
-                      "type":  "unit",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "boolean",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "UnitEquipItemSwapped",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichItem",
+      "type": "item",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichHero",
+      "type": "unit",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

@@ -1,33 +1,33 @@
 {
-    "name":  "ChooseRandomItemExWithFilterBJ",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "level",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "whichType",
-                      "type":  "itemtype",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "whichEquipmentType",
-                      "type":  "equipmentType",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "whichTag",
-                      "type":  "itemTag",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "number",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "ChooseRandomItemExWithFilterBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "level",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichType",
+      "type": "itemtype",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichEquipmentType",
+      "type": "equipmentType",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichTag",
+      "type": "itemTag",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

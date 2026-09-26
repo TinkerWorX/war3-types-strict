@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetTerrainFogDrawOverSky",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "drawOverSky",
-                      "type":  "boolean",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzSetTerrainFogDrawOverSky",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "drawOverSky",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

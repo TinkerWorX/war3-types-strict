@@ -1,21 +1,21 @@
 {
-    "name":  "BlzSetSpecialEffectAnimationBlendTime",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichEffect",
-                      "type":  "effect",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "blendTime",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzSetSpecialEffectAnimationBlendTime",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichEffect",
+      "type": "effect",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blendTime",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

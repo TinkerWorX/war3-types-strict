@@ -1,15 +1,15 @@
 {
-    "name":  "BlzPauseThematicMusicOnFocusLost",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "pause",
-                      "type":  "boolean",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzPauseThematicMusicOnFocusLost",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "pause",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

@@ -1,10 +1,10 @@
 {
-    "name":  "EVENT_PLAYER_UNIT_UNEQUIP_ITEM",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "playerunitevent",
-    "isArray":  false,
-    "value":  "ConvertPlayerUnitEvent(323)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "EVENT_PLAYER_UNIT_UNEQUIP_ITEM",
+  "description": null,
+  "isConstant": true,
+  "type": "playerunitevent",
+  "isArray": false,
+  "value": "ConvertPlayerUnitEvent(323)",
+  "isNullable": false,
+  "source": "common.j"
 }

@@ -1,15 +1,15 @@
 {
-    "name":  "ConvertFogStyle",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "i",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "fogstyle",
-    "isNullable":  true,
-    "source":  "common.j"
+  "name": "ConvertFogStyle",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "i",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "fogstyle",
+  "isNullable": true,
+  "source": "common.j"
 }

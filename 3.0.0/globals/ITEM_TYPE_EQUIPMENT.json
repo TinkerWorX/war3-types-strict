@@ -1,10 +1,10 @@
 {
-    "name":  "ITEM_TYPE_EQUIPMENT",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "itemtype",
-    "isArray":  false,
-    "value":  "ConvertItemType(7)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "ITEM_TYPE_EQUIPMENT",
+  "description": null,
+  "isConstant": true,
+  "type": "itemtype",
+  "isArray": false,
+  "value": "ConvertItemType(7)",
+  "isNullable": false,
+  "source": "common.j"
 }

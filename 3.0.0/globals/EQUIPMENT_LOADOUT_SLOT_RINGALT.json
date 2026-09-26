@@ -1,10 +1,10 @@
 {
-    "name":  "EQUIPMENT_LOADOUT_SLOT_RINGALT",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "loadoutslot",
-    "isArray":  false,
-    "value":  "ConvertLoadoutSlot(5)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "EQUIPMENT_LOADOUT_SLOT_RINGALT",
+  "description": null,
+  "isConstant": true,
+  "type": "loadoutslot",
+  "isArray": false,
+  "value": "ConvertLoadoutSlot(5)",
+  "isNullable": false,
+  "source": "common.j"
 }

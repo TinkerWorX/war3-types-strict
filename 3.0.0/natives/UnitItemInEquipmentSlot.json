@@ -1,21 +1,21 @@
 {
-    "name":  "UnitItemInEquipmentSlot",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichUnit",
-                      "type":  "unit",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "itemSlot",
-                      "type":  "loadoutslot",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "item",
-    "isNullable":  true,
-    "source":  "common.j"
+  "name": "UnitItemInEquipmentSlot",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "itemSlot",
+      "type": "loadoutslot",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "common.j"
 }

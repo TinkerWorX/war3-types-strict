@@ -1,15 +1,15 @@
 {
-    "name":  "BlzGetDoodadScaleX",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "index",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "number",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzGetDoodadScaleX",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "index",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
 }

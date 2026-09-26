@@ -1,15 +1,15 @@
 {
-    "name":  "BlzPreloadModelCinematicGame",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "modelName",
-                      "type":  "string",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "boolean",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzPreloadModelCinematicGame",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "modelName",
+      "type": "string",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
 }

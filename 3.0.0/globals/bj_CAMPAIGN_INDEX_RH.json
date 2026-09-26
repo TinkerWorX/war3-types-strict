@@ -1,10 +1,10 @@
 {
-    "name":  "bj_CAMPAIGN_INDEX_RH",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "number",
-    "isArray":  false,
-    "value":  "9",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "bj_CAMPAIGN_INDEX_RH",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "9",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

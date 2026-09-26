@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetHDWaterEnvMapStrength",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "envMapStrengthy",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzSetHDWaterEnvMapStrength",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "envMapStrengthy",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

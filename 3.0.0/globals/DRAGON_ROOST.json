@@ -1,10 +1,10 @@
 {
-    "name":  "DRAGON_ROOST",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "number",
-    "isArray":  false,
-    "value":  "\u0027ndrb\u0027",
-    "isNullable":  false,
-    "source":  "common.ai"
+  "name": "DRAGON_ROOST",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "FourCC(ndrb)",
+  "isNullable": false,
+  "source": "common.ai"
 }

@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetMinShadowCastingPointLightCount",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "count",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzSetMinShadowCastingPointLightCount",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "count",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

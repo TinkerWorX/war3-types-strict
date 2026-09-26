@@ -1,10 +1,10 @@
 {
-    "name":  "bj_MISSION_INDEX_RH00",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "number",
-    "isArray":  false,
-    "value":  "bj_CAMPAIGN_OFFSET_RH * 1000 + 0",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "bj_MISSION_INDEX_RH00",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "bj_CAMPAIGN_OFFSET_RH * 1000 + 0",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

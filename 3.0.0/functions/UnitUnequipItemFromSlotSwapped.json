@@ -1,21 +1,21 @@
 {
-    "name":  "UnitUnequipItemFromSlotSwapped",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichHero",
-                      "type":  "unit",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "slot",
-                      "type":  "loadoutslot",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "item",
-    "isNullable":  true,
-    "source":  "blizzard.j"
+  "name": "UnitUnequipItemFromSlotSwapped",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichHero",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "slot",
+      "type": "loadoutslot",
+      "isNullable": false
+    }
+  ],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
 }

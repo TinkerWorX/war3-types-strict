@@ -1,39 +1,39 @@
 {
-    "name":  "SetDestructableVertexColor",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "whichDestructable",
-                      "type":  "destructable",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "red",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "green",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "blue",
-                      "type":  "number",
-                      "isNullable":  false
-                  },
-                  {
-                      "description":  null,
-                      "name":  "alpha",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "SetDestructableVertexColor",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichDestructable",
+      "type": "destructable",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "red",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "green",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "blue",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "alpha",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
 }

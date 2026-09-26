@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetHDWaterVertexDisplacementBJ",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "vertexDisplacement",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "BlzSetHDWaterVertexDisplacementBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "vertexDisplacement",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

@@ -1,15 +1,15 @@
 {
-    "name":  "BlzSetHDWaterMinOpacityBJ",
-    "description":  null,
-    "takes":  [
-                  {
-                      "description":  null,
-                      "name":  "minOpacity",
-                      "type":  "number",
-                      "isNullable":  false
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "BlzSetHDWaterMinOpacityBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "minOpacity",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

@@ -1,10 +1,10 @@
 {
-    "name":  "EQUIPMENT_TYPE_BOOTS",
-    "description":  null,
-    "isConstant":  true,
-    "type":  "equipmentType",
-    "isArray":  false,
-    "value":  "ConvertEquipmentType(4)",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "EQUIPMENT_TYPE_BOOTS",
+  "description": null,
+  "isConstant": true,
+  "type": "equipmentType",
+  "isArray": false,
+  "value": "ConvertEquipmentType(4)",
+  "isNullable": false,
+  "source": "common.j"
 }
