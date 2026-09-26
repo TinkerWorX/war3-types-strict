@@ -112,7 +112,7 @@ declare interface armortype extends handle { __armortype: never; }
 declare interface commandbuttoneffect extends handle { __commandbuttoneffect: never; }
 declare interface defensetype extends handle { __defensetype: never; }
 declare interface frameeventtype extends handle { __frameeventtype: never; }
-declare interface framehandle extends handle { __framehandle: never; }
+declare interface framehandle extends agent { __framehandle: never; }
 declare interface framepointtype extends handle { __framepointtype: never; }
 declare interface heroattribute extends handle { __heroattribute: never; }
 declare interface itembooleanfield extends handle { __itembooleanfield: never; }
@@ -4960,7 +4960,7 @@ declare function BlzGetAbilityId(whichAbility: ability): number;
 
 declare function BlzGetUnitOrderCount(whichUnit: unit): number;
 
-declare function BlzQueueBuildOrderById(whichUnit: unit, unitId: number, x: number, y: number): boolean;
+declare function BlzQueueBuildOrderById(whichPeon: unit, unitId: number, x: number, y: number): boolean;
 
 declare function BlzQueueImmediateOrderById(whichUnit: unit, order: number): boolean;
 
@@ -4990,7 +4990,7 @@ declare function BlzAdjustUnitAbilityCooldownPercent(whichUnit: unit, abilId: nu
 
 declare function BlzAdjustUnitAbilityCooldownRemaining(whichUnit: unit, abilId: number, duration: number): void;
 
-declare function BlzCameraGetCameraType(undefined: undefined): number;
+declare function BlzCameraGetCameraType(): number;
 
 declare function BlzCameraSetCameraType(cameraType: number): void;
 
@@ -5074,19 +5074,19 @@ declare function BlzGetDoodadYaw(index: number): number;
 
 declare function BlzGetDoodadZ(index: number): number;
 
-declare function BlzGetMinShadowCastingPointLightCount(undefined: undefined): number;
+declare function BlzGetMinShadowCastingPointLightCount(): number;
 
-declare function BlzGetModelCinematicGameCurrentShot(undefined: undefined): number;
+declare function BlzGetModelCinematicGameCurrentShot(): number;
 
-declare function BlzGetModelCinematicGameRemainingTime(undefined: undefined): number;
+declare function BlzGetModelCinematicGameRemainingTime(): number;
 
-declare function BlzGetModelCinematicGameShotCount(undefined: undefined): number;
+declare function BlzGetModelCinematicGameShotCount(): number;
 
-declare function BlzGetMouseScreenPosX(undefined: undefined): number;
+declare function BlzGetMouseScreenPosX(): number;
 
-declare function BlzGetMouseScreenPosY(undefined: undefined): number;
+declare function BlzGetMouseScreenPosY(): number;
 
-declare function BlzGetNumDoodads(undefined: undefined): number;
+declare function BlzGetNumDoodads(): number;
 
 declare function BlzGetUnitAbilityCooldownPercent(whichUnit: unit, abilId: number): number;
 
@@ -5198,13 +5198,13 @@ declare function EnableCameraBlocker(r: rect, flag: boolean): void;
 
 declare function GetCameraFieldControlledByInput(whichField: camerafield): boolean;
 
-declare function GetEquippedItem(undefined: undefined): item | undefined;
+declare function GetEquippedItem(): item | undefined;
 
 declare function GetItemEquipmentType(whichItem: item): equipmentType | undefined;
 
 declare function GetItemTag(whichItem: item): itemTag | undefined;
 
-declare function GetUnequippedItem(undefined: undefined): item | undefined;
+declare function GetUnequippedItem(): item | undefined;
 
 declare function HeroGlowIsAllowedOnUnit(whichUnit: unit): boolean;
 
