@@ -1,0 +1,12 @@
+{
+    "name":  "GetLastUnequippedItem",
+    "description":  null,
+    "takes":  [
+                  {
+
+                  }
+              ],
+    "returns":  "item",
+    "isNullable":  true,
+    "source":  "blizzard.j"
+}

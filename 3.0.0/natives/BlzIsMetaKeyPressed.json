@@ -1,0 +1,15 @@
+{
+    "name":  "BlzIsMetaKeyPressed",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "metakey",
+                      "type":  "number",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "boolean",
+    "isNullable":  false,
+    "source":  "common.j"
+}

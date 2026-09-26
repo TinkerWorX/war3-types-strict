@@ -1,0 +1,10 @@
+{
+    "name":  "bj_MAX_EXTENDED_INVENTORY",
+    "description":  null,
+    "isConstant":  true,
+    "type":  "number",
+    "isArray":  false,
+    "value":  "30",
+    "isNullable":  false,
+    "source":  "blizzard.j"
+}

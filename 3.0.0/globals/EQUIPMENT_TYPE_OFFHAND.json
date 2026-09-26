@@ -1,0 +1,10 @@
+{
+    "name":  "EQUIPMENT_TYPE_OFFHAND",
+    "description":  null,
+    "isConstant":  true,
+    "type":  "equipmentType",
+    "isArray":  false,
+    "value":  "ConvertEquipmentType(7)",
+    "isNullable":  false,
+    "source":  "common.j"
+}

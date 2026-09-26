@@ -1,0 +1,45 @@
+{
+    "name":  "SetDoodadColor",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "x",
+                      "type":  "number",
+                      "isNullable":  false
+                  },
+                  {
+                      "description":  null,
+                      "name":  "y",
+                      "type":  "number",
+                      "isNullable":  false
+                  },
+                  {
+                      "description":  null,
+                      "name":  "radius",
+                      "type":  "number",
+                      "isNullable":  false
+                  },
+                  {
+                      "description":  null,
+                      "name":  "doodadID",
+                      "type":  "number",
+                      "isNullable":  false
+                  },
+                  {
+                      "description":  null,
+                      "name":  "nearestOnly",
+                      "type":  "boolean",
+                      "isNullable":  false
+                  },
+                  {
+                      "description":  null,
+                      "name":  "whichColor",
+                      "type":  "playercolor",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "void",
+    "isNullable":  false,
+    "source":  "common.j"
+}

@@ -1,0 +1,12 @@
+{
+    "name":  "BlzGetModelCinematicGameCurrentShot",
+    "description":  null,
+    "takes":  [
+                  {
+
+                  }
+              ],
+    "returns":  "number",
+    "isNullable":  false,
+    "source":  "common.j"
+}

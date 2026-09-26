@@ -1,0 +1,15 @@
+{
+    "name":  "GetItemEquipmentType",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "whichItem",
+                      "type":  "item",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "equipmentType",
+    "isNullable":  true,
+    "source":  "common.j"
+}

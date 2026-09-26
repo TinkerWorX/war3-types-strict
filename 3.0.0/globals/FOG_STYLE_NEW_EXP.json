@@ -1,0 +1,10 @@
+{
+    "name":  "FOG_STYLE_NEW_EXP",
+    "description":  null,
+    "isConstant":  true,
+    "type":  "fogstyle",
+    "isArray":  false,
+    "value":  "ConvertFogStyle(4)",
+    "isNullable":  false,
+    "source":  "common.j"
+}

@@ -1,0 +1,21 @@
+{
+    "name":  "StartSoundEx",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "soundHandle",
+                      "type":  "sound",
+                      "isNullable":  false
+                  },
+                  {
+                      "description":  null,
+                      "name":  "fadeIn",
+                      "type":  "boolean",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "void",
+    "isNullable":  false,
+    "source":  "common.j"
+}

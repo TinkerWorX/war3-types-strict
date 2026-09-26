@@ -1,0 +1,10 @@
+{
+    "name":  "ITEMTAG_TYPE_QUESTREWARD",
+    "description":  null,
+    "isConstant":  true,
+    "type":  "itemTag",
+    "isArray":  false,
+    "value":  "ConvertItemTag(2)",
+    "isNullable":  false,
+    "source":  "common.j"
+}

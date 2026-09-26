@@ -1,0 +1,15 @@
+{
+    "name":  "BlzSetTerrainFogZStartBJ",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "zStart",
+                      "type":  "number",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "void",
+    "isNullable":  false,
+    "source":  "blizzard.j"
+}

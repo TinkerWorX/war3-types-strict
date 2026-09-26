@@ -1,0 +1,15 @@
+{
+    "name":  "BlzSetTerrainFogDensityBJ",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "density",
+                      "type":  "number",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "void",
+    "isNullable":  false,
+    "source":  "blizzard.j"
+}

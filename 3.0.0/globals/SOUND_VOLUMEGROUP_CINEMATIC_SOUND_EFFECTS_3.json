@@ -1,0 +1,10 @@
+{
+    "name":  "SOUND_VOLUMEGROUP_CINEMATIC_SOUND_EFFECTS_3",
+    "description":  null,
+    "isConstant":  true,
+    "type":  "volumegroup",
+    "isArray":  false,
+    "value":  "ConvertVolumeGroup(14)",
+    "isNullable":  false,
+    "source":  "common.j"
+}

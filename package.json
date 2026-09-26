@@ -5,14 +5,16 @@
   "author": "Nikolaj 'William' Mariager",
   "license": "MIT",
   "scripts": {
-    "build": "ts-node build.ts 1.29.2 1.32.10 1.33.0",
+    "build": "ts-node build.ts 1.29.2 1.32.10 1.33.0 3.0.0",
+    "compare": "ts-node comparison-parser.ts",
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "typescript": "^4.3.5"
+    "typescript": "^5.2.2"
   },
   "devDependencies": {
     "@types/node": "^26.6.3",
-    "ts-node": "^10.2.1"
+    "ts-node": "^10.2.1",
+    "undici-types": "^8.11.2"
   }
 }

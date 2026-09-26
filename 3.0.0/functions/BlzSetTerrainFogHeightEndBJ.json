@@ -1,0 +1,15 @@
+{
+    "name":  "BlzSetTerrainFogHeightEndBJ",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "heightEnd",
+                      "type":  "number",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "void",
+    "isNullable":  false,
+    "source":  "blizzard.j"
+}

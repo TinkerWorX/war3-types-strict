@@ -1,0 +1,15 @@
+{
+    "name":  "BlzSetHDWaterEmissivity",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "emissivity",
+                      "type":  "number",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "void",
+    "isNullable":  false,
+    "source":  "common.j"
+}

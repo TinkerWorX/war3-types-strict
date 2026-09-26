@@ -1,0 +1,10 @@
+{
+    "name":  "EQUIPMENT_TYPE_TRINKET",
+    "description":  null,
+    "isConstant":  true,
+    "type":  "equipmentType",
+    "isArray":  false,
+    "value":  "ConvertEquipmentType(8)",
+    "isNullable":  false,
+    "source":  "common.j"
+}

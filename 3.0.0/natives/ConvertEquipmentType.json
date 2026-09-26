@@ -1,0 +1,15 @@
+{
+    "name":  "ConvertEquipmentType",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "i",
+                      "type":  "number",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "equipmentType",
+    "isNullable":  true,
+    "source":  "common.j"
+}

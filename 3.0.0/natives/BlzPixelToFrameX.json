@@ -1,0 +1,15 @@
+{
+    "name":  "BlzPixelToFrameX",
+    "description":  null,
+    "takes":  [
+                  {
+                      "description":  null,
+                      "name":  "pixelX",
+                      "type":  "number",
+                      "isNullable":  false
+                  }
+              ],
+    "returns":  "number",
+    "isNullable":  false,
+    "source":  "common.j"
+}
