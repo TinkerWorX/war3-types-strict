@@ -1,12 +1,8 @@
 {
-    "name":  "ToggleHeroGlowOnAllUnitsBJEnum",
-    "description":  null,
-    "takes":  [
-                  {
-
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "ToggleHeroGlowOnAllUnitsBJEnum",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

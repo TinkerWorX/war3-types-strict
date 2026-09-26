@@ -1,12 +1,8 @@
 {
-    "name":  "GetLastEquippedItem",
-    "description":  null,
-    "takes":  [
-                  {
-
-                  }
-              ],
-    "returns":  "item",
-    "isNullable":  true,
-    "source":  "blizzard.j"
+  "name": "GetLastEquippedItem",
+  "description": null,
+  "takes": [],
+  "returns": "item",
+  "isNullable": true,
+  "source": "blizzard.j"
 }

@@ -1,12 +1,8 @@
 {
-    "name":  "ClearWantDestroyGroupBJ",
-    "description":  null,
-    "takes":  [
-                  {
-
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "ClearWantDestroyGroupBJ",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

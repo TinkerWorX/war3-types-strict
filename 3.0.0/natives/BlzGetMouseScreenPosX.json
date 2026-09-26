@@ -1,12 +1,8 @@
 {
-    "name":  "BlzGetMouseScreenPosX",
-    "description":  null,
-    "takes":  [
-                  {
-
-                  }
-              ],
-    "returns":  "number",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzGetMouseScreenPosX",
+  "description": null,
+  "takes": [],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
 }

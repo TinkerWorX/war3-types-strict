@@ -1,12 +1,8 @@
 {
-    "name":  "GetEquippedItem",
-    "description":  null,
-    "takes":  [
-                  {
-
-                  }
-              ],
-    "returns":  "item",
-    "isNullable":  true,
-    "source":  "common.j"
+  "name": "GetEquippedItem",
+  "description": null,
+  "takes": [],
+  "returns": "item",
+  "isNullable": true,
+  "source": "common.j"
 }

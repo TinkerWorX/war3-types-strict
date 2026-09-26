@@ -1,12 +1,8 @@
 {
-    "name":  "AllowHeroGlowOnAllUnitsBJ",
-    "description":  null,
-    "takes":  [
-                  {
-
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "AllowHeroGlowOnAllUnitsBJ",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
 }

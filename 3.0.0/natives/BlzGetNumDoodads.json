@@ -1,12 +1,8 @@
 {
-    "name":  "BlzGetNumDoodads",
-    "description":  null,
-    "takes":  [
-                  {
-
-                  }
-              ],
-    "returns":  "number",
-    "isNullable":  false,
-    "source":  "common.j"
+  "name": "BlzGetNumDoodads",
+  "description": null,
+  "takes": [],
+  "returns": "number",
+  "isNullable": false,
+  "source": "common.j"
 }

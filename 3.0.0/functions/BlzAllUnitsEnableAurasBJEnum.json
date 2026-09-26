@@ -1,12 +1,8 @@
 {
-    "name":  "BlzAllUnitsEnableAurasBJEnum",
-    "description":  null,
-    "takes":  [
-                  {
-
-                  }
-              ],
-    "returns":  "void",
-    "isNullable":  false,
-    "source":  "blizzard.j"
+  "name": "BlzAllUnitsEnableAurasBJEnum",
+  "description": null,
+  "takes": [],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
 }
