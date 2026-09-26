@@ -258,7 +258,7 @@ function collectEffectiveOlderDefinitions(
 }
 
 function definitionsMatch(category: Category, left: Definition, right: Definition): boolean {
-    if (left.name !== right.name) {
+    if (left.name !== right.name || left.source !== right.source) {
         return false;
     }
 
@@ -355,16 +355,38 @@ function writeTrackingDefinitions(
     targetDirectory: string,
     trackingDirectory: "removals" | "changes",
     definitions: Array<{ category: Category; definition: Definition }>,
-): number {
-    if (definitions.length === 0) {
-        return 0;
-    }
-
+): { written: number; removed: number } {
+    const definitionsByCategory = new Map<Category, Map<string, Definition>>(
+        categories.map((category) => [category, new Map<string, Definition>()]),
+    );
     for (const { category, definition } of definitions) {
+        definitionsByCategory.get(category)?.set(definition.name, definition);
         writeDefinition(path.join(targetDirectory, trackingDirectory, category), definition, true);
     }
 
-    return definitions.length;
+    let removed = 0;
+    for (const category of categories) {
+        const trackingCategoryDirectory = path.join(targetDirectory, trackingDirectory, category);
+        if (!fs.existsSync(trackingCategoryDirectory)) {
+            continue;
+        }
+
+        const expectedDefinitions = definitionsByCategory.get(category);
+        for (const file of fs.readdirSync(trackingCategoryDirectory, { withFileTypes: true })) {
+            if (
+                !file.isFile()
+                || !file.name.endsWith(".json")
+                || expectedDefinitions?.has(path.basename(file.name, ".json"))
+            ) {
+                continue;
+            }
+
+            fs.unlinkSync(path.join(trackingCategoryDirectory, file.name));
+            removed++;
+        }
+    }
+
+    return { written: definitions.length, removed };
 }
 
 function printSummary(label: string, definitions: ParsedDefinition[]): void {
@@ -477,19 +499,23 @@ function main(): void {
         changes,
         targetDefinitions,
     );
-    const removalDefinitionsWritten = writeTrackingDefinitions(
+    const removalTrackingResult = writeTrackingDefinitions(
         targetDirectory,
         "removals",
         removals,
     );
-    const changedDefinitionsWritten = writeTrackingDefinitions(
+    const changeTrackingResult = writeTrackingDefinitions(
         targetDirectory,
         "changes",
         changes.map(({ category, previous }) => ({ category, definition: previous })),
     );
     console.log(`Wrote ${primaryDefinitionsWritten} primary definitions.`);
-    console.log(`Wrote ${removalDefinitionsWritten} removal snapshots.`);
-    console.log(`Wrote ${changedDefinitionsWritten} change snapshots.`);
+    console.log(
+        `Wrote ${removalTrackingResult.written} removal snapshots and removed ${removalTrackingResult.removed} obsolete snapshots.`,
+    );
+    console.log(
+        `Wrote ${changeTrackingResult.written} change snapshots and removed ${changeTrackingResult.removed} obsolete snapshots.`,
+    );
 }
 
 main();
