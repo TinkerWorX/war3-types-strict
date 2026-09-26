@@ -239,6 +239,21 @@ function findOlderVersions(repositoryRoot: string, targetVersion: string): strin
         .sort(compareVersions);
 }
 
+function applyVersionRemovals(versionDirectory: string, definitions: DefinitionMaps): void {
+    for (const category of categories) {
+        const removalsDirectory = path.join(versionDirectory, "removals", category);
+        if (!fs.existsSync(removalsDirectory)) {
+            continue;
+        }
+
+        for (const entry of fs.readdirSync(removalsDirectory, { withFileTypes: true })) {
+            if (entry.isFile() && entry.name.endsWith(".json")) {
+                definitions.get(category)?.delete(path.basename(entry.name, ".json"));
+            }
+        }
+    }
+}
+
 function collectEffectiveOlderDefinitions(
     repositoryRoot: string,
     olderVersions: string[],
@@ -252,6 +267,7 @@ function collectEffectiveOlderDefinitions(
                 definitions.get(category)?.set(name, definition);
             }
         }
+        applyVersionRemovals(path.join(repositoryRoot, version), definitions);
     }
 
     return definitions;
@@ -326,6 +342,7 @@ function writePrimaryDefinitions(
     changes: ChangedDefinition[],
     targetDefinitions: DefinitionMaps,
     unchangedDefinitions: ParsedDefinition[],
+    targetDefinitionsAbsentFromSource: ParsedDefinition[],
 ): { written: number; removed: number } {
     let written = 0;
     let removed = 0;
@@ -356,6 +373,14 @@ function writePrimaryDefinitions(
             continue;
         }
 
+        const targetPath = path.join(targetDirectory, category, `${definition.name}.json`);
+        if (fs.existsSync(targetPath)) {
+            fs.unlinkSync(targetPath);
+            removed++;
+        }
+    }
+
+    for (const { category, definition } of targetDefinitionsAbsentFromSource) {
         const targetPath = path.join(targetDirectory, category, `${definition.name}.json`);
         if (fs.existsSync(targetPath)) {
             fs.unlinkSync(targetPath);
@@ -463,10 +488,12 @@ function main(): void {
     const removals: Array<{ category: Category; definition: Definition }> = [];
     const changes: ChangedDefinition[] = [];
     const unchangedDefinitions: ParsedDefinition[] = [];
+    const targetDefinitionsAbsentFromSource: ParsedDefinition[] = [];
 
     for (const category of categories) {
         const previousDefinitions = olderDefinitions.get(category) ?? new Map<string, Definition>();
         const currentDefinitions = sourceDefinitions.get(category) ?? new Map<string, Definition>();
+        const targetCategoryDefinitions = targetDefinitions.get(category) ?? new Map<string, Definition>();
 
         for (const [name, current] of currentDefinitions) {
             const previous = previousDefinitions.get(name);
@@ -476,6 +503,12 @@ function main(): void {
                 changes.push({ category, previous, current });
             } else {
                 unchangedDefinitions.push({ category, definition: current });
+            }
+        }
+
+        for (const [name, definition] of targetCategoryDefinitions) {
+            if (!currentDefinitions.has(name)) {
+                targetDefinitionsAbsentFromSource.push({ category, definition });
             }
         }
 
@@ -503,6 +536,10 @@ function main(): void {
     printSummary("Additions versus older definitions", additions);
     printSummary("Removals versus older definitions", removals);
     printSummary("Changed definitions versus older definitions", changedDefinitions);
+    printSummary(
+        "Target definitions absent from current sources",
+        targetDefinitionsAbsentFromSource,
+    );
     console.log(
         `Added definitions requiring target update: ${additionsRequiringTargetUpdate.length}`,
     );
@@ -517,6 +554,7 @@ function main(): void {
         changes,
         targetDefinitions,
         unchangedDefinitions,
+        targetDefinitionsAbsentFromSource,
     );
     const removalTrackingResult = writeTrackingDefinitions(
         targetDirectory,

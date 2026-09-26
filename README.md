@@ -24,7 +24,7 @@ When adding or updating a version, use the comparison parser to compare it again
 npm run compare -- 3.0.0 "C:\path\to\war3.w3mod\scripts"
 ```
 
-The command reports additions, removals, and changed declarations without modifying files. Pass `--write` only when updating the tracked definitions: it adds missing definitions, updates changed target definitions, and reconciles previous-definition snapshots in `removals/<category>` and `changes/<category>`.
+The command reports additions, removals, changed declarations, and target definitions absent from the current sources without modifying files. Pass `--write` only when the source files are complete and you want to synchronize the tracked definitions: it adds missing definitions, updates changed definitions, removes target definitions absent from the sources, and reconciles previous-definition snapshots in `removals/<category>` and `changes/<category>`.
 
 The build generator applies removal snapshots so declarations removed from a version are not inherited from earlier versions.
 
