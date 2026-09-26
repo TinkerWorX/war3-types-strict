@@ -18,14 +18,14 @@ All contributions are welcome and should be done in the json files, as these ser
 
 ## Comparing version sources
 
-Use the comparison parser to find declarations in a version's `blizzard.j`, `common.j`, and `common.ai` sources that are absent from older version definitions:
+Use the comparison parser to compare a version against an external source directory containing `blizzard.j`, `common.j`, and `common.ai`. Replace the example source path with your extracted Warcraft III scripts directory:
 
 ```sh
-npm run compare -- 3.0.0
+npm run compare -- 3.0.0 "C:\path\to\war3.w3mod\scripts"
 ```
 
-The command reports additions without modifying files. Pass `--write` to add only the missing JSON definitions to the target version folder:
+The command reports additions, removals, and changed declarations without modifying files. Pass `--write` to add missing definitions, update changed target definitions, and record previous definitions in `removals/<category>` or `changes/<category>` only when the respective differences exist:
 
 ```sh
-npm run compare -- 3.0.0 --write
+npm run compare -- 3.0.0 "C:\path\to\war3.w3mod\scripts" --write
 ```

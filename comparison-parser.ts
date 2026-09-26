@@ -45,6 +45,14 @@ type ParsedDefinition = {
     definition: Definition;
 };
 
+type DefinitionMaps = Map<Category, Map<string, Definition>>;
+
+type ChangedDefinition = {
+    category: Category;
+    previous: Definition;
+    current: Definition;
+};
+
 const categories: Category[] = ["types", "globals", "natives", "functions"];
 const sources: SourceName[] = ["blizzard.j", "common.j", "common.ai"];
 const versionNamePattern = /^\d+(?:\.\d+)+$/;
@@ -64,6 +72,10 @@ function compareVersions(left: string, right: string): number {
     return 0;
 }
 
+function createDefinitionMaps(): DefinitionMaps {
+    return new Map(categories.map((category) => [category, new Map<string, Definition>()]));
+}
+
 function toTypeScriptType(jassType: string): string {
     switch (jassType) {
         case "integer":
@@ -76,6 +88,16 @@ function toTypeScriptType(jassType: string): string {
         default:
             return jassType;
     }
+}
+
+function normalizeGlobalValue(value: string | null | undefined): string | null {
+    const normalized = value?.trim() || null;
+    if (!normalized) {
+        return null;
+    }
+
+    const rawcode = normalized.match(/^'(?<value>.{4})'$/);
+    return rawcode?.groups ? `FourCC(${rawcode.groups.value})` : normalized;
 }
 
 function parseParameters(value: string): ParameterDefinition[] {
@@ -166,7 +188,7 @@ function parseSource(sourcePath: string, source: SourceName): ParsedDefinition[]
             continue;
         }
 
-        const value = globalMatch.groups.value?.trim() || null;
+        const value = normalizeGlobalValue(globalMatch.groups.value);
         definitions.push({
             category: "globals",
             definition: {
@@ -185,30 +207,28 @@ function parseSource(sourcePath: string, source: SourceName): ParsedDefinition[]
     return definitions;
 }
 
-function loadDefinitionNames(versionDirectory: string): Map<Category, Set<string>> {
-    const names = new Map<Category, Set<string>>();
+function loadDefinitions(versionDirectory: string): DefinitionMaps {
+    const definitions = createDefinitionMaps();
 
     for (const category of categories) {
         const definitionsDirectory = path.join(versionDirectory, category);
-        const categoryNames = new Set<string>();
-
-        if (fs.existsSync(definitionsDirectory)) {
-            for (const file of fs.readdirSync(definitionsDirectory)) {
-                if (!file.endsWith(".json")) {
-                    continue;
-                }
-
-                const definition = JSON.parse(
-                    fs.readFileSync(path.join(definitionsDirectory, file), "utf8"),
-                ) as { name?: string };
-                categoryNames.add(definition.name ?? path.basename(file, ".json"));
-            }
+        if (!fs.existsSync(definitionsDirectory)) {
+            continue;
         }
 
-        names.set(category, categoryNames);
+        for (const file of fs.readdirSync(definitionsDirectory)) {
+            if (!file.endsWith(".json")) {
+                continue;
+            }
+
+            const definition = JSON.parse(
+                fs.readFileSync(path.join(definitionsDirectory, file), "utf8"),
+            ) as Definition;
+            definitions.get(category)?.set(definition.name, definition);
+        }
     }
 
-    return names;
+    return definitions;
 }
 
 function findOlderVersions(repositoryRoot: string, targetVersion: string): string[] {
@@ -219,49 +239,150 @@ function findOlderVersions(repositoryRoot: string, targetVersion: string): strin
         .sort(compareVersions);
 }
 
-function collectOlderDefinitionNames(
+function collectEffectiveOlderDefinitions(
     repositoryRoot: string,
     olderVersions: string[],
-): Map<Category, Set<string>> {
-    const names = new Map<Category, Set<string>>();
-    for (const category of categories) {
-        names.set(category, new Set<string>());
-    }
+): DefinitionMaps {
+    const definitions = createDefinitionMaps();
 
     for (const version of olderVersions) {
-        const versionNames = loadDefinitionNames(path.join(repositoryRoot, version));
+        const versionDefinitions = loadDefinitions(path.join(repositoryRoot, version));
         for (const category of categories) {
-            for (const name of versionNames.get(category) ?? []) {
-                names.get(category)?.add(name);
+            for (const [name, definition] of versionDefinitions.get(category) ?? []) {
+                definitions.get(category)?.set(name, definition);
             }
         }
     }
 
-    return names;
+    return definitions;
 }
 
-function writeDefinitions(
-    repositoryRoot: string,
-    targetVersion: string,
+function definitionsMatch(category: Category, left: Definition, right: Definition): boolean {
+    if (left.name !== right.name) {
+        return false;
+    }
+
+    if (category === "types") {
+        return (left as TypeDefinition).extends === (right as TypeDefinition).extends;
+    }
+
+    if (category === "globals") {
+        const previous = left as GlobalDefinition;
+        const current = right as GlobalDefinition;
+        return previous.isConstant === current.isConstant
+            && previous.type === current.type
+            && previous.isArray === current.isArray
+            && normalizeGlobalValue(previous.value) === normalizeGlobalValue(current.value);
+    }
+
+    const previous = left as CallableDefinition;
+    const current = right as CallableDefinition;
+    return previous.returns === current.returns
+        && previous.takes.length === current.takes.length
+        && previous.takes.every((parameter, index) => (
+            parameter.name === current.takes[index].name
+            && parameter.type === current.takes[index].type
+        ));
+}
+
+function addSourceDefinitions(
+    sourceDefinitions: DefinitionMaps,
     definitions: ParsedDefinition[],
 ): void {
     for (const { category, definition } of definitions) {
-        const destinationDirectory = path.join(repositoryRoot, targetVersion, category);
-        const destination = path.join(destinationDirectory, `${definition.name}.json`);
-
-        if (fs.existsSync(destination)) {
-            throw new Error(`Refusing to overwrite existing definition: ${destination}`);
+        const categoryDefinitions = sourceDefinitions.get(category);
+        if (categoryDefinitions?.has(definition.name)) {
+            throw new Error(`Duplicate ${category} declaration: ${definition.name}`);
         }
 
-        fs.mkdirSync(destinationDirectory, { recursive: true });
-        fs.writeFileSync(destination, `${JSON.stringify(definition, null, 2)}\n`);
+        categoryDefinitions?.set(definition.name, definition);
+    }
+}
+
+function getDefinitionsByCategory(
+    definitions: ParsedDefinition[],
+    category: Category,
+): ParsedDefinition[] {
+    return definitions.filter((definition) => definition.category === category);
+}
+
+function writeDefinition(
+    destinationDirectory: string,
+    definition: Definition,
+    overwrite: boolean,
+): void {
+    fs.mkdirSync(destinationDirectory, { recursive: true });
+    const destination = path.join(destinationDirectory, `${definition.name}.json`);
+    if (fs.existsSync(destination) && !overwrite) {
+        return;
+    }
+
+    fs.writeFileSync(destination, `${JSON.stringify(definition, null, 2)}\n`);
+}
+
+function writePrimaryDefinitions(
+    targetDirectory: string,
+    additions: ParsedDefinition[],
+    changes: ChangedDefinition[],
+    targetDefinitions: DefinitionMaps,
+): number {
+    let written = 0;
+
+    for (const { category, definition } of additions) {
+        const targetDefinition = targetDefinitions.get(category)?.get(definition.name);
+        if (targetDefinition && definitionsMatch(category, targetDefinition, definition)) {
+            continue;
+        }
+
+        writeDefinition(path.join(targetDirectory, category), definition, true);
+        written++;
+    }
+
+    for (const { category, current } of changes) {
+        const targetDefinition = targetDefinitions.get(category)?.get(current.name);
+        if (targetDefinition && definitionsMatch(category, targetDefinition, current)) {
+            continue;
+        }
+
+        writeDefinition(path.join(targetDirectory, category), current, true);
+        written++;
+    }
+
+    return written;
+}
+
+function writeTrackingDefinitions(
+    targetDirectory: string,
+    trackingDirectory: "removals" | "changes",
+    definitions: Array<{ category: Category; definition: Definition }>,
+): number {
+    if (definitions.length === 0) {
+        return 0;
+    }
+
+    for (const { category, definition } of definitions) {
+        writeDefinition(path.join(targetDirectory, trackingDirectory, category), definition, true);
+    }
+
+    return definitions.length;
+}
+
+function printSummary(label: string, definitions: ParsedDefinition[]): void {
+    console.log(`${label}: ${definitions.length}`);
+    for (const category of categories) {
+        const categoryDefinitions = getDefinitionsByCategory(definitions, category);
+        if (categoryDefinitions.length > 0) {
+            console.log(`  ${category}: ${categoryDefinitions.map(({ definition }) => definition.name).join(", ")}`);
+        }
     }
 }
 
 function main(): void {
-    const [targetVersion, ...options] = process.argv.slice(2);
-    if (!targetVersion) {
-        throw new Error("Usage: npm run compare -- <target-version> [--write]");
+    const [targetVersion, sourcesArgument, ...options] = process.argv.slice(2);
+    if (!targetVersion || !sourcesArgument) {
+        throw new Error(
+            "Usage: npm run compare -- <target-version> <sources-directory> [--write]",
+        );
     }
 
     if (!versionNamePattern.test(targetVersion)) {
@@ -278,50 +399,97 @@ function main(): void {
         throw new Error(`Target version directory does not exist: ${targetDirectory}`);
     }
 
+    const sourcesDirectory = path.resolve(sourcesArgument);
+    for (const source of sources) {
+        const sourcePath = path.join(sourcesDirectory, source);
+        if (!fs.existsSync(sourcePath)) {
+            throw new Error(`Required source file does not exist: ${sourcePath}`);
+        }
+    }
+
     const olderVersions = findOlderVersions(repositoryRoot, targetVersion);
     if (olderVersions.length === 0) {
         throw new Error(`No older version directories found for ${targetVersion}`);
     }
 
-    const olderNames = collectOlderDefinitionNames(repositoryRoot, olderVersions);
-    const targetNames = loadDefinitionNames(targetDirectory);
-    const newComparedToOlder: ParsedDefinition[] = [];
-
+    const olderDefinitions = collectEffectiveOlderDefinitions(repositoryRoot, olderVersions);
+    const targetDefinitions = loadDefinitions(targetDirectory);
+    const sourceDefinitions = createDefinitionMaps();
     for (const source of sources) {
-        const sourcePath = path.join(targetDirectory, "sources", source);
-        if (!fs.existsSync(sourcePath)) {
-            throw new Error(`Required source file does not exist: ${sourcePath}`);
+        addSourceDefinitions(
+            sourceDefinitions,
+            parseSource(path.join(sourcesDirectory, source), source),
+        );
+    }
+
+    const additions: ParsedDefinition[] = [];
+    const removals: Array<{ category: Category; definition: Definition }> = [];
+    const changes: ChangedDefinition[] = [];
+
+    for (const category of categories) {
+        const previousDefinitions = olderDefinitions.get(category) ?? new Map<string, Definition>();
+        const currentDefinitions = sourceDefinitions.get(category) ?? new Map<string, Definition>();
+
+        for (const [name, current] of currentDefinitions) {
+            const previous = previousDefinitions.get(name);
+            if (!previous) {
+                additions.push({ category, definition: current });
+            } else if (!definitionsMatch(category, previous, current)) {
+                changes.push({ category, previous, current });
+            }
         }
 
-        for (const parsed of parseSource(sourcePath, source)) {
-            if (!olderNames.get(parsed.category)?.has(parsed.definition.name)) {
-                newComparedToOlder.push(parsed);
+        for (const [name, previous] of previousDefinitions) {
+            if (!currentDefinitions.has(name)) {
+                removals.push({ category, definition: previous });
             }
         }
     }
 
-    const missingTargetDefinitions = newComparedToOlder.filter(
-        (parsed) => !targetNames.get(parsed.category)?.has(parsed.definition.name),
+    const additionsRequiringTargetUpdate = additions.filter(
+        ({ category, definition }) => {
+            const targetDefinition = targetDefinitions.get(category)?.get(definition.name);
+            return !targetDefinition || !definitionsMatch(category, targetDefinition, definition);
+        },
     );
+    const changedDefinitions = changes.map(({ category, current }) => ({
+        category,
+        definition: current,
+    }));
 
     console.log(`Target version: ${targetVersion}`);
+    console.log(`Sources directory: ${sourcesDirectory}`);
     console.log(`Older versions: ${olderVersions.join(", ")}`);
-    console.log(`New declarations versus older definitions: ${newComparedToOlder.length}`);
-    console.log(`Definitions missing from ${targetVersion}: ${missingTargetDefinitions.length}`);
+    printSummary("Additions versus older definitions", additions);
+    printSummary("Removals versus older definitions", removals);
+    printSummary("Changed definitions versus older definitions", changedDefinitions);
+    console.log(
+        `Added definitions requiring target update: ${additionsRequiringTargetUpdate.length}`,
+    );
 
-    for (const category of categories) {
-        const definitions = missingTargetDefinitions.filter(
-            (parsed) => parsed.category === category,
-        );
-        if (definitions.length > 0) {
-            console.log(`${category}: ${definitions.map((parsed) => parsed.definition.name).join(", ")}`);
-        }
+    if (!options.includes("--write")) {
+        return;
     }
 
-    if (options.includes("--write") && missingTargetDefinitions.length > 0) {
-        writeDefinitions(repositoryRoot, targetVersion, missingTargetDefinitions);
-        console.log(`Wrote ${missingTargetDefinitions.length} definitions.`);
-    }
+    const primaryDefinitionsWritten = writePrimaryDefinitions(
+        targetDirectory,
+        additions,
+        changes,
+        targetDefinitions,
+    );
+    const removalDefinitionsWritten = writeTrackingDefinitions(
+        targetDirectory,
+        "removals",
+        removals,
+    );
+    const changedDefinitionsWritten = writeTrackingDefinitions(
+        targetDirectory,
+        "changes",
+        changes.map(({ category, previous }) => ({ category, definition: previous })),
+    );
+    console.log(`Wrote ${primaryDefinitionsWritten} primary definitions.`);
+    console.log(`Wrote ${removalDefinitionsWritten} removal snapshots.`);
+    console.log(`Wrote ${changedDefinitionsWritten} change snapshots.`);
 }
 
 main();
