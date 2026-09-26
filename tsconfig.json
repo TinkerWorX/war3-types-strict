@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    // "moduleResolution": "node",
+    "moduleResolution": "node",
     "strict": true,
-    // "downlevelIteration": true
+    "downlevelIteration": true,
     "types": ["node"]
   },
   "files": ["build.ts", "comparison-parser.ts"]
