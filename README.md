@@ -18,13 +18,15 @@ All contributions are welcome and should be done in the json files, as these ser
 
 ## Comparing version sources
 
-Use the comparison parser to compare a version against an external source directory containing `blizzard.j`, `common.j`, and `common.ai`. Replace the example source path with your extracted Warcraft III scripts directory:
+When adding or updating a version, use the comparison parser to compare it against an external source directory containing `blizzard.j`, `common.j`, and `common.ai`. Replace the example source path with your extracted Warcraft III scripts directory:
 
 ```sh
 npm run compare -- 3.0.0 "C:\path\to\war3.w3mod\scripts"
 ```
 
-The command reports additions, removals, and changed declarations without modifying files. Pass `--write` to add missing definitions, update changed target definitions, and record previous definitions in `removals/<category>` or `changes/<category>` only when the respective differences exist:
+The command reports additions, removals, and changed declarations without modifying files. Pass `--write` only when updating the tracked definitions: it adds missing definitions, updates changed target definitions, and reconciles previous-definition snapshots in `removals/<category>` and `changes/<category>`.
+
+The build generator applies removal snapshots so declarations removed from a version are not inherited from earlier versions.
 
 ```sh
 npm run compare -- 3.0.0 "C:\path\to\war3.w3mod\scripts" --write

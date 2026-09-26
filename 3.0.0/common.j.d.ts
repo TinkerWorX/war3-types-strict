@@ -4908,14 +4908,6 @@ declare function MathRound(r: number): number;
 
 declare function ParseTags(taggedString: string): string | undefined;
 
-declare function RequestExtraBooleanData(dataType: number, whichPlayer: player, param1: string, param2: string, param3: boolean, param4: number, param5: number, param6: number): boolean;
-
-declare function RequestExtraIntegerData(dataType: number, whichPlayer: player, param1: string, param2: string, param3: boolean, param4: number, param5: number, param6: number): number;
-
-declare function RequestExtraRealData(dataType: number, whichPlayer: player, param1: string, param2: string, param3: boolean, param4: number, param5: number, param6: number): number;
-
-declare function RequestExtraStringData(dataType: number, whichPlayer: player, param1: string, param2: string, param3: boolean, param4: number, param5: number, param6: number): string | undefined;
-
 declare function SaveFrameHandle(table: hashtable, parentKey: number, childKey: number, whichFrameHandle: framehandle): boolean;
 
 declare function SaveGameCheckpoint(saveFileName: string, showWindow: boolean): void;

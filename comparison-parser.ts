@@ -325,8 +325,10 @@ function writePrimaryDefinitions(
     additions: ParsedDefinition[],
     changes: ChangedDefinition[],
     targetDefinitions: DefinitionMaps,
-): number {
+    unchangedDefinitions: ParsedDefinition[],
+): { written: number; removed: number } {
     let written = 0;
+    let removed = 0;
 
     for (const { category, definition } of additions) {
         const targetDefinition = targetDefinitions.get(category)?.get(definition.name);
@@ -348,7 +350,20 @@ function writePrimaryDefinitions(
         written++;
     }
 
-    return written;
+    for (const { category, definition } of unchangedDefinitions) {
+        const targetDefinition = targetDefinitions.get(category)?.get(definition.name);
+        if (!targetDefinition || definitionsMatch(category, targetDefinition, definition)) {
+            continue;
+        }
+
+        const targetPath = path.join(targetDirectory, category, `${definition.name}.json`);
+        if (fs.existsSync(targetPath)) {
+            fs.unlinkSync(targetPath);
+            removed++;
+        }
+    }
+
+    return { written, removed };
 }
 
 function writeTrackingDefinitions(
@@ -447,6 +462,7 @@ function main(): void {
     const additions: ParsedDefinition[] = [];
     const removals: Array<{ category: Category; definition: Definition }> = [];
     const changes: ChangedDefinition[] = [];
+    const unchangedDefinitions: ParsedDefinition[] = [];
 
     for (const category of categories) {
         const previousDefinitions = olderDefinitions.get(category) ?? new Map<string, Definition>();
@@ -458,6 +474,8 @@ function main(): void {
                 additions.push({ category, definition: current });
             } else if (!definitionsMatch(category, previous, current)) {
                 changes.push({ category, previous, current });
+            } else {
+                unchangedDefinitions.push({ category, definition: current });
             }
         }
 
@@ -493,11 +511,12 @@ function main(): void {
         return;
     }
 
-    const primaryDefinitionsWritten = writePrimaryDefinitions(
+    const primaryDefinitionResult = writePrimaryDefinitions(
         targetDirectory,
         additions,
         changes,
         targetDefinitions,
+        unchangedDefinitions,
     );
     const removalTrackingResult = writeTrackingDefinitions(
         targetDirectory,
@@ -509,7 +528,9 @@ function main(): void {
         "changes",
         changes.map(({ category, previous }) => ({ category, definition: previous })),
     );
-    console.log(`Wrote ${primaryDefinitionsWritten} primary definitions.`);
+    console.log(
+        `Wrote ${primaryDefinitionResult.written} primary definitions and removed ${primaryDefinitionResult.removed} stale overrides.`,
+    );
     console.log(
         `Wrote ${removalTrackingResult.written} removal snapshots and removed ${removalTrackingResult.removed} obsolete snapshots.`,
     );
