@@ -1,0 +1,15 @@
+{
+  "name": "BlzSetTerrainFogZEnd",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "ZEnd",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

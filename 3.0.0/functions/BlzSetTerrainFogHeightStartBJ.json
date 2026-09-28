@@ -1,0 +1,15 @@
+{
+  "name": "BlzSetTerrainFogHeightStartBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "heightStart",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

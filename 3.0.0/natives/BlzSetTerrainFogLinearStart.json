@@ -1,0 +1,15 @@
+{
+  "name": "BlzSetTerrainFogLinearStart",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "linearStart",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

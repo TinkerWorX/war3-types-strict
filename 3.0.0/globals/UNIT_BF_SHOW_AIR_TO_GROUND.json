@@ -1,0 +1,10 @@
+{
+  "name": "UNIT_BF_SHOW_AIR_TO_GROUND",
+  "description": null,
+  "isConstant": true,
+  "type": "unitbooleanfield",
+  "isArray": false,
+  "value": "ConvertUnitBooleanField('uatg')",
+  "isNullable": false,
+  "source": "common.j"
+}

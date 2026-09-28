@@ -1,0 +1,15 @@
+{
+  "name": "BlzSetHDWaterColorOverride",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "override",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

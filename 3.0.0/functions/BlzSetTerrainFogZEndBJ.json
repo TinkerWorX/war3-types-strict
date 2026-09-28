@@ -1,0 +1,15 @@
+{
+  "name": "BlzSetTerrainFogZEndBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "zEnd",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

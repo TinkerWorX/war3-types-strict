@@ -1,0 +1,10 @@
+{
+  "name": "RACE_PREF_FORSAKEN",
+  "description": null,
+  "isConstant": true,
+  "type": "racepreference",
+  "isArray": false,
+  "value": "ConvertRacePref(128)",
+  "isNullable": false,
+  "source": "common.j"
+}

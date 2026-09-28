@@ -1,0 +1,21 @@
+{
+  "name": "UnitHasItemEquipmentOfType",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichUnit",
+      "type": "unit",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "equipmentId",
+      "type": "equipmentType",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "common.j"
+}

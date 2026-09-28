@@ -1,0 +1,10 @@
+{
+  "name": "EQUIPMENT_LOADOUT_SLOT_CHEST",
+  "description": null,
+  "isConstant": true,
+  "type": "loadoutslot",
+  "isArray": false,
+  "value": "ConvertLoadoutSlot(1)",
+  "isNullable": false,
+  "source": "common.j"
+}

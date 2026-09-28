@@ -1,0 +1,15 @@
+{
+  "name": "IsKeyPressedBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "key",
+      "type": "oskeytype",
+      "isNullable": false
+    }
+  ],
+  "returns": "boolean",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

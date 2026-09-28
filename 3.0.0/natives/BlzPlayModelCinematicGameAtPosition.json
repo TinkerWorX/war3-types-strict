@@ -1,0 +1,39 @@
+{
+  "name": "BlzPlayModelCinematicGameAtPosition",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "modelName",
+      "type": "string",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "posX",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "posY",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "posZ",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "RotZ",
+      "type": "number",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "common.j"
+}

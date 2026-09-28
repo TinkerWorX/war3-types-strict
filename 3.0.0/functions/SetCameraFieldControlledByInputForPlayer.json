@@ -1,0 +1,27 @@
+{
+  "name": "SetCameraFieldControlledByInputForPlayer",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "whichPlayer",
+      "type": "player",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "whichField",
+      "type": "camerafield",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "controlled",
+      "type": "boolean",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

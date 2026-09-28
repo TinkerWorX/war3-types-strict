@@ -52,6 +52,21 @@ const globals: Map<string, globalDeclaration> = new Map();
 const natives: Map<string, nativeDeclaration> = new Map();
 const functions: Map<string, functionDeclaration> = new Map();
 
+function applyVersionRemovals<T>(
+    versionDirectory: string,
+    category: string,
+    definitions: Map<string, T>,
+): void {
+    const removalsDirectory = path.join(versionDirectory, "removals", category);
+    if (!fs.existsSync(removalsDirectory)) return;
+
+    for (const entry of fs.readdirSync(removalsDirectory, { withFileTypes: true })) {
+        if (entry.isFile() && entry.name.endsWith(".json")) {
+            definitions.delete(path.basename(entry.name, ".json"));
+        }
+    }
+}
+
 const versions: Set<string> = new Set();
 for (let i = 2; i < process.argv.length; i++) {
     versions.add("./" + process.argv[i]);
@@ -67,6 +82,11 @@ for (const version of versions) {
         fs.readdirSync(path.join(version, "natives")).forEach(file => { natives.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "natives", file)).toString())) });
     if (fs.existsSync(path.join(version, "functions")))
         fs.readdirSync(path.join(version, "functions")).forEach(file => { functions.set(file.replace(".json", ""), JSON.parse(fs.readFileSync(path.join(version, "functions", file)).toString())) });
+
+    applyVersionRemovals(version, "types", types);
+    applyVersionRemovals(version, "globals", globals);
+    applyVersionRemovals(version, "natives", natives);
+    applyVersionRemovals(version, "functions", functions);
 
     const stream = fs.createWriteStream(version + ".d.ts");
     stream.write(`/// <reference path="./compat.d.ts" />\n`);

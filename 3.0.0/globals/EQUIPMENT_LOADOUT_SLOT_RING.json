@@ -1,0 +1,10 @@
+{
+  "name": "EQUIPMENT_LOADOUT_SLOT_RING",
+  "description": null,
+  "isConstant": true,
+  "type": "loadoutslot",
+  "isArray": false,
+  "value": "ConvertLoadoutSlot(4)",
+  "isNullable": false,
+  "source": "common.j"
+}

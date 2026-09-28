@@ -1,0 +1,10 @@
+{
+  "name": "FOG_STYLE_HEIGHT",
+  "description": null,
+  "isConstant": true,
+  "type": "fogstyle",
+  "isArray": false,
+  "value": "ConvertFogStyle(3)",
+  "isNullable": false,
+  "source": "common.j"
+}

@@ -1,0 +1,6 @@
+{
+  "description": null,
+  "name": "loadoutslot",
+  "extends": "handle",
+  "source": "common.j"
+}

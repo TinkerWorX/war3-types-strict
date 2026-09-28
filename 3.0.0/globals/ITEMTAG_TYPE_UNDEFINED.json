@@ -1,0 +1,10 @@
+{
+  "name": "ITEMTAG_TYPE_UNDEFINED",
+  "description": null,
+  "isConstant": true,
+  "type": "itemTag",
+  "isArray": false,
+  "value": "ConvertItemTag(0)",
+  "isNullable": false,
+  "source": "common.j"
+}

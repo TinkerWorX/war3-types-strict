@@ -1,0 +1,33 @@
+{
+  "name": "SetDoodadColorBJ",
+  "description": null,
+  "takes": [
+    {
+      "description": null,
+      "name": "color",
+      "type": "playercolor",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "doodadID",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "radius",
+      "type": "number",
+      "isNullable": false
+    },
+    {
+      "description": null,
+      "name": "center",
+      "type": "location",
+      "isNullable": false
+    }
+  ],
+  "returns": "void",
+  "isNullable": false,
+  "source": "blizzard.j"
+}

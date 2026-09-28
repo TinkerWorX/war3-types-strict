@@ -1,0 +1,10 @@
+{
+  "name": "METAKEY_WINKEYS",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "8",
+  "isNullable": false,
+  "source": "common.j"
+}

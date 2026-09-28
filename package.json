@@ -1,11 +1,12 @@
 {
   "name": "war3-types-strict",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Definitions for common.j, Blizzard.j and common.ai, designed for strict TypeScript.",
   "author": "Nikolaj 'William' Mariager",
   "license": "MIT",
   "scripts": {
-    "build": "ts-node build.ts 1.29.2 1.32.10 1.33.0",
+    "build": "ts-node build.ts 1.29.2 1.32.10 1.33.0 3.0.0",
+    "compare": "ts-node comparison-parser.ts",
     "prepublishOnly": "npm run build"
   },
   "dependencies": {

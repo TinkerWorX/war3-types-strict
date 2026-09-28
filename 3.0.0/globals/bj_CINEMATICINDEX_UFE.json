@@ -1,0 +1,10 @@
+{
+  "name": "bj_CINEMATICINDEX_UFE",
+  "description": null,
+  "isConstant": true,
+  "type": "number",
+  "isArray": false,
+  "value": "12",
+  "isNullable": false,
+  "source": "blizzard.j"
+}
